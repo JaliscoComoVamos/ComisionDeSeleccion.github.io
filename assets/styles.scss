@@ -56,9 +56,6 @@ body {
   background: $featureBackgroundColour;
   background-size: cover;
   background-position: center; 
-  .logo {
-    @include flex(0 0 auto);
-  }
   .container {
     min-height: 35vh;
     max-width: 60%;
@@ -81,7 +78,7 @@ body {
 
 
 
-.nav {
+.nav {    
   a {
     padding: .2rem;
   }
