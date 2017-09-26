@@ -52,9 +52,13 @@ body {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;
+  font-variant: small-caps;
   background: $featureBackgroundColour;
   background-size: cover;
-  background-position: center;
+  background-position: center; 
+  .logo {
+    @include flex(0 0 auto);
+  }
   .container {
     min-height: 35vh;
     max-width: 60%;
@@ -74,6 +78,9 @@ body {
   }
 }
 
+
+
+
 .nav {
   a {
     padding: .2rem;
@@ -91,10 +98,10 @@ body {
 }
 
 .footer {
-  background: $headingColour;
-  color: $captionColour;
+  background: #404040;
+  color: #404040;
   a {
-    color: $captionColour;
+    color: $backgroundColour;
     &:hover {
       color: $backgroundColour;
     }
