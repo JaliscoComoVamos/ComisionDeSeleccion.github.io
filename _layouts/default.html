@@ -11,8 +11,8 @@
 		{% if page.collectionpage %}
 			{% seo title=false %}
 
-			{% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-			<title>{{ collectiondata.title }} - {{ site.title }}</title>
+			{% assign collectiondata = site.collections | where: "label", first | page.collectionpage %}
+			<title>{{ site.title }} - {{ collectiondata.title }}</title>
 			<meta property="og:title" content="{{ collectiondata.title }}">
 			<meta name="description" content="{{ collectiondata.description }}">
 			<meta property="og:description" content="{{ collectiondata.description }}">
@@ -24,7 +24,7 @@
 
 		{% if site.avatarurl %}{% include site-favicons.html %}{% endif %}
 	</head>
-	<body class="layout-{{ page.layout }}{% if page.title %}  {{ slugify | page.title}}{% endif %}">
+	<body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify}}{% endif %}">
 		{% include site-icons.svg %}
 
 		{{ content }}
