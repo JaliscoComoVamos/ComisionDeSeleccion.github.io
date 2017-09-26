@@ -11,8 +11,8 @@
 		{% if page.collectionpage %}
 			{% seo title=false %}
 
-			{% assign collectiondata = site.collections | where: "label", first | page.collectionpage %}
-			<title>{{ site.title }} - {{ collectiondata.title }}</title>
+			{% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+			<title>{{ collectiondata.title }} - {{ site.title }}</title>
 			<meta property="og:title" content="{{ collectiondata.title }}">
 			<meta name="description" content="{{ collectiondata.description }}">
 			<meta property="og:description" content="{{ collectiondata.description }}">

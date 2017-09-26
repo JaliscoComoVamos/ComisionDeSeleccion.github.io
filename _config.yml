@@ -68,7 +68,7 @@ lang: es-MX # Set the site language
 title: "Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco" 
         # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Descripción" 
+description: "" 
         # Site description and default description, also used in jekyll-seo-tag
 url: "https://jaliscocomovamos.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
