@@ -19,6 +19,11 @@ Somos...
 - Comisión de Selección del SEA Tamaulipas [(Facebook)](https://www.facebook.com/csseatamaulipas)
 
 
+## La ruta hasta ahora  
+
+{% include figure.html image="/assets/linea-de-tiempo.png" %}
+
+
 ## #JaliscoSinCorrupción
 
 <a class="twitter-timeline"  href="https://twitter.com/hashtag/JaliscoSinCorrupci%C3%B3n" data-widget-id="912596166822436865">Tweets sobre #JaliscoSinCorrupción</a>
