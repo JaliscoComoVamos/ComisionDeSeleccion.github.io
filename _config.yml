@@ -72,8 +72,8 @@ description: "Descripción"
         # Site description and default description, also used in jekyll-seo-tag
 url: "https://jaliscocomovamos.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/jaliscocomovamos/JaliscoSinCorrupcion"
-avatarurl: "/assets/logo.svg"
+repo: "https://github.com/jaliscocomovamos/jaliscocomovamos.github.io"
+avatarurl: "https://jaliscocomovamos.github.io/assets/logo.svg"
 
 # 8. Site navigation
 navigation_header:
