@@ -73,7 +73,7 @@ description: "Descripción"
 url: "https://jaliscocomovamos.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/jaliscocomovamos/jaliscocomovamos.github.io"
-avatarurl: "https://jaliscocomovamos.github.io/assets/logo.svg"
+avatarurl: "https://jaliscocomovamos.github.io/assets/logo.png"
 
 # 8. Site navigation
 navigation_header:
