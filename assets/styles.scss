@@ -20,6 +20,7 @@ body {
     display: flex;
     @include flex-direction(column);
     overflow-x: hidden;
+    padding-top: 100px;
 }
 
 .container {
@@ -76,7 +77,6 @@ body {
 }
 
 .feature {
-  margin-top: 4rem;
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;
