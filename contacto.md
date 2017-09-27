@@ -1,5 +1,5 @@
 ---
-feature_text:  
+feature_text: |
    # Contacto
    Ejemplo
 feature_image: "https://unsplash.it/1300/400?image=1061"
@@ -23,6 +23,7 @@ Texto
 
 ### Icon include
 
-{% include icon.html id="twitter" %} [{% include icon.html id="linkedin" %}](https://www.linkedin.com/in/daviddarnes)
+{% include icon.html id="twitter" %} [{% include icon.html id="facebook" %}](https://www.facebook.com)
+
 
 
