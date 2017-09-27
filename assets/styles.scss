@@ -12,13 +12,14 @@ title: false
 
 
 // Structural elements
+
 body {
-  background: $backgroundColour;
-  color: $bodyColour;
-  height: 100%;
-  display: flex;
-  @include flex-direction(column);
-  overflow-x: hidden;
+    background: $backgroundColour;
+    color: $bodyColour;
+    height: 100%;
+    display: flex;
+    @include flex-direction(column);
+    overflow-x: hidden;
 }
 
 .container {
@@ -29,7 +30,33 @@ body {
 
 
 // Header, feature and footer
-.header,
+.header {
+    .nav2 {
+    top: 0;
+    width: 100%;
+    position: fixed;
+    background-color: $backgroundColour;
+    box-shadow: 0 5px 6px -6px;
+  }
+    .nav {
+    text-align: right;
+  }
+    .logo {
+    @include flex(0 0 auto);
+  }
+  .container {
+    width: 90%;
+    min-height: 100px;
+    @include flexbox;
+    @include flex-direction(row);
+    @include justify-content(space-between);
+    padding: 1rem 0;
+    @include breakpoint(break-1) {
+      @include align-items(center);
+    }
+  }
+}
+
 .footer {
   .nav {
     text-align: right;
@@ -49,6 +76,7 @@ body {
 }
 
 .feature {
+  margin-top: 4rem;
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;

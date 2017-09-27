@@ -77,13 +77,12 @@ avatarurl: "/assets/logo.ico"
 
 # 8. Site navigation
 navigation_header:
-  Acerca de: /
   Quiénes Somos: /elements/
-  Convocatoria: /blog/
-  Noticias: /categories/
-  Calendario: /
-  Buscar: /search/
-  Contacto: /
+  Convocatoria: /convocatoria/
+  Reglas de Operación: /reglas/
+  Calendario: /calendario/
+  Preguntas Frecuentes: /preguntas/
+  Contacto: /contacto/
 
 navigation_footer:
   Created by Jalisco Cómo Vamos: http://jaliscocomovamos.org/
