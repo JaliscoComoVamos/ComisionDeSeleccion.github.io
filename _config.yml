@@ -71,7 +71,7 @@ logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "" 
         # Site description and default description, also used in jekyll-seo-tag
 url: "https://jaliscocomovamos.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "https://jaliscocomovamos.github.io"
+baseurl: ""
 repo: "https://github.com/jaliscocomovamos/jaliscocomovamos.github.io"
 avatarurl: "/assets/logo.png"
 
