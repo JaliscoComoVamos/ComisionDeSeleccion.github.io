@@ -23,7 +23,8 @@ Texto
 
 ### Icon include
 
-{% include icon.html id="twitter" %} [{% include icon.html id="facebook" %}](https://www.facebook.com)
+[{% include icon.html id="twitter" %}](http://twitter.com) 
+{% include icon.html id="facebook" %}
 
 
 

@@ -20,13 +20,25 @@ body {
     display: flex;
     @include flex-direction(column);
     overflow-x: hidden;
-    padding-top: 100px;
+    padding-top: 105px;
 }
 
 .container {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
+}
+
+.outer {
+  width: 90%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 5px 0px 5px;
+}
+.outer > div {
+  padding: 0 0 0 5.1rem;
+  margin: 0 12px 0;
 }
 
 
@@ -86,9 +98,9 @@ body {
   background-position: center; 
   .container {
     min-height: 35vh;
-    max-width: 60%;
+    max-width: 90%;
     @include flex-direction(column);
-    @include justify-content(center);
+    @include justify-content(center)
   }
 }
 
@@ -102,7 +114,6 @@ body {
     max-height: 4rem;
   }
 }
-
 
 
 
@@ -241,25 +252,14 @@ body {
 }
 
 
-// Links, icons and images
-a .icon {
-  transition: fill .1s;
-  &:hover {
-    fill: currentColor;
-  }
-}
 
-.icon {
-  vertical-align: middle;
-  width: 1.1em;
-  height: 1.1em;
-  fill: CurrentColor;
-}
 
 // Media content
 img {
   max-width: 100%;
   height: auto;
+  display: inline-block; 
+  text-decoration: none;
 }
 
 .figure {
@@ -397,6 +397,7 @@ select {
   }
 }
 
+
 select {
   background: $codeBackgroundColour;
 }
@@ -422,16 +423,20 @@ pre code {
 }
 
 ::-webkit-input-placeholder {
-  opacity: 0.5;
+  opacity: 1;
+  color: #909090;
 }
 ::-moz-placeholder {
-  opacity: 0.5;
+  opacity: 1;
+  color: #909090;
 }
 :-ms-input-placeholder {
-  opacity: 0.5;
+  opacity: 1;
+  color: #909090;
 }
 :-moz-placeholder {
-  opacity: 0.5;
+  opacity: 1;
+  color: #909090;
 }
 
 ::selection {
@@ -439,6 +444,27 @@ pre code {
   color: $backgroundColour;
   text-shadow: none;
 }
+
+
+// Links, icons and images
+
+.icon {
+  vertical-align: middle;
+  display: inline-block; 
+  width: 1.1em;
+  height: 1.1em;
+  fill: CurrentColor;
+}
+
+a .svg , 
+a .icon,
+a > svg,
+a > icon {
+  display: inline-block; 
+  text-decoration: none;
+}
+
+
 
 
 // Sassline overrides
@@ -475,3 +501,4 @@ pre code {
     overflow-x: scroll;
   }
 }
+

@@ -1,4 +1,5 @@
 {% assign feature_text = page.feature_text %}
+{% assign main_page = page.main_page %}
 {% assign feature_image = page.feature_image %}
 {% if page.collectionpage %}
   {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
@@ -6,7 +7,22 @@
   {% assign feature_image = collectiondata.feature_image %}
 {% endif %}
 
-{% if feature_text or feature_image %}
+
+{% if main_page %} 
+
+	
+  <div class="feature">
+<div class="outer">
+<div>
+    	{% include figure.html image="/assets/logo-2.png" %}
+    	  </div>
+      <div class="container  typeset">
+        {{ feature_text | markdownify }}
+      </div>  </div>
+  </div>
+
+
+{% elsif feature_text or feature_image %}
   <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
       <div class="container  typeset">
         {{ feature_text | markdownify }}
