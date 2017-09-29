@@ -1,9 +1,9 @@
 ---
+title: ""
 feature_text: |
   # CALENDARIO
 ---
 
-<div style="overflow-x:auto;">
 <table><tbody>
 	<tr><th></th><th><b>ACTIVIDADES</b></th><th><b>FECHAS</b></th></tr>
 	<tr><td><b>1</b></td><td>Emisión de Convocatoria</td><td>2 de octubre 8:00 horas</td></tr>
@@ -15,4 +15,3 @@ feature_text: |
 	<tr><td><b>7</b></td><td>Sesión: Deliveración 9 mejores</td><td>30 y 31 de octubre</td></tr>
 	<tr><td><b>8</b></td><td>Sesión: Deliveración 5 miembros del Comité de Paricipación Social</td><td>31 de octubre y 1ro de noviembre</td></tr>
 </tbody></table>
-</div>
