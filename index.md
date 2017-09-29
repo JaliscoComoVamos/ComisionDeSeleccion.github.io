@@ -1,9 +1,7 @@
 ---
 main_page : true
-feature_text: |
-   # COMISIÓN DE SELECCIÓN
-   ### SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO
 excerpt: "La Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco es..."
+feature_image: "/assets/logo.svg"
 ---
 
 La Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco es...
