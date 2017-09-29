@@ -7,7 +7,7 @@ $accentColour: #E79789;
 // Text colours
 $headingColour: #82D4DA;
 $bodyColour: #555555;
-$linkColour: #05bf85;
+$linkColour: #E79789;
 $hoverColour: #008000;
 $focusColour: #fa407a;
 $captionColour: #aaaaaa;
@@ -22,15 +22,9 @@ $bodytype: (
   cap-height: 0.75
 );
 
-$headingtypelogo: (
-  font-family: '"Karla", sans-serif',
-  regular: 400,
-  bold: 700,
-  cap-height: 1
-);
 
 $headingtype: (
-  font-family: '"Space+Mono", sans-serif',
+  font-family: '"Space Mono", sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75

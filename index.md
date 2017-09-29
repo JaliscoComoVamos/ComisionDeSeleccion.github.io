@@ -9,12 +9,12 @@ excerpt: "La Comisión de Selección del Sistema Anticorrupción del Estado de J
 La Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco es...
 
 
-## Quiénes Somos  
+## QUIÉNES SOMOS 
 
 Somos...
 
 
-## Sitios de interés
+## SITIOS DE INTERÉS
 
 - [Comisión de Selección del Sistema Nacional Anticorrupción](http://comisionsna.mx/)
 - [Comisión de Selección del SEA Puebla](http://comisionseapuebla.org/)

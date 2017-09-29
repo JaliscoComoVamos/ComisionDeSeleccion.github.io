@@ -69,7 +69,7 @@ a {
 
   // Heading level 1.
   h1, .alpha {
-    @include sassline($fontsize: alpha, $font: $headingtypelogo, $lineheight: 2, $below: 1, $breakpoint: all);
+    @include sassline($fontsize: alpha, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
   }
 
   // Heading level 2.
@@ -231,7 +231,8 @@ a {
       
 
       tr:nth-child(odd) {background-color: #f2f2f2; }
-      th, td {padding: 6px; }
+      th, td { padding: 6px; }
+      td { font-family: unquote(map-get($bodytype, font-family)); }
       
     
   }

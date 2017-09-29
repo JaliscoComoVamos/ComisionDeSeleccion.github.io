@@ -238,7 +238,6 @@ body {
     @include breakpoint(break-1) {
       margin-left: .4rem;
       display: inline-block;
-      font-family: unquote(map-get($headingtype, font-family));
     }
     &:first-of-type {
       margin-left: 0;
