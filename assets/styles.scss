@@ -448,12 +448,21 @@ pre code {
 
 // Links, icons and images
 
-.icon {
+.icon, 
+a .icon, 
+icon {
   vertical-align: middle;
   display: inline-block; 
   width: 1.1em;
   height: 1.1em;
   fill: CurrentColor;
+  background-image: none;
+  text-shadow: none;
+    &:hover,
+    &:active,
+    &:focus {
+      background-image: none; }
+
 }
 
 
@@ -474,22 +483,23 @@ pre code {
     }
   }
 
-  .a .icon,
-  .icon a,
-  a icon,
-  .a icon,
-  icon .a,
-  a .svg,
-  .svg a {
+  .icon, 
+  a .icon, 
+  icon 
+  a icon {
+    vertical-align: middle;
+    display: inline-block; 
+    width: 1.1em;
+    height: 1.1em;
+    fill: CurrentColor;
     background-image: none;
     text-shadow: none;
-    color: $backgroundColour;
-    &:hover,
-    &:active,
-    &:focus {
-      background-image: none;
-      color: $backgroundColour;
-    }
+      &:hover,
+      &:active,
+      &:focus {
+        background-image: none;
+        text-shadow: none; }
+
   }
 
 
