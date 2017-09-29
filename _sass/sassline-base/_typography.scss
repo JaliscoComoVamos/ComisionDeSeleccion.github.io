@@ -220,14 +220,23 @@ a {
     font-weight: map-get($headingtype, regular);
     width: 100%;
 
+
     thead {
 
       th {
         @include sassline(zeta, $headingtype, 2, 0, all);
         padding-bottom: 1px;
-      }
-    }
+        background-color: $headingColour;
+        color: $backgroundColour;
+
+      }}
+
+      tr:nth-child(even) {background-color: #f2f2f2}
+      
+    
   }
+
+
 
   // Bold.
   b, strong, .bold {
