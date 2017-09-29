@@ -77,7 +77,7 @@ avatarurl: "/assets/logo.ico"
 
 # 8. Site navigation
 navigation_header:
-  Quiénes Somos: /somos/
+  Quiénes Somos: /
   Convocatoria: /convocatoria/
   Estatuto: /estatuto/
   Calendario: /calendario/

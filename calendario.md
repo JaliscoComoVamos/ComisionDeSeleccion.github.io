@@ -1,7 +1,6 @@
 ---
 feature_text: |
   # CALENDARIO
-feature_image: "https://unsplash.it/1300/400?image=971"
 ---
 
 <div style="overflow-x:auto;">
