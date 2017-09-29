@@ -1,11 +1,11 @@
 // Background colours
 $backgroundColour: #ffffff;
 $codeBackgroundColour: #f4f4f4;
-$featureBackgroundColour: #a5a5a5;
-$accentColour: #05bf85;
+$featureBackgroundColour: #E8E9E8;
+$accentColour: #E79789;
 
 // Text colours
-$headingColour: #fc266b;
+$headingColour: #82D4DA;
 $bodyColour: #555555;
 $linkColour: #05bf85;
 $hoverColour: #008000;
@@ -15,15 +15,22 @@ $white: #ffffff;
 
 // Typography
 $bodytype: (
-  font-family: 'Garamond, serif',
+  font-family: 'Karla, sans-serif',
   regular: 400,
   bold: 700,
   italic: italic,
   cap-height: 0.75
 );
 
+$headingtypelogo: (
+  font-family: '"Karla", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 1
+);
+
 $headingtype: (
-  font-family: '"Montserrat", sans-serif',
+  font-family: '"Space+Mono", sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
@@ -36,4 +43,5 @@ $monospacetype: (
 );
 
 // Font import, if you're using a non-standard web font
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+@import url('https://fonts.googleapis.com/css?family=Space+Mono:400,700');
