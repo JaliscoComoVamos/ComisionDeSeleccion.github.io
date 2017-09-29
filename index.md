@@ -46,8 +46,12 @@ Respaldada por el Consejo Agropecuario de Jalisco
 Empresario en el ramo de materiales poliméricos. Fundador de Productos Rivial S.A. de C.V.  
 Respaldado por la Cámara de Comercio de Guadalajara
 
+<p>
+</p>
+<p>
+</p>
 
-## COMISIONES EN OTRAS PARTES DE LA REPUBLICA
+#### COMISIONES EN OTRAS PARTES DE LA REPUBLICA
 
 - [Comisión de Selección del Sistema Nacional Anticorrupción](http://comisionsna.mx/)
 - [Comisión de Selección del SEA Puebla](http://comisionseapuebla.org/)
