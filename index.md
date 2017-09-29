@@ -2,6 +2,7 @@
 main_page : true
 excerpt: "La Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco es..."
 feature_image: "/assets/logo.svg"
+title: ""
 ---
 
 ## QUIÉNES SOMOS  
