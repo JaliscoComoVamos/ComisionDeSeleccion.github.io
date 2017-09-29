@@ -221,7 +221,7 @@ a {
     width: 100%;
 
 
-    thead {
+    
 
       th {
         @include sassline(zeta, $headingtype, 2, 0, all);
@@ -229,9 +229,10 @@ a {
         background-color: $headingColour;
         color: $backgroundColour;
       }
-      }
+      
 
-      tr:nth-child(even) {background-color: #f2f2f2}
+      tr:nth-child(odd) {background-color: #f2f2f2; }
+      th, td {padding: 6px; }
       
     
   }
