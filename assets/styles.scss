@@ -58,12 +58,13 @@ body {
   }
     .logo {
     @include flex(0 0 auto);
-    img { min-height: 10.5vh }
+    img { min-height: 10.5vh };
+    padding: 0.15rem 0 0 0;
   }
   .container {
     width: 90%;
     padding: 0.35rem;
-    min-height: 11vh;
+    min-height: 11.5vh;
     @include flexbox;
     @include flex-direction(row);
     @include justify-content(space-between);
