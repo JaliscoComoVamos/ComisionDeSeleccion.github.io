@@ -62,7 +62,7 @@ body {
   }
   .container {
     width: 90%;
-    padding: 0.25rem;
+    padding: 0.1rem;
     min-height: 11vh;
     @include flexbox;
     @include flex-direction(row);
