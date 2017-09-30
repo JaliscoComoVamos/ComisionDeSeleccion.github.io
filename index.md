@@ -14,35 +14,35 @@ La Comisión de Selección para el nombramiento de los integrantes del Comité d
 
 <div class="flex-grid-thirds">
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/fotonodisponible.jpg" width="220px"><p><b style="color: #82D4DA">JUAN GERARDO DE LA BORBOLLA RIVERO</b></p>  
-<p>Rector de la Universidad Panamericana Campus Guadalajara</p> </div></div>
+<p class="small">Rector de la Universidad Panamericana Campus Guadalajara</p> </div></div>
 
 <div class="col"><div style="text-align:center"><img class="img-circle" src="/fotos/RobertoArias.jpg" width="220px"><p><b style="color: #82D4DA">ROBERTO ARIAS DE LA MORA</b></p>
-<p>Secretario General del Colegio de Jalisco </p> </div></div>
+<p class="small">Secretario General del Colegio de Jalisco </p> </div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/fotonodisponible.jpg" width="220px"><p><b style="color: #82D4DA">MARA NADIEZHDA ROBLES VILLASEÑOR</b></p>  
-<p>Rectora del Centro Universitario de los Altos de la UDG </p> </div></div>
+<p class="small">Rectora del Centro Universitario de los Altos de la UDG </p> </div></div>
 </div><p>
 </p>
 <div class="flex-grid-thirds">
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/RaulErnestoQuintero.jpg" width="220px"><p><b style="color: #82D4DA">RAÚL ERNESTO QUINTERO PEÑA</b></p>  
-<p>Director administrativo de UTEG Centro Universitario </p> </div></div>
+<p class="small">Director administrativo de UTEG Centro Universitario </p> </div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/fotonodisponible.jpg" width="220px"><p><b style="color: #82D4DA">HÉCTOR MANUEL ROBLES IBARRÍA</b></p>  
-<p>Rector de la Universidad Enrique Díaz de León</p></div></div>
+<p class="small">Rector de la Universidad Enrique Díaz de León</p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/DiegoPetersenF.jpg" width="220px"><p><b style="color: #82D4DA">DIEGO PETERSEN FARAH</b></p>  
-<p>Periodista y columnista del diario El Informador  </p></div></div>
+<p class="small">Periodista y columnista del diario El Informador  </p></div></div>
 </div><p>
 </p>
 <div class="flex-grid-thirds">
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MarisaLazo.jpg" width="220px"><p><b style="color: #82D4DA">MARIA ISABEL LAZO CORVERA</b></p>  
-<p>Empresaria en el ramo de alimentos; Fundadora de Pastelerías Marisa  </p></div></div>
+<p class="small">Empresaria en el ramo de alimentos; Fundadora de Pastelerías Marisa  </p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px"><p><b style="color: #82D4DA">JOSEFINA ISABEL SEPULVEDA CAMPOS</b></p>  
-<p>Consejera de Coparmex Jalisco  </p></div></div>
+<p class="small">Consejera de Coparmex Jalisco  </p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/ReneRivial.jpg" width="220px"><p><b style="color: #82D4DA">RENÉ JUSTIN RIVIAL LEÓN</b></p>  
-<p>Empresario en el ramo de materiales poliméricos; Fundador de Productos Rivial S.A. de C.V.</p>
+<p class="small">Empresario en el ramo de materiales poliméricos; Fundador de Productos Rivial S.A. de C.V.</p>
 </div></div>
 </div>
 
