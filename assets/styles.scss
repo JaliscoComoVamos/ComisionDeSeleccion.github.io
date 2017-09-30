@@ -20,7 +20,7 @@ body {
     display: flex;
     @include flex-direction(column);
     overflow-x: hidden;
-    padding-top: 110px;
+    padding-top: 11vh;
 }
 
 .container {
@@ -35,7 +35,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 5px;
-  min-height: 510px;
+  min-height: 60vh;
 }
 .outer > div {
   padding: 0 0 0 5.1rem;
@@ -58,12 +58,12 @@ body {
   }
     .logo {
     @include flex(0 0 auto);
-    img { min-height: 100px }
+    img { min-height: 10vh }
   }
   .container {
     width: 90%;
     padding: 0.25rem;
-    min-height: 110px;
+    min-height: 11vh;
     @include flexbox;
     @include flex-direction(row);
     @include justify-content(space-between);
