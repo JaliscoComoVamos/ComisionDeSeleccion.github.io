@@ -112,6 +112,8 @@ feature_text: |
 
 <p><b>TERCERA.</b> De conformidad con lo establecido en el artículo 116 de la Ley General de Transparencia y Acceso a la Información Pública, los documentos señalados en los puntos 2, 5 y 7 serán tratados con el carácter de confidenciales. El resto de los documentos tendrá carácter público.</p>
 
+<p></p>
+
 <p><b>CUARTA.</b> Además de los requisitos indicados en el Artículo 34 de la Ley del Sistema Anticorrupción del Estado de Jalisco, la Comisión de Selección desarrollará una metodología para evaluar desde el punto de vista curricular que las y los candidatos cumplan con algunos de los siguientes criterios:</p>
 
 <ol>
@@ -173,7 +175,7 @@ Posteriormente, respecto de las y los candidatos que los cumplan, la Comisión h
 
 <p>La <b>Segunda Etapa</b> consistirá en la publicación de los nombres de las personas  seleccionadas y el calendario de entrevistas individuales con los candidatos.</p>
 
-<p>La <b>Tercera Etapa</b>b consistirá en una deliberación de la Comisión para seleccionar a los cinco integrantes del Comité de Participación Social del Sistema Estatal Anticorrupción.</p>
+<p>La <b>Tercera Etapa</b> consistirá en una deliberación de la Comisión para seleccionar a los cinco integrantes del Comité de Participación Social del Sistema Estatal Anticorrupción.</p>
 
 <p>La designación de las y los cinco candidatos y la asignación de los periodos de ejercicio que les corresponde, de conformidad con lo que establece la Ley del Sistema Estatal Anticorrupción, se harán en sesión pública. El resultado de esta sesión se comunicará de manera inmediata al Congreso del Estado de Jalisco.</p>
 

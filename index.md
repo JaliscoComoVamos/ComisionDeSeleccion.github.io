@@ -9,7 +9,8 @@ title: ""
 
 La Comisión de Selección para el nombramiento de los integrantes del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, se constituye por 9 ciudadanas y ciudadanos comprometidos con la vida pública de nuestra Entidad. Esta Comisión fue designada por el Congreso del Estado con fundamento en la Constitución Política de Jalisco y la Ley del Sistema Anticorrupción Local. Su labor fundamental será identificar, seleccionar y nombrar a quienes formarán el primer Comité de Participación Social del Sistema Estatal Anticorrupción, pieza vital para la sinergia entre la sociedad civil y el sector gobierno en las tareas de prevención, investigación y sanción de los actos de corrupción.  
 
-
+<p></p>
+<p></p>
 
 <b style="color: #82D4DA">JUAN GERARDO DE LA BORBOLLA RIVERO</b>  
 Rector de la Universidad Panamericana Campus Guadalajara  
@@ -50,7 +51,7 @@ Fundador de Productos Rivial S.A. de C.V.
 - [Comisión de Selección del Sistema Nacional Anticorrupción](http://comisionsna.mx/)
 - [Comisión de Selección del SEA Puebla](http://comisionseapuebla.org/)
 - [Comisión de Selección del SEA Guanajuato](http://comisiondeselecciongto.org/)
-- Comisión de Selección del SEA Tamaulipas [(Facebook)](https://www.facebook.com/csseatamaulipas)
+- Comisión de Selección del SEA Tamaulipas ([Facebook](https://www.facebook.com/csseatamaulipas))
 
 
 
