@@ -51,6 +51,7 @@ body {
     position: fixed;
     background-color: $backgroundColour;
     box-shadow: 0 5px 6px -6px;
+    z-index: 500;
   }
     .nav {
     text-align: right;
@@ -224,7 +225,7 @@ body {
   list-style: none;
   &--nav {
     overflow: hidden;
-
+    transition: .2s;
   }
   .item--post,
   .item--result,
@@ -519,4 +520,6 @@ icon {
     overflow-x: scroll;
   }
 }
+
+
 

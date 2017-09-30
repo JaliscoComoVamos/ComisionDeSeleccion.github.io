@@ -53,7 +53,7 @@ a {
 
   // Paragraphs. OpenType ligatures and oldstyle figures enabled if available.
   p {
-    @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 1.5, $below: 1, $breakpoint: all);
+    @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 1.5, $below: 0.75, $breakpoint: all);
 
     font-feature-settings: 'kern', 'onum', 'liga';
   }
@@ -98,6 +98,20 @@ a {
   }
 
   // Lists.
+
+  ol { counter-reset:yourCounter; }
+
+  ol li:not(.skip) {
+    counter-increment:yourCounter;
+    list-style:none;
+  }
+  
+  ol li:not(.skip):before {
+    content:counter(yourCounter) ".";
+  }
+
+      // above was added to avoid mis-numbering nested lists. -vfoss
+
   ul, ol {
     @include baseline(zeta, $bodytype, 2, 2, all);
 
@@ -110,8 +124,6 @@ a {
       }
 
       ol, ul {
-        padding-top: 1rem;
-        margin-bottom: 1rem;
         margin-left: 2rem;
       }
     }
@@ -125,13 +137,15 @@ a {
       counter-increment: top-level;
 
       &:before {
-        content: counter(top-level) '.';
+        content: counter(top-level) '. ';
         font-feature-settings: 'lnum', 'tnum';
         margin-left: -3rem;
         position: absolute;
         text-align: right;
         width: 2em;
+        margin-top: -0.3rem
       }
+      margin: 0.75rem 1rem;
 
       ul {
 
@@ -147,7 +161,7 @@ a {
               counter-increment: alt-level;
 
               &:before {
-                content: counter(alt-level) '.';
+                content: counter(alt-level) '. ';
               }
             }
           }
@@ -160,7 +174,7 @@ a {
           counter-increment: sub-level;
 
           &:before {
-            content: counter(top-level) '.' counter(sub-level);
+            content: counter(top-level) '. ' counter(sub-level);
           }
 
           ul {
@@ -179,7 +193,7 @@ a {
               counter-increment: sub-sub-level;
 
               &:before {
-                content: counter(top-level) '.' counter(sub-level) '.' counter(sub-sub-level);
+                content: counter(top-level) '. ' counter(sub-level) '. ' counter(sub-sub-level);
               }
             }
           }
@@ -187,6 +201,8 @@ a {
       }
     }
   }
+
+
 
   // Definition lists.
   dl {
@@ -373,5 +389,6 @@ a {
     font-feature-settings: 'onum', 'kern';
   }
 }
+
 
 

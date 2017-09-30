@@ -30,13 +30,15 @@ Rector de la Universidad Enrique Díaz de León
 Periodista y columnista del diario El Informador  
 
 <b style="color: #82D4DA">MARIA ISABEL LAZO CORVERA</b>  
-Empresaria en el ramo de alimentos. Fundadora de Pastelerías Marisa  
+Empresaria en el ramo de alimentos   
+Fundadora de Pastelerías Marisa  
 
 <b style="color: #82D4DA">JOSEFINA ISABEL SEPULVEDA CAMPOS</b>  
 Consejera de Coparmex Jalisco  
 
 <b style="color: #82D4DA">RENE JUSTIN RIVAL LEÓN</b>  
-Empresario en el ramo de materiales poliméricos. Fundador de Productos Rivial S.A. de C.V.  
+Empresario en el ramo de materiales poliméricos  
+Fundador de Productos Rivial S.A. de C.V.  
 
 <p>
 </p>
