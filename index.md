@@ -56,7 +56,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <p></p><div style="text-align:center">
 <hr style="width:70%"></div>
 <p></p><p></p>
-#### COMISIONES EN OTRAS PARTES DE LA REPUBLICA
+#### COMISIONES EN OTRAS PARTES DE LA REPÚBLICA
 
 - [Comisión de Selección del Sistema Nacional Anticorrupción](http://comisionsna.mx/)
 - [Comisión de Selección del SEA Puebla](http://comisionseapuebla.org/)
