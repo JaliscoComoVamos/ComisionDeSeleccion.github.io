@@ -60,11 +60,11 @@ body {
     @include flex(0 0 auto);
     img { min-height: 10.4vh;
     padding: 0.2rem 0 0.1rem 0; };
-    padding: 0.5rem 0 0.1rem 0;
+    padding: 0.55rem 0 0.1rem 0;
   }
   .container {
     width: 90%;
-    min-height: 11.7vh;
+    min-height: 11.8vh;
     @include flexbox;
     @include flex-direction(row);
     @include justify-content(space-between);
