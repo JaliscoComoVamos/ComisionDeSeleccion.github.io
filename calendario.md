@@ -11,7 +11,7 @@ feature_text: |
 	<tr><td><b>3</b></td><td><p>Cierre de Convocatoria</p></td><td><p>13 de octubre 16:00 horas</p></td></tr>
 	<tr><td><b>4</b></td><td><p>Reunión de la Comisión de Selección</p></td><td><p>16 de octubre 16:00 horas</p></td></tr>
 	<tr><td><b>5</b></td><td><p>Sesión: Deliberación 15 mejores</p></td><td><p>19 de octubre 16:00 horas</p></td></tr>
-	<tr><td><b>6</b></td><td><p>Entrevistas</p></td><td><p>23 y 24 todo el día</p></td></tr>
+	<tr><td><b>6</b></td><td><p>Entrevistas</p></td><td><p>23 y 24 de octubre todo el día</p></td></tr>
 	<tr><td><b>7</b></td><td><p>Sesión: Deliberación 9 mejores</p></td><td><p>30 y 31 de octubre</p></td></tr>
 	<tr><td><b>8</b></td><td><p>Sesión: Deliberación 5 miembros del Comité de Paricipación Social</p></td><td><p>31 de octubre y 1ro de noviembre</p></td></tr>
 </tbody></table>
