@@ -202,7 +202,7 @@ Posteriormente, respecto de las y los candidatos que los cumplan, la Comisión h
 
 <div style="text-align:center"><b>ATENTAMENTE  
 
-COMISIÓN DE SELECCIÍON PARA EL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO  </b>
+COMISIÓN DE SELECCÍON PARA EL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO  </b>
 <p></p>
 <p><b>Guadalajara, Jalisco a 2 de octubre de 2017</b></p>
 </div>
