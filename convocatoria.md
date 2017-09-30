@@ -206,4 +206,8 @@ COMISIÓN DE SELECCÍON PARA EL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANT
 <p></p>
 <p><b>Guadalajara, Jalisco a 2 de octubre de 2017</b></p>
 </div>
+<p></p>
+<p></p>
+
+Lee o descarga esta Convocatoria [en formato PDF]({{ site.url }}/documentos/ConvocatoriaCPSJalisco.pdf).
 
