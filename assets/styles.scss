@@ -59,12 +59,12 @@ body {
     .logo {
     @include flex(0 0 auto);
     img { min-height: 10.4vh;
-    padding: 0.1rem 0 0 0; };
-    padding: 0.5rem 0 0 0;
+    padding: 0.2rem 0 0.1rem 0; };
+    padding: 0.5rem 0 0.1rem 0;
   }
   .container {
     width: 90%;
-    min-height: 11.5vh;
+    min-height: 11.7vh;
     @include flexbox;
     @include flex-direction(row);
     @include justify-content(space-between);
