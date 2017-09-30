@@ -7,19 +7,21 @@ title: ""
 
 ## QUIÉNES SOMOS  
 
-La Comisión de Selección para el nombramiento de los integrantes del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, se constituye por 9 ciudadanas y ciudadanos comprometidos con la vida pública de nuestra Entidad. Esta Comisión fue designada por el Congreso del Estado con fundamento en la Constitución Política de Jalisco y la Ley del Sistema Anticorrupción Local. Su labor fundamental será identificar, seleccionar y nombrar a quienes formarán el primer Comité de Participación Social del Sistema Estatal Anticorrupción, pieza vital para la sinergia entre la sociedad civil y el sector gobierno en las tareas de prevención, investigación y sanción de los actos de corrupción.  
+La Comisión de Selección para el nombramiento de los integrantes del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, se constituye por 9 ciudadanas y ciudadanos comprometidos con la vida pública de nuestra Entidad.  
+
+Esta Comisión fue designada por el Congreso del Estado con fundamento en la Constitución Política de Jalisco y la Ley del Sistema Anticorrupción Local. Su labor fundamental será identificar, seleccionar y nombrar a quienes formarán el primer Comité de Participación Social del Sistema Estatal Anticorrupción, pieza vital para la sinergia entre la sociedad civil y el sector gobierno en las tareas de prevención, investigación y sanción de los actos de corrupción.  
 
 <p></p>
 <p></p>
 
 <div class="flex-grid-thirds">
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/fotonodisponible.jpg" width="220px"><p><b style="color: #82D4DA">JUAN GERARDO DE LA BORBOLLA RIVERO</b></p>  
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/JuanGerardoDeLaBorbolla.jpg" width="220px"><p><b style="color: #82D4DA">JUAN GERARDO DE LA BORBOLLA RIVERO</b></p>  
 <p class="small">Rector de la Universidad Panamericana Campus Guadalajara</p> </div></div>
 
 <div class="col"><div style="text-align:center"><img class="img-circle" src="/fotos/RobertoArias.jpg" width="220px"><p><b style="color: #82D4DA">ROBERTO ARIAS DE LA MORA</b></p>
 <p class="small">Secretario General del Colegio de Jalisco </p> </div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/fotonodisponible.jpg" width="220px"><p><b style="color: #82D4DA">MARA NADIEZHDA ROBLES VILLASEÑOR</b></p>  
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MaraRobles.png" width="220px"><p><b style="color: #82D4DA">MARA NADIEZHDA ROBLES VILLASEÑOR</b></p>  
 <p class="small">Rectora del Centro Universitario de los Altos de la UDG </p> </div></div>
 </div><p>
 </p>
@@ -27,7 +29,7 @@ La Comisión de Selección para el nombramiento de los integrantes del Comité d
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/RaulErnestoQuintero.jpg" width="220px"><p><b style="color: #82D4DA">RAÚL ERNESTO QUINTERO PEÑA</b></p>  
 <p class="small">Director administrativo de UTEG Centro Universitario </p> </div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/fotonodisponible.jpg" width="220px"><p><b style="color: #82D4DA">HÉCTOR MANUEL ROBLES IBARRÍA</b></p>  
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/HectorManuelRobles.png" width="220px"><p><b style="color: #82D4DA">HÉCTOR MANUEL ROBLES IBARRÍA</b></p>  
 <p class="small">Rector de la Universidad Enrique Díaz de León</p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/DiegoPetersenF.jpg" width="220px"><p><b style="color: #82D4DA">DIEGO PETERSEN FARAH</b></p>  

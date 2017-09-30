@@ -60,7 +60,7 @@ collections:
 defaults:
   -
     values:
-      image: "/assets/logo.png" # Default image for sharing
+      image: "/assets/logo-2.png" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right

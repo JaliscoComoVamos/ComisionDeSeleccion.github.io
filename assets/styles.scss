@@ -20,7 +20,7 @@ body {
     display: flex;
     @include flex-direction(column);
     overflow-x: hidden;
-    padding-top: 11vh;
+    padding-top: 11.5vh;
 }
 
 .container {
@@ -34,8 +34,8 @@ body {
   display:flex;
   justify-content: center;
   align-items: center;
-  padding: 5px;
-  min-height: 60vh;
+  padding-top: 15px;
+  min-height: 42vh;
 }
 .outer > div {
   padding: 0 0 0 5.1rem;
