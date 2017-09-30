@@ -1,15 +1,15 @@
 ---
 main_page : true
-excerpt: "La Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco es..."
+excerpt: "La Comisión de Selección para el nombramiento de los integrantes del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, se constituye por 9 ciudadanas y ciudadanos comprometidos con la vida pública de nuestra Entidad. Esta Comisión fue designada por el Congreso del Estado con fundamento en la Constitución Política de Jalisco y la Ley del Sistema Anticorrupción Local. Su labor fundamental será identificar, seleccionar y nombrar a quienes formarán el primer Comité de Participación Social del Sistema Estatal Anticorrupción, pieza vital para la sinergia entre la sociedad civil y el sector gobierno en las tareas de prevención, investigación y sanción de los actos de corrupción."
 feature_image: "/assets/logo.svg"
 title: ""
 ---
 
 ## QUIÉNES SOMOS  
 
-La Comisión de Selección para el nombramiento de los integrantes del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, se constituye por 9 ciudadanas y ciudadanos comprometidos con la vida pública de nuestra Entidad.  
-
-Esta Comisión fue designada por el Congreso del Estado con fundamento en la Constitución Política de Jalisco y la Ley del Sistema Anticorrupción Local. Su labor fundamental será identificar, seleccionar y nombrar a quienes formarán el primer Comité de Participación Social del Sistema Estatal Anticorrupción, pieza vital para la sinergia entre la sociedad civil y el sector gobierno en las tareas de prevención, investigación y sanción de los actos de corrupción.  
+<p style="text-align:justify">La Comisión de Selección para el nombramiento de los integrantes del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, se constituye por 9 ciudadanas y ciudadanos comprometidos con la vida pública de nuestra Entidad.  
+</p><p style="text-align:justify">
+Esta Comisión fue designada por el Congreso del Estado con fundamento en la Constitución Política de Jalisco y la Ley del Sistema Anticorrupción Local. Su labor fundamental será identificar, seleccionar y nombrar a quienes formarán el primer Comité de Participación Social del Sistema Estatal Anticorrupción, pieza vital para la sinergia entre la sociedad civil y el sector gobierno en las tareas de prevención, investigación y sanción de los actos de corrupción.</p> 
 
 <p></p>
 <p></p>
@@ -21,7 +21,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <div class="col"><div style="text-align:center"><img class="img-circle" src="/fotos/RobertoArias.jpg" width="220px"><p><b style="color: #82D4DA">ROBERTO ARIAS DE LA MORA</b></p>
 <p class="small">Secretario General del Colegio de Jalisco </p> </div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MaraRobles.png" width="220px"><p><b style="color: #82D4DA">MARA NADIEZHDA ROBLES VILLASEÑOR</b></p>  
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MaraRobles-2.jpg" width="220px"><p><b style="color: #82D4DA">MARA NADIEZHDA ROBLES VILLASEÑOR</b></p>  
 <p class="small">Rectora del Centro Universitario de los Altos de la UDG </p> </div></div>
 </div><p>
 </p>
