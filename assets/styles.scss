@@ -80,34 +80,33 @@ body {
       display: none;
       background-color: $white;
       *{ border: 0.5px solid $featureBackgroundColour };
-      opacity: 1;
   }
 
   /* Links inside the dropdown */
   .dropdown-content a {
       color: #404040;
       text-decoration: none;
-      display: block;
+      display: inline-block;
   }
 
   /* Change color of dropdown links on hover */
-  .dropdown-content a:hover {background-color: #A9A9A9}
+  .dropdown-content a:hover,
+  .dropdown-content a:focus {background-color: #A9A9A9}
 
   /* Show the dropdown menu on hover */
-  .dropdown:hover .dropdown-content {
-      display: block !important;
+  .dropdown:hover .dropdown-content,
+  .dropdown:focus .dropdown-content {
+      display: block ;
       position: absolute;
-      height: auto; 
-      line-height: 1;
-      z-index: 100; 
-      visibility:visible;
+      line-height: 1.15;
+      z-index: 100;
+      *{width: 100%;} 
   }
 
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {
       background-color: #e8e9e8;
 }
-
   }
  
     .logo {
