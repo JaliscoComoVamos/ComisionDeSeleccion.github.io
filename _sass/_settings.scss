@@ -48,7 +48,10 @@ $monospacetype: (
 @font-face {
     font-family: 'karlabold';
     src: url('/assets/fonts/karla-bold-webfont.woff2') format('woff2'),
-         url('/assets/fonts/karla-bold-webfont.woff') format('woff');
+         url('/assets/fonts/karla-bold-webfont.woff') format('woff'),
+         url('/assets/fonts/Karla-Bold.ttf') format('truetype'),    
+         url('/assets/fonts/Karla-Bold.svg') format('svg'),
+         url('/assets/fonts/Karla-Bold.otf') format('otf');                  
     font-weight: normal;
     font-style: normal;
 }
@@ -56,7 +59,10 @@ $monospacetype: (
 @font-face {
     font-family: 'karlabolditalic';
     src: url('/assets/fonts/karla-bolditalic-webfont.woff2') format('woff2'),
-         url('/assets/fonts/karla-bolditalic-webfont.woff') format('woff');
+         url('/assets/fonts/karla-bolditalic-webfont.woff') format('woff'),
+         url('/assets/fonts/Karla-BoldItalic.ttf') format('truetype'),  
+         url('/assets/fonts/Karla-BoldItalic.svg') format('svg'), 
+         url('/assets/fonts/Karla-BoldItalic.otf') format('otf');        
     font-weight: normal;
     font-style: normal;
 }
@@ -64,15 +70,21 @@ $monospacetype: (
 @font-face {
     font-family: 'karlaitalic';
     src: url('/assets/fonts/karla-italic-webfont.woff2') format('woff2'),
-         url('/assets/fonts/karla-italic-webfont.woff') format('woff');
+         url('/assets/fonts/karla-italic-webfont.woff') format('woff'),
+         url('/assets/fonts/Karla-Italic.ttf') format('truetype'),  
+         url('/assets/fonts/Karla-Italic.svg') format('svg'),        
+         url('/assets/fonts/Karla-Italic.otf') format('otf'); 
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'karlaregular';
+    font-family: 'Karla';
     src: url('/assets/fonts/karla-regular-webfont.woff2') format('woff2'),
-         url('/assets/fonts/karla-regular-webfont.woff') format('woff');
+         url('/assets/fonts/karla-regular-webfont.woff') format('woff'),
+         url('/assets/fonts/Karla-Regular.ttf') format('truetype'),  
+         url('/assets/fonts/Karla-Regular.svg') format('svg'),
+         url('/assets/fonts/Karla-Italic.otf') format('otf');     
     font-weight: normal;
     font-style: normal;
 }
