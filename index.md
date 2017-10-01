@@ -41,7 +41,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MarisaLazo.jpg" width="220px"><p><b style="color: #82D4DA">MARIA ISABEL LAZO CORVERA</b></p>  
 <p class="small">Empresaria en el ramo de alimentos; Fundadora de Pastelerías Marisa  </p></div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px"><p><b style="color: #82D4DA">JOSEFINA ISABEL SEPULVEDA CAMPOS</b></p>  
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px"><p><b style="color: #82D4DA">J. ISABEL SEPULVEDA CAMPOS</b></p>  
 <p class="small">Editorialista Grupo Reforma; Consejera de Coparmex Jalisco y otros organismos empresariales y de la sociedad civil</p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/ReneRivial.jpg" width="220px"><p><b style="color: #82D4DA">RENÉ JUSTIN RIVIAL LEÓN</b></p>  
@@ -66,5 +66,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 
 <p></p>
 <p></p><p></p>
+
+
 
           
