@@ -42,7 +42,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <p class="small">Empresaria en el ramo de alimentos; Fundadora de Pastelerías Marisa  </p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px"><p><b style="color: #82D4DA">JOSEFINA ISABEL SEPULVEDA CAMPOS</b></p>  
-<p class="small">Consejera de Coparmex Jalisco  </p></div></div>
+<p class="small">Editorialista Grupo Reforma; Consejera de Coparmex Jalisco y otros organismos empresariales y de la sociedad civil</p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/ReneRivial.jpg" width="220px"><p><b style="color: #82D4DA">RENÉ JUSTIN RIVIAL LEÓN</b></p>  
 <p class="small">Empresario en el ramo de materiales poliméricos; Fundador de Productos Rivial S.A. de C.V.</p>
