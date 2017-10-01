@@ -60,7 +60,6 @@ body {
 
     /* Dropdown Button */
       .dropbtn {
-      background-color: $backgroundColour;
       color: $linkColour;
       cursor: default;
       padding: 5px;
@@ -99,7 +98,6 @@ body {
       display: block ;
       position: absolute;
       line-height: 1.15;
-      z-index: 100;
       *{width: 100%;} 
   }
 
