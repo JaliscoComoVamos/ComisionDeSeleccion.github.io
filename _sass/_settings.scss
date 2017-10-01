@@ -38,55 +38,5 @@ $monospacetype: (
 );
 
 // Font import, if you're using a non-standard web font
-// @import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
 @import url('https://fonts.googleapis.com/css?family=Space+Mono:400,700');
-
-
-
-@font-face {
-   font-family: 'Karla';
-   src: url('/assets/fonts/karla-regular-webfont.woff2') format('woff2'),
-        url('/assets/fonts/karla-regular-webfont.woff') format('woff'),
-        url('/assets/fonts/Karla-Regular.ttf') format('truetype'),  
-        url('/assets/fonts/Karla-Regular.svg') format('svg'),
-        url('/assets/fonts/Karla-Italic.otf') format('otf'),
-        url('/assets/fonts/Karla-Italic.eot') format('Embedded OpenType');     
-   font-weight: 400;
-   font-style: normal;
-}
-
-@font-face {
-   font-family: 'Karla';
-   src: url('/assets/fonts/karla-bold-webfont.woff2') format('woff2'),
-        url('/assets/fonts/karla-bold-webfont.woff') format('woff'),
-        url('/assets/fonts/Karla-Bold.ttf') format('truetype'),    
-        url('/assets/fonts/Karla-Bold.svg') format('svg'),
-        url('/assets/fonts/Karla-Bold.otf') format('otf'),
-        url('/assets/fonts/Karla-Bold.eot') format('Embedded OpenType');                  
-   font-weight: 700;
-   font-style: normal;
-}
-
-@font-face {
-   font-family: 'Karla';
-   src: url('/assets/fonts/karla-bolditalic-webfont.woff2') format('woff2'),
-        url('/assets/fonts/karla-bolditalic-webfont.woff') format('woff'),
-        url('/assets/fonts/Karla-BoldItalic.ttf') format('truetype'),  
-        url('/assets/fonts/Karla-BoldItalic.svg') format('svg'), 
-        url('/assets/fonts/Karla-BoldItalic.otf') format('otf'),  
-        url('/assets/fonts/Karla-BoldItalic.eot') format('Embedded OpenType');        
-   font-weight: 700;
-   font-style: italic;
-}
-
-@font-face {
-  font-family: 'Karla';
-   src: url('/assets/fonts/karla-italic-webfont.woff2') format('woff2'),
-        url('/assets/fonts/karla-italic-webfont.woff') format('woff'),
-        url('/assets/fonts/Karla-Italic.ttf') format('truetype'),  
-        url('/assets/fonts/Karla-Italic.svg') format('svg'),        
-        url('/assets/fonts/Karla-Italic.otf') format('otf'), 
-        url('/assets/fonts/Karla-Italic.eot') format('Embedded OpenType'); 
-   font-weight: 400;
-   font-style: italic;
-}
