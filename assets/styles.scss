@@ -20,6 +20,7 @@ body {
     display: flex;
     @include flex-direction(column);
     padding-top: 11.5vh;
+    overflow-x: hidden;
 }
 
 .container {
@@ -279,8 +280,8 @@ body {
 // Lists
 .list {
   list-style: none;
-  &--nav {
-    transition: .2s;
+  &--nav {;
+    transition: .3s;
   }
   .item--post,
   .item--result,
@@ -632,5 +633,4 @@ icon {
 .img-circle {
     border-radius: 50%;
 }
-
 
