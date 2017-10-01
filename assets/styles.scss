@@ -69,7 +69,6 @@ body {
   .dropdown {
       display: inline-block;
       position: relative;
- 
   }
 
   /* Dropdown Content (Hidden by Default) */
@@ -84,7 +83,6 @@ body {
   /* Links inside the dropdown */
   .dropdown-content a {
       color: #404040;
-      text-decoration: none;
       display: inline-block;
   }
 
@@ -103,7 +101,7 @@ body {
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {
       background-color: #e8e9e8;
-}
+  }
   }
  
     .logo {
@@ -161,14 +159,12 @@ body {
 .logo {
   display: inline-block;
   line-height: 0;
-  max-height: 4rem;
   @include flexbox;
   @include align-items(center);
   img {
     max-height: 4rem;
   }
 }
-
 
 
 .nav {    
@@ -291,6 +287,7 @@ body {
     @include breakpoint(break-1) {
       margin-left: .4rem;
       display: inline-block;
+      background-color: $white;
     }
     &:first-of-type {
       margin-left: 0;
@@ -518,9 +515,7 @@ icon {
     &:active,
     &:focus {
       background-image: none; }
-
 }
-
 
 
 
@@ -539,24 +534,6 @@ icon {
     }
   }
 
-  .icon, 
-  a .icon, 
-  icon 
-  a icon {
-    vertical-align: middle;
-    display: inline-block; 
-    width: 1.1em;
-    height: 1.1em;
-    fill: CurrentColor;
-    background-image: none;
-    text-shadow: none;
-      &:hover,
-      &:active,
-      &:focus {
-        background-image: none;
-        text-shadow: none; }
-
-  }
 
 
 

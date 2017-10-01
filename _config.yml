@@ -86,7 +86,9 @@ navigation_footer:
   # Created by Jalisco Cómo Vamos: http://jaliscocomovamos.org/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  # Twitter: https://twitter.com/DavidDarnes
+  Email: mailto:contacto@comisionsaejalisco.org
+  Twitter: http://twitter.com/
+  Facebook: http://facebook.com/
   # LinkedIn: https://www.linkedin.com/in/daviddarnes
   # Google+: https://plus.google.com/+DavidDarnes
   # GitHub: https://github.com/daviddarnes
@@ -105,5 +107,3 @@ sharing_links: # Appear at the bottom of single blog posts, uncomment and commen
   # Designer News: "#2D72D9"
   # Email: ""
 
-  # and add this!
-  markdown: kramdown

@@ -149,7 +149,7 @@ feature_text: |
   <li><p style="text-align:justify">Experiencia o conocimientos útiles o significativos para el desempeño del cargo.</p></li>
 </ol>
 
-<p style="text-align:justify"><b>QUINTA.</b> Las postulaciones de las y los candidatos al Comité de Participación Social serán recibidos a partir del 02 octubre a las 09:00 horas y hasta el 13 de octubre a las 15:00 horas, del año en curso, a través del correo electrónico: <a href="candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a>, o bien en la siguiente dirección y horarios:</p>
+<p style="text-align:justify"><b>QUINTA.</b> Las postulaciones de las y los candidatos al Comité de Participación Social serán recibidos a partir del 02 octubre a las 09:00 horas y hasta el 13 de octubre a las 15:00 horas, del año en curso, a través del correo electrónico: <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a>, o bien en la siguiente dirección y horarios:</p>
 
 <p style="text-align:justify">Domicilio de oficina: José Guadalupe Zuno Hernández número 2118, Colonia Obrera, CP 44420, Guadalajara, Jalisco.</p>
 
