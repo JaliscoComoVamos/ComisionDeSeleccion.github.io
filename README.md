@@ -15,6 +15,7 @@ width="300px" style="border-radius: 25px; padding: 15px; border: 0.5px solid #A9
 </a></p>
 ```
 
+```html
 <style>
 .change_bg{ float:left; background : #FFFFFF; }
 .change_bg:hover { background : #F8F8F8; }
@@ -27,6 +28,7 @@ width="300px" style="border-radius: 25px; padding: 15px; border: 0.5px solid #A9
 
 Igual puedes compartir el botón como imagen:  
 <p><img rc="http://comisionsaejalisco.org/assets/logo-boton.png"></p>
+```
 
 Liga para descargar el imagen como formato PNG:  
 [http://comisionsaejalisco.org/assets/logo-boton.png"](http://comisionsaejalisco.org/assets/logo-boton.png").
