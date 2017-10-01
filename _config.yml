@@ -53,8 +53,7 @@ collections:
     output: true
     description: "Publicaciones" # The post list page content
     feature_text: |
-      Bienvenid@s
-    feature_image: "https://unsplash.it/1300/400?image=56"
+      # BLOG
 
 # 6. Jekyll collections settings
 defaults:
@@ -78,7 +77,7 @@ avatarurl: "/assets/logo.ico"
 # 8. Site navigation
 navigation_header:
   Quiénes Somos: /
-  Convocatoria: /convocatoria/
+  Convocatoria: 
   Estatuto: /estatuto/
   Calendario: /calendario/
   Contacto: /contacto/

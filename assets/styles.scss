@@ -19,7 +19,6 @@ body {
     height: 100%;
     display: flex;
     @include flex-direction(column);
-    overflow-x: hidden;
     padding-top: 11.5vh;
 }
 
@@ -53,17 +52,70 @@ body {
     position: fixed;
     background-color: $backgroundColour;
     box-shadow: 0 5px 6px -6px;
-    z-index: 500;
+    z-index: 2;
   }
     .nav {
     text-align: right;
+
+    /* Dropdown Button */
+      .dropbtn {
+      background-color: $backgroundColour;
+      color: $linkColour;
+      cursor: default;
+      padding: 5px;
   }
+
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+      display: inline-block;
+      position: relative;
+ 
+  }
+
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+      @include fontsize(theta, all);
+      list-style: none;
+      display: none;
+      background-color: $white;
+      *{ border: 0.5px solid $featureBackgroundColour };
+      opacity: 1;
+  }
+
+  /* Links inside the dropdown */
+  .dropdown-content a {
+      color: #404040;
+      text-decoration: none;
+      display: block;
+  }
+
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #A9A9A9}
+
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+      display: block !important;
+      position: absolute;
+      height: auto; 
+      line-height: 1;
+      z-index: 100; 
+      visibility:visible;
+  }
+
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {
+      background-color: #e8e9e8;
+}
+
+  }
+ 
     .logo {
     @include flex(0 0 auto);
     img { min-height: 10.4vh;
     padding: 0.2rem 0 0.1rem 0; };
     padding: 0.55rem 0 0.1rem 0;
   }
+
   .container {
     width: 90%;
     min-height: 11.8vh;
@@ -228,7 +280,6 @@ body {
 .list {
   list-style: none;
   &--nav {
-    overflow: hidden;
     transition: .2s;
   }
   .item--post,
@@ -247,14 +298,17 @@ body {
     &:first-of-type {
       margin-left: 0;
     }
-  }
-  &--current {
-    a {
+  }}
+  
+  .item--current > a, 
+  .item--current .dropbtn, {
       opacity: 0.5;
       border-bottom:1px solid black;
-    }
   }
-}
+
+.item--current .dropdown .dropdown-content {
+      opacity: 1;
+  }
 
 
 
@@ -578,4 +632,5 @@ icon {
 .img-circle {
     border-radius: 50%;
 }
+
 

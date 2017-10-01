@@ -5,6 +5,7 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
+
 ## QUIÉNES SOMOS  
 
 <p style="text-align:justify">La Comisión de Selección para el nombramiento de los integrantes del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, se constituye por 9 ciudadanas y ciudadanos comprometidos con la vida pública de nuestra Entidad.  
