@@ -39,10 +39,10 @@ body {
   min-height: 42vh;
 }
 
-// .outer > div {
-//   padding: 0 0 0 5.1rem;
-//   margin: 0 12px 0;
-// }
+.outer > div {
+   padding: 0 0 0 5.1rem;
+   margin: 0 12px 0;
+ }
 
 
 // Header, feature and footer
@@ -126,22 +126,44 @@ body {
 }
 
 .footer {
+  background: #404040;
+  
+  span { text-align: center;};
+
   .nav {
     text-align: right;
   }
-  .logo {
-    @include flex(0 0 auto);
-  }
+
   .container {
-    @include flexbox;
-    @include flex-direction(row);
-    @include justify-content(space-between);
-    padding: 1rem 0;
+    width: 95%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: top;
     @include breakpoint(break-1) {
       @include align-items(center);
+    } 
     }
+  .container > div {
+   padding: 2rem;
+ }
+
+  a {
+    color: $linkColour;
+    &:hover { color: $hoverColour; } }
+    
+  .small, small {
+    padding-top: 0;
   }
+  .container > div{
+  max-width: 35%;
+  margin: 0, 10px;
+  text-align: center
+  }
+
 }
+
+
 
 .feature {
   padding-bottom: .4rem;
@@ -185,23 +207,10 @@ body {
   display: inline-block;
 }
 
-.footer {
-  background: #404040;
-  color: #404040;
-  a {
-    color: $backgroundColour;
-    &:hover {
-      color: $backgroundColour;
-    }
-  }
-  .container {
-    @include flex-wrap(wrap);
-  }
-  .small {
-    padding-top: 0;
-  }
+small {
+  padding-top: .8rem;
+  display: inline-block;
 }
-
 
 // Pagination nav
 .nav--paginator {
@@ -431,7 +440,7 @@ button,
 .button,
 input,
 textarea,
-select {
+select, small {
   &:focus,
   &:hover:focus {
     outline: solid .12rem $focusColour;
@@ -618,4 +627,8 @@ icon {
     border-radius: 50%;
 }
 
+#phone {
+  path {
+    fill: #B3B3B3;
+  }}
 

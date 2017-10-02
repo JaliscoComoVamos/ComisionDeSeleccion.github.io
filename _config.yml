@@ -80,13 +80,11 @@ navigation_header:
   Convocatoria: 
   Estatuto: /estatuto/
   Calendario: /calendario/
-  Contacto: /contacto/
 
 navigation_footer:
   # Created by Jalisco Cómo Vamos: http://jaliscocomovamos.org/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Email: mailto:contacto@comisionsaejalisco.org
   Twitter: http://twitter.com/
   Facebook: http://facebook.com/
   # LinkedIn: https://www.linkedin.com/in/daviddarnes

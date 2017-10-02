@@ -417,3 +417,11 @@ a {
 
 }
 
+small, .small {
+    @include fontsize(theta, all);
+    font-family: unquote(map-get($bodytype, font-family));
+    font-style: normal;
+    font-weight: map-get($bodytype, regular);
+    line-height: 1;
+    margin: 0.1;
+  }
