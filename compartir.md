@@ -31,7 +31,7 @@ width="300px" style="border-radius: 25px; padding: 15px; border: 0.5px solid #A9
 Igual puedes compartir el botón como imagen:  
 ![Logo](http://comisionsaejalisco.org/assets/logo-boton.png)
 
-Liga para descargar el imagen como formato PNG: [http://comisionsaejalisco.org/assets/logo-boton.png"](http://comisionsaejalisco.org/assets/logo-boton.png").
+Liga para descargar el imagen como formato PNG: [http://comisionsaejalisco.org/assets/logo-boton.png](http://comisionsaejalisco.org/assets/logo-boton.png).
 
 <p></p>
 <p></p>
