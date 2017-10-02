@@ -139,13 +139,13 @@ body {
     max-width: 1200px;
     display: flex;
     justify-content: center;
-    align-items: top;
+    align-items: center;
     @include breakpoint(break-1) {
       @include align-items(center);
     } 
     }
   .container > div {
-   padding: 1.5rem;
+   padding: 1rem;
  }
 
   a {
