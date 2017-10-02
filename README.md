@@ -4,10 +4,10 @@ Sitio web para "Comisión de Selección del Sistema Anticorrupción del Estado d
 
 Puedes compartir este sitio usando el siguiente imagen:
  
-![Logo](http://comisionsaejalisco.org/assets/logo-boton.png)
+<img src="http://comisionsaejalisco.org/assets/logo-boton.png" width="300px">
 
 Liga para descargar el imagen como formato PNG:  
-<img src="http://comisionsaejalisco.org/assets/logo-boton.png" width="300px">
+[http://comisionsaejalisco.org/assets/logo-boton.png](http://comisionsaejalisco.org/assets/logo-boton.png).
 
 Igual puedes inserter un botón en tu sitio web usando las instrucciones [aquí](http://comisionsaejalisco.org/compartir).
 
