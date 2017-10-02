@@ -58,7 +58,6 @@ body {
   }
     .nav {
     text-align: right;
-    z-index: 0;
 
     /* Dropdown Button */
       .dropbtn {
@@ -96,7 +95,8 @@ body {
       display: block ;
       position: absolute;
       line-height: 1.15;
-      *{width: 100%;}; 
+      *{width: 100%;
+      min-height: 40px}; 
       z-index: 3;
   }
 
@@ -274,7 +274,10 @@ body {
 // Lists
 .list {
   list-style: none;
-  &--nav {;
+  &--nav {
+    width: 100%;
+    clear: both;
+    display: inline-block;
     transition: .3s;
   }
   .item--post,
