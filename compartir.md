@@ -9,10 +9,10 @@ Puedes compartir este sitio usando el siguiente código HTML para reproducir el 
 .change_bg{ background : #FFFFFF; }
 .change_bg:hover { background : #F8F8F8; }
 </style>
-<a href="http://comisionsaejalisco.org/" class="svg  imglink"><object class="change_bg" type="image/svg+xml" data="http://comisionsaejalisco.org/assets/logo-boton.svg" style="display: inline-block" width="300px" style="border-radius: 25px; padding: 15px; border: 0.5px solid #A9A9A9">
-</object>
+<a href="http://comisionsaejalisco.org/" class="imglink">
+<img class="change_bg" src="http://comisionsaejalisco.org/assets/logo-boton.svg"
+width="300px" style="border-radius: 25px; padding: 15px; border: 0.5px solid #A9A9A9">
 </a>
-
 
 <p>
 Código: 
@@ -22,11 +22,9 @@ Código:
 .change_bg{ background : #FFFFFF; }
 .change_bg:hover { background : #F8F8F8; }
 </style>
-<a href="http://comisionsaejalisco.org/" class="svg"><object class="change_bg" 
-type="image/svg+xml" data="http://comisionsaejalisco.org/assets/logo-boton.svg" 
-style="display: inline-block" width="300px" style="border-radius: 25px; 
-    padding: 15px; border: 0.5px solid #A9A9A9">
-</object>
+<a href="http://comisionsaejalisco.org/">
+<img class="change_bg" src="http://comisionsaejalisco.org/assets/logo-boton.svg"
+width="300px" style="border-radius: 25px; padding: 15px; border: 0.5px solid #A9A9A9">
 </a>
 ```
 
