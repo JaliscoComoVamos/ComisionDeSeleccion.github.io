@@ -38,7 +38,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 </div><p>
 </p>
 <div class="flex-grid-thirds">
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MarisaLazo.jpg" width="220px"><p><b style="color: #82D4DA">MARIA ISABEL LAZO CORVERA</b></p>  
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MarisaLazo.jpg" width="220px"><p><b style="color: #82D4DA">MARÍA ISABEL LAZO CORVERA</b></p>  
 <p class="small">Empresaria en el ramo de alimentos; Fundadora de Pastelerías Marisa  </p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px"><p><b style="color: #82D4DA">J. ISABEL SEPÚLVEDA CAMPOS</b></p>  
