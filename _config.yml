@@ -105,3 +105,7 @@ sharing_links: # Appear at the bottom of single blog posts, uncomment and commen
   # Designer News: "#2D72D9"
   # Email: ""
 
+# Add Google Analytics
+google_analytics: UA-107378701-1
+
+

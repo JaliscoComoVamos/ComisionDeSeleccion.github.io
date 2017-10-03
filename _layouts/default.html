@@ -23,6 +23,12 @@
     <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
 
 			{% if site.avatarurl %}{% include site-favicons.html %}{% endif %}
+
+    		{% if site.google_analytics %}
+        		{% include google_analytics.html %}
+    		{% endif %}
+
+
 		</head>
 		<body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
 			{% include site-icons.svg %}
@@ -30,4 +36,9 @@
 			{{ content }}
 
 		</body>
+
+		    {% if site.google_analytics %}
+        {% include google_analytics.html %}
+    {% endif %}
+
 </html>
