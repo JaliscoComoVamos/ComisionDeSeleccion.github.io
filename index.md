@@ -57,12 +57,9 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <p></p><div style="text-align:center">
 <hr style="width:70%"></div>
 <p></p><p></p>
-#### COMISIONES EN OTRAS PARTES DE LA REPÚBLICA
 
-- [Comisión de Selección del Sistema Nacional Anticorrupción](http://comisionsna.mx/)
-- [Comisión de Selección del SEA Puebla](http://comisionseapuebla.org/)
-- [Comisión de Selección del SEA Guanajuato](http://comisiondeselecciongto.org/)
-- Comisión de Selección del SEA Tamaulipas ([Facebook](https://www.facebook.com/csseatamaulipas))
+<span style="font-style: italic; color:#333333">Véase también la <a href = "http://comisionsna.mx/">Comisión de Selección del Sistema Nacional Anticorrupción</a>.</span>
+
 
 <p></p>
 <p></p><p></p>
