@@ -74,11 +74,14 @@ body {
 
   /* Dropdown Content (Hidden by Default) */
   .dropdown-content {
+      text-align: left;
       @include fontsize(theta, all);
       list-style: none;
       display: none;
       background-color: $white;
-      *{ border: 0.5px solid $featureBackgroundColour };
+      *{ border: 0.5px solid $featureBackgroundColour; 
+      width: 120%; background-color: $white; 
+      min-height: 30px;};
   }
 
   /* Links inside the dropdown */
@@ -88,15 +91,13 @@ body {
   }
 
   /* Change color of dropdown links on hover */
-  .dropdown-content a:hover {background-color: #A9A9A9}
+  .dropdown-content a:hover {background-color: #A9A9A9; color: $white }
 
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {
       display: block ;
       position: absolute;
       line-height: 1.15;
-      *{width: 100%;
-      min-height: 40px}; 
       z-index: 3;
   }
 
@@ -301,7 +302,6 @@ small {
     @include breakpoint(break-1) {
       margin-left: .4rem;
       display: inline-block;
-      background-color: $white;
     }
     &:first-of-type {
       margin-left: 0;
