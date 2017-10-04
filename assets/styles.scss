@@ -54,11 +54,11 @@ body {
     background-color: $backgroundColour;
     box-shadow: 0 5px 6px -6px;
     z-index: 2;
+    }
     
-
-  }
     .nav {
     text-align: right;
+    padding: 0 0.3rem 0 0;
 
     /* Dropdown Button */
       .dropbtn {
@@ -115,19 +115,19 @@ body {
  
     .logo {
     @include flex(0 0 auto);
-    img { min-height: 10.3vh;
-    padding: 0.2rem 0 0.1rem 0; };
-    padding: 0.45rem 0 0.1rem 0;
+    img { min-height: 9vh;};
+    padding: 0.1rem 0.1rem 0.1rem 0 ;
   }
 
   .container {
-    width: 90%;
+    width: 98%;
     min-height: 11.8vh;
     @include flexbox;
     @include flex-direction(row);
     @include justify-content(space-between);
     @include breakpoint(break-1) {
       @include align-items(center);
+      text-algin: left;
     }
   }
 }
