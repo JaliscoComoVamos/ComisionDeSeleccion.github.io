@@ -766,7 +766,67 @@ width: 130%;
       display: flex;
       color: #82D4DA;
     }
-
-
 }
+
+
+
+
+
+u2.hideDisplay{
+  position: relative; /* This makes everything work.*/
+  /* Allows you to layer overlapping elements. */
+  z-index: 20; 
+  color: #000;
+  text-decoration: none
+  }
+u2.hideDisplay:hover{
+    /* Allows you to layer overlapping elements. */
+    z-index: 30; 
+    }
+u2.hideDisplay span.showDisplayOnHover{
+    display: none
+    }
+
+/* This will only display itself when the
+ * user hovers the mouse over the anchor. */
+
+u2.hideDisplay:hover span.showDisplayOnHover{ 
+  display: block;
+  position: absolute;
+  font-size: 18px;
+  
+  /* This sets the height of a line of text in the box. */
+  line-height: 1rem;
+  
+  /* These position the box where it needs to go. */
+  top: 25px; 
+  left: 40px; 
+  
+  /* These adjust the size of the box when it appears. */
+  width: auto;
+  padding: 10px;
+  
+  border: 1px solid #666666;
+  background-color: #F8ED74; 
+  border-radius: 4px;
+  
+  /* text color */
+  color: #000000;
+  text-align: left;
+  }
+
+span.showBodyOfDisplayOnHover {
+  font-size: 16px; 
+  font-weight: normal;
+  color: #444;
+  line-height: 18px; 
+  }
+
+
+
+
+
+
+
+
 
