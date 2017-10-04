@@ -35,7 +35,7 @@ a {
 .typeset {
 
   // Nice underlines for text links.
-  p a, li a, u2 {
+  p a, li a, {
     background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$linkColour 50%);
     background-position: 0 93%;
     background-repeat: repeat-x;
@@ -50,14 +50,10 @@ a {
     }}
 
   u2 { 
-    background-image: linear-gradient(to right, $linkColour 50%, transparent 50%);
-    background-position: 0 1.04em;
-    background-repeat: repeat-x;
-    background-size: 6px 3px;
-    &:hover, &:active, &:focus {
-      background-image: linear-gradient(to right, $hoverColour 50%, transparent 50%);
-        };
-  }
+    border-bottom: 2px dotted $linkColour;
+    &:hover {border-bottom: 2px dotted $hoverColour; }
+    };
+  
 
   .showDisplayOnHover, .showBodyOfDisplayOnHover {
   background-image: none;

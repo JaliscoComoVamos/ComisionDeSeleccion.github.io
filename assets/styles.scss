@@ -772,10 +772,9 @@ width: 130%;
 
 
 
-
 u2.hideDisplay{
   position: relative; /* This makes everything work.*/
-  display: inline-block;
+  display: inline;
   /* Allows you to layer overlapping elements. */
   z-index: 20; 
   color: #000;
