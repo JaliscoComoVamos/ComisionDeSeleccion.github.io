@@ -774,6 +774,7 @@ width: 130%;
 
 u2.hideDisplay{
   position: relative; /* This makes everything work.*/
+  display: inline-block;
   /* Allows you to layer overlapping elements. */
   z-index: 20; 
   color: #000;
@@ -799,8 +800,8 @@ u2.hideDisplay:hover span.showDisplayOnHover{
   line-height: 1rem;
   
   /* These position the box where it needs to go. */
-  top: 25px; 
-  left: 40px; 
+
+
   
   /* These adjust the size of the box when it appears. */
   width: auto;
