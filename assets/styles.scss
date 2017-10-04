@@ -786,7 +786,7 @@ u2.hideDisplay:hover{
     z-index: 30; 
     }
 u2.hideDisplay span.showDisplayOnHover{
-    display: none
+    display: none;
     }
 
 /* This will only display itself when the
@@ -794,7 +794,7 @@ u2.hideDisplay span.showDisplayOnHover{
 
 u2.hideDisplay:hover span.showDisplayOnHover{ 
   display: block;
-  position: absolute;
+  float: right;
   font-size: 18px;
   
   /* This sets the height of a line of text in the box. */
@@ -805,13 +805,12 @@ u2.hideDisplay:hover span.showDisplayOnHover{
 
   
   /* These adjust the size of the box when it appears. */
-  width: auto;
   padding: 10px;
+  min-width: 20vw; 
   
   border: 1px solid #666666;
   background-color: #F8ED74; 
   border-radius: 4px;
-  max-width: 40%;
   
   /* text color */
   color: #000000;
