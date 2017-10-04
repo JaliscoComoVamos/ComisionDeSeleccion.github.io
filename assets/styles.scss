@@ -19,7 +19,7 @@ body {
     height: 100%;
     display: flex;
     @include flex-direction(column);
-    padding-top: 12vh;
+    padding-top: 11.8vh;
     overflow-x: hidden;
 }
 
@@ -53,12 +53,12 @@ body {
     position: fixed;
     background-color: $backgroundColour;
     box-shadow: 0 5px 6px -6px;
-    z-index: 2;
+    z-index: 100;
     }
     
     .nav {
     text-align: right;
-    padding: 0 0.3rem 0 0;
+    padding: 0.5rem 0.3rem 0 0;
 
     /* Dropdown Button */
       .dropbtn {
@@ -115,7 +115,8 @@ body {
  
     .logo {
     @include flex(0 0 auto);
-    img { min-height: 9vh;};
+    img { max-width: 60vw;
+          min-height: 9.8vh };
     padding: 0.1rem 0.1rem 0.1rem 0 ;
   }
 
