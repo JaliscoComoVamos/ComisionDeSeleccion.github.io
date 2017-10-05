@@ -4,6 +4,17 @@ feature_text: |
    # CONVOCATORIA
 ---
 
+<div style="background-color: #fcf6bd; padding: 10px"> <p style="text-align:center">
+<b>NOTA:</b></p>
+<p style="text-align:justify">
+La Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco, de acuerdo a lo previsto en la Base Décima de la Convocatoria para la conformación del Comité de Participación Social (CPS) del Sistema Anticorrupción del Estado de Jalisco (SAEJAL), hace de conocimiento que:
+<br><br>
+Los requisitos de la Base Primera de la convocatoria antes mencionada, deben interpretarse en armonía y a la luz del artículo 34 de la Ley del Sistema Anticorrupción del Estado de Jalisco, y ante duda de los mismos prevalecerá lo previsto en dicha ley, de igual manera se observará este criterio para determinar el cumplimiento de los requisitos en la evaluación documental prevista por la Base Séptima de la Convocatoria, todo lo anterior en congruencia con los principios de legalidad y certidumbre jurídica.</p>
+</div>
+<p></p>
+<p></p>
+<p></p>
+
 <div style="text-align:center"><b>CONVOCATORIA PARA LA CONFORMACIÓN DEL COMITÉ DE PARTICIPACIÓN SOCIAL (CPS) DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO (SAEJAL)</b></div>
 
 <p></p>
@@ -48,34 +59,54 @@ feature_text: |
 
 <ol>
   <li>
-    <p style="text-align:justify">Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles.</p>
+    <p style="text-align:justify"><u2 class="hideDisplay">Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles.<span class="showDisplayOnHover">
+<b>Nota:</b><span class="showBodyOfDisplayOnHover">
+El Punto 1 de la Base Primera, que señala "Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles", es congruente con el requisito previsto en el artículo 34 fracción I que establece "Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles".</span></span></u2></p>
   </li>
   <li>
-    <p style="text-align:justify">Experiencia verificable en materias de transparencia, evaluación, fiscalización, rendición de cuentas, combate a la corrupción o derechos humanos.</p>
+    <p style="text-align:justify"><u2 class="hideDisplay">Experiencia verificable en materias de transparencia, evaluación, fiscalización, rendición de cuentas, combate a la corrupción o derechos humanos.<span class="showDisplayOnHover">
+<b>Nota:</b><span class="showBodyOfDisplayOnHover">
+El Punto 2 de la Base Primera que dispone "Experiencia verificable en materias de transparencia, evaluación, fiscalización, rendición de cuentas, combate a la corrupción o derechos humanos", debe entenderse en términos y con los alcances que prevé el artículo 34 fracción II "Experiencia verificable de al menos cinco años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción".</span></span></u2></p>
   </li>
   <li>
-    <p style="text-align:justify">Ser mayor de edad, al día de la postulación.</p>
+    <p style="text-align:justify"><u2 class="hideDisplay">Ser mayor de edad, al día de la postulación.<span class="showDisplayOnHover">
+<b>Nota:</b><span class="showBodyOfDisplayOnHover"> 
+El Punto 3 de la Base Primera que indica "Ser mayor de edad, al día de la postulación", debe interpretarse de acuerdo con el artículo 34 fracción III que ordena "Tener más de treinta y cinco años de edad, al día de la designación".</span></span></u2></p>
   </li>
   <li>
-    <p style="text-align:justify">Tener un título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionados con la materia de esta convocatoria, que le permita el desempeño de sus funciones.</p>
+    <p style="text-align:justify"><u2 class="hideDisplay">Tener un título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionados con la materia de esta convocatoria, que le permita el desempeño de sus funciones.<span class="showDisplayOnHover">
+<b>Nota:</b><span class="showBodyOfDisplayOnHover"> 
+El Punto 4 de la Base Primera que refiere "Tener un título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionados con la materia de esta convocatoria, que le permita el desempeño de sus funciones", debe entenderse con los alcances del artículo 34 fracción IV que dispone "Poseer al día de la designación antigüedad mínima de diez años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionadas con la materia de esta Ley que le permitan el desempeño de sus funciones".</span></span></u2></p>
   </li>
   <li>
-    <p style="text-align:justify">Gozar de buena reputación y no haber sido condenado por algún delito.</p>
+    <p style="text-align:justify"><u2 class="hideDisplay">Gozar de buena reputación y no haber sido condenado por algún delito.<span class="showDisplayOnHover">
+<b>Nota:</b><span class="showBodyOfDisplayOnHover"> 
+El Punto 5 de la Base Primera que indica "Gozar de buena reputación y no haber sido condenado por algún delito", debe observarse de acuerdo con lo previsto por el artículo 34 fracción V que señala "Gozar de buena reputación y no haber sido condenado por algún delito".</span></span></u2></p>
   </li>
   <li>
-    <p style="text-align:justify">Presentar su declaraciones de intereses, patrimonial y fiscal de forma previa a su nombramiento, conforme al formato tres de tres el cual estará disponible en la página <a href="http://comisionsaejalisco.org/">www.comisionsaejalisco.org</a>.</p>
+    <p style="text-align:justify"><u2 class="hideDisplay">Presentar su declaraciones de intereses, patrimonial y fiscal de forma previa a su nombramiento, conforme al formato tres de tres el cual estará disponible en la página <a href="http://comisionsaejalisco.org/">www.comisionsaejalisco.org</a>.<span class="showDisplayOnHover">
+<b>Nota:</b><span class="showBodyOfDisplayOnHover"> 
+El Punto 6 de la Base Primera que dispone "Presentar su declaraciones de intereses, patrimonial y fiscal de forma previa a su nombramiento, conforme al formato tres de tres el cual estará disponible en la página www.comisionsaejalisco.org", es congruente con lo dispuesto por el artículo 34 fracción VI que ordena "Presentar sus declaraciones de intereses, patrimonial y fiscal, de forma previa a su nombramiento".</span></span></u2></p>
   </li>
   <li>
-    <p style="text-align:justify">No haber sido registrado como candidato ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores al día de la designación.</p>
+    <p style="text-align:justify"><u2 class="hideDisplay">No haber sido registrado como candidato ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores al día de la designación.<span class="showDisplayOnHover">
+<b>Nota:</b><span class="showBodyOfDisplayOnHover"> 
+El Punto 7 de la Base Primera que señala "No haber sido registrado como candidato ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores al día de la designación”, debe observarse en términos de lo previsto por el artículo 34 fracción VII que ordena "No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación”; además, este requisito es congruente con la Ley General del Sistema Nacional Anticorrupción en su artículo 34 fracción VII que expresamente señala "No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación".</span></span></u2></p>
   </li>
   <li>
-    <p style="text-align:justify">No desempeñar ni haber desempeñado un cargo de dirección nacional, estatal, ni municipal en algún partido político en los últimos cuatro años anteriores a al día de la designación.</p>
+    <p style="text-align:justify"><u2 class="hideDisplay">No desempeñar ni haber desempeñado un cargo de dirección nacional, estatal, ni municipal en algún partido político en los últimos cuatro años anteriores a al día de la designación.<span class="showDisplayOnHover">
+<b>Nota:</b><span class="showBodyOfDisplayOnHover"> 
+El Punto 8 de la Base Primera que refiere "No desempeñar ni haber desempeñado un cargo de dirección nacional, estatal, ni municipal en algún partido político en los últimos cuatro años anteriores a al día de la designación", debe considerarse en atención al artículo 34 fracción VIII que norma lo siguiente "No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación".</span></span></u2></p>
   </li>
   <li>
-    <p style="text-align:justify">No haber sido miembro, adherente o afiliado, a algún partido político, durante los cuatro años anteriores a la fecha de la postulación.</p>
+    <p style="text-align:justify"><u2 class="hideDisplay">No haber sido miembro, adherente o afiliado, a algún partido político, durante los cuatro años anteriores a la fecha de la postulación.<span class="showDisplayOnHover">
+<b>Nota:</b><span class="showBodyOfDisplayOnHover"> 
+El Punto 9 de la Base Primera que dispone "No haber sido miembro, adherente o afiliado, a algún partido político, durante los cuatro años anteriores a la fecha de la postulación", debe entenderse en función al artículo 34 fracción IX que indica "No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria".</span></span></u2></p>
   </li>
   <li>
-    <p style="text-align:justify">No ser servidor público de elección popular, titular de las dependencias y entidades de la administración pública federal o estatal centralizada y paraestatal o de sus equivalentes en Estados y municipios, titular de algún órgano de gobierno en los órganos constitucionales autónomos, titular de algún órgano jurisdiccional federal o estatal, consejero de la Judicatura, subsecretario u oficial mayor de la administración pública centralizada, paraestatal o su equivalente en Estados y municipios, a menos que se haya separado de su cargo un año antes del día de su designación.</p>
+    <p style="text-align:justify"><u2 class="hideDisplay">No ser servidor público de elección popular, titular de las dependencias y entidades de la administración pública federal o estatal centralizada y paraestatal o de sus equivalentes en Estados y municipios, titular de algún órgano de gobierno en los órganos constitucionales autónomos, titular de algún órgano jurisdiccional federal o estatal, consejero de la Judicatura, subsecretario u oficial mayor de la administración pública centralizada, paraestatal o su equivalente en Estados y municipios, a menos que se haya separado de su cargo un año antes del día de su designación.<span class="showDisplayOnHover">
+<b>Nota:</b><span class="showBodyOfDisplayOnHover"> 
+El Punto 10 de la Base Primera en cuanto refiere "No ser servidor público de elección popular, titular de las dependencias y entidades de la administración pública federal o estatal centralizada y paraestatal o de sus equivalentes en Estados y municipios, titular de algún órgano de gobierno en los órganos constitucionales autónomos, titular de algún órgano jurisdiccional federal o estatal, consejero de la Judicatura, subsecretario u oficial mayor de la administración pública centralizada, paraestatal o su equivalente en Estados y municipios, a menos que se haya separado de su cargo un año antes del día de su designación", debe entenderse en atención a lo previsto por el artículo 34 fracción X que dispone "No ser servidor público de elección popular, titular de las dependencias y entidades de la administración pública centralizada y paraestatal o de sus equivalentes en los municipios, titular de algún órgano de gobierno en los órganos constitucionales autónomos, titular de algún órgano jurisdiccional estatal, consejero de la Judicatura, subsecretario u oficial mayor de la administración pública centralizada o paraestatal o su equivalente en algún municipio, a menos que se haya separado de su cargo un año antes del día de su designación".</span></span></u2></p>
   </li>
 </ol>
 
