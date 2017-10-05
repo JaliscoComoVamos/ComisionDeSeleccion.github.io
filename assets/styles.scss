@@ -115,7 +115,7 @@ body {
  
     .logo {
     @include flex(0 0 auto);
-    img { max-width: 60vw;
+    img { max-width: 55vw;
           min-height: 9.8vh };
     padding: 0.1rem 0.1rem 0.1rem 0 ;
   }
@@ -793,10 +793,10 @@ u2.hideDisplay span.showDisplayOnHover{
 
 u2.hideDisplay:hover span.showDisplayOnHover{ 
   display: block;
-  font-size: 18px;
+  @include fontsize(eta, all);
   
   /* This sets the height of a line of text in the box. */
-  line-height: 1rem;
+  line-height: 1.1rem;
   
   /* These position the box where it needs to go. */
 
@@ -816,10 +816,10 @@ u2.hideDisplay:hover span.showDisplayOnHover{
   }
 
 span.showBodyOfDisplayOnHover {
-  font-size: 16px; 
+  @include fontsize(eta, all);
   font-weight: normal;
   color: #444;
-  line-height: 18px; 
+  line-height: 1rem; 
   }
 
 
