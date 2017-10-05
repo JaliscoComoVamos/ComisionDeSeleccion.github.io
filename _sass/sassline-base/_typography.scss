@@ -105,6 +105,7 @@ a {
   // Heading level 5.
   h5, .epsilon {
     @include sassline(epsilon, $headingtype, 2, 0, all);
+    text-align: center;
   }
 
   // Heading level 6.
