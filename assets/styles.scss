@@ -30,18 +30,17 @@ body {
 }
 
 .outer {
-  width: 90%;
+  width: 95%;
   display:flex;
   justify-content: center;
   align-items: center;
   padding-top: 15px;
-  padding-left: 40px;
-  min-height: 42vh;
+  padding-left: 35px;
 }
 
 .outer > div {
-   padding: 0 0 0 5.1rem;
-   margin: 0 12px 0;
+   padding: 0 0 0 4rem;
+   margin: 0 8px 0;
  }
 
 
@@ -174,15 +173,16 @@ body {
 
 
 .feature {
-  padding-bottom: .4rem;
-  margin-bottom: 1.6rem;
+  padding-bottom: .3rem;
+  margin-bottom: 1.2rem;
   text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
   background-position: center; 
   .container {
     min-height: 30vh;
-    max-width: 90%;
+    max-height: 35vh;
+    max-width: 95%;
     @include flex-direction(column);
     @include justify-content(center)
   }
