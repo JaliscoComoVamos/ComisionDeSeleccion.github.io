@@ -839,6 +839,9 @@ span.showBodyOfDisplayOnHover {
     max-height: 50vh;
     } 
   }
+ .logo {
+    img { max-width: 35vw;
+}}
 }
 
 
@@ -855,7 +858,10 @@ span.showBodyOfDisplayOnHover {
     max-height: 35vh;
     }
     }
-  }
+  .logo {
+    img { max-width: 55vw;
+  }}
+}
 
 
 
