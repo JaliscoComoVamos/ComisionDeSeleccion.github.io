@@ -78,13 +78,11 @@ body {
       @include fontsize(theta, all);
       list-style: none;
       display: none;
-      background-color: $white;
       line-height: 1.15;
       *{ width: 100%; 
       border: 1px solid $featureBackgroundColour; 
-      min-height: 30px;
+      min-height: 35px;
       background-color: $white};
-      border: 1px solid $featureBackgroundColour; 
   }
 
   /* Links inside the dropdown */
@@ -181,7 +179,6 @@ body {
   background-position: center; 
   .container {
     min-height: 30vh;
-    max-height: 35vh;
     max-width: 95%;
     @include flex-direction(column);
     @include justify-content(center)
@@ -201,8 +198,10 @@ body {
 
 .nav {    
   a {
-    padding: .2rem;
-  }
+    padding: .2rem; }
+
+    
+  
   &--social a {
     display: inline-block;
     line-height: 1;
@@ -318,7 +317,8 @@ small {
   .item--current > a, 
   .item--current .dropbtn, {
       opacity: 0.5;
-      border-bottom:2px solid #333333;
+      border-bottom: 2px solid #333333;
+      ;
   }
 
 .item--current .dropdown .dropdown-content {

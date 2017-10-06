@@ -61,7 +61,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <p></p>
 
 
-##### Enlaces a Otros Sitios de Interés
+##### Otros Sitios Relacionados
 <br>
 <span style="font-style: bold; color:#333333">Nivel Nacional </span>
 <ul><li style="margin-left: 25px"><a href = "https://www.gob.mx/sfp/acciones-y-programas/sistema-nacional-anticorrupcion-64289"> Sistema Nacional Anticorrupción (SNA)</a></li>
