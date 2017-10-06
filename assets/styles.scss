@@ -142,7 +142,7 @@ body {
 
   .container {
     margin: 10 1 10 1;
-    width: 101%;
+    width: 100%;
     max-width: 1200px;
     display: flex;
     @include justify-content(space-between);
@@ -157,7 +157,7 @@ body {
   }
     .container > div{
   max-width: 50%;
-  padding: 4px;
+  padding: 5px;
   text-align: center
   }
 
