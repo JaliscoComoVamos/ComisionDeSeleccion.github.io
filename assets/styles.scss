@@ -161,7 +161,7 @@ body {
     padding-top: 0;
   }
   .container > div{
-  max-width: 45%;
+  max-width: 50%;
   margin: 0, 10px;
   text-align: center
   }
@@ -824,6 +824,22 @@ span.showBodyOfDisplayOnHover {
 
 
 
+.image_ftr {max-width: 86%} 
+
+@media(max-width: 810px) { 
+  .image_ftr {max-width: 109%;
+  margin-left: -1.9rem};
+  .feature {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    .container {
+      max-width: 100%;
+      min-height: 20vh;
+    }
+    .outer { min-height: 27vh 
+    }
+  }
+  }
 
 
 
