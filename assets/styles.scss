@@ -112,7 +112,7 @@ body {
  
     .logo {
   
-    img { max-width: 55vw;
+    img { max-width: 45vw;
 };
     padding: 0.1rem 0.1rem 0.1rem 0 ;
   }
@@ -827,42 +827,53 @@ span.showBodyOfDisplayOnHover {
 
 
 
-@media(max-height: 700px) { 
+@media(max-height: 750px) { 
 .image_ftr {max-width: 85%;
   margin-left: 0;
   max-height: 75vh};
 .feature {
-    margin-top: 7vh;
+    margin-top: 8vh;
     padding-top: 3rem;
     padding-bottom: 1rem;
     .outer { min-height: 25vh;
     } 
   }
  .logo {
-    img { max-width: 24vw;
+    img { 
+    max-width: 20vw; max-height: 22vh; 
     }}
 .nav {
     @include fontsize(theta, all);
-    padding: 0.3rem 0.1rem 0 0;}
+    padding: 0.3rem 0.1rem 0 0;
+    }
 }
 
-@media(max-width: 700px) { 
+@media(max-width: 750px) { 
   .image_ftr {max-width: 109%;
   margin-left: -1.9rem;
   max-height: 35vh};
   .feature {
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     padding-top: 4.6rem;
     padding-bottom: 1rem;
-    .container{ align-items: top;};
     .outer { min-height: 25vh;
     max-height: 35vh;
     }
     }
-  .logo {
-    img { max-width: 60vw;
+  .logo { 
+    img { max-width: 45vw;
   }}
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
