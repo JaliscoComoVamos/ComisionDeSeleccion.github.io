@@ -111,9 +111,9 @@ body {
   }
  
     .logo {
-    @include flex(0 0 auto);
+  
     img { max-width: 55vw;
-          min-height: 9.8vh };
+};
     padding: 0.1rem 0.1rem 0.1rem 0 ;
   }
 
@@ -191,7 +191,7 @@ body {
   @include flexbox;
   @include align-items(center);
   img {
-    max-height: 4rem;
+    max-height: 6rem;
   }
 }
 
@@ -310,7 +310,7 @@ small {
       display: inline-block;
     }
     &:first-of-type {
-      margin-left: 0;
+      margin-left: 0.5rem;
     }
   }}
   
@@ -823,33 +823,41 @@ span.showBodyOfDisplayOnHover {
   }
 
 
-
 .image_ftr {max-width: 86%} 
+
+
+
+@media(max-height: 700px) { 
+.image_ftr {max-width: 90%;
+  margin-left: 0;
+  max-height: 50vh};
+.feature {
+    margin-top: 10vh;
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+    .outer { min-height: 20vh;
+    max-height: 50vh;
+    } 
+  }
+}
+
 
 @media(max-width: 700px) { 
   .image_ftr {max-width: 109%;
-  margin-left: -1.9rem};
+  margin-left: -1.9rem;
+  max-height: 35vh};
   .feature {
     margin-top: 1rem;
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-    .container {
-      max-width: 100%;
-      min-height: 20vh;
-    }
-    .outer { min-height: 27vh 
+    padding-top: 4.6rem;
+    padding-bottom: 1rem;
+    .container{ align-items: top;};
+    .outer { min-height: 25vh;
+    max-height: 35vh;
     }
     }
-  
-
-  .logo { vertical-align: top;
-    img { min-height: 12vh;
-          max-height: 36vh;
-    @include flex(none);
-    };
   }
 
-  }
+
 
 
 
