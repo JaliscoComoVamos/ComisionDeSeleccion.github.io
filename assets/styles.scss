@@ -161,7 +161,7 @@ body {
     padding-top: 0;
   }
   .container > div{
-  max-width: 50%;
+  max-width: 55%;
   margin: 0, 10px;
   text-align: center
   }
@@ -826,10 +826,11 @@ span.showBodyOfDisplayOnHover {
 
 .image_ftr {max-width: 86%} 
 
-@media(max-width: 810px) { 
+@media(max-width: 700px) { 
   .image_ftr {max-width: 109%;
   margin-left: -1.9rem};
   .feature {
+    margin-top: 1rem;
     padding-top: 3rem;
     padding-bottom: 3rem;
     .container {
@@ -838,7 +839,16 @@ span.showBodyOfDisplayOnHover {
     }
     .outer { min-height: 27vh 
     }
+    }
+  
+
+  .logo { vertical-align: top;
+    img { min-height: 12vh;
+          max-height: 36vh;
+    @include flex(none);
+    };
   }
+
   }
 
 
