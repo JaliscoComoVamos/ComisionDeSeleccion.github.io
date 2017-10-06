@@ -828,22 +828,23 @@ span.showBodyOfDisplayOnHover {
 
 
 @media(max-height: 700px) { 
-.image_ftr {max-width: 100%;
+.image_ftr {max-width: 85%;
   margin-left: 0;
-  max-height: 50vh};
+  max-height: 75vh};
 .feature {
-    margin-top: 8vh;
-    padding-top: 4rem;
+    margin-top: 7vh;
+    padding-top: 3rem;
     padding-bottom: 1rem;
-    .outer { min-height: 20vh;
-    max-height: 50vh;
+    .outer { min-height: 25vh;
     } 
   }
  .logo {
     img { max-width: 35vw;
-}}
+    }}
+.nav {
+    @include fontsize(theta, all);
+    padding: 0.3rem 0.1rem 0 0;}
 }
-
 
 @media(max-width: 700px) { 
   .image_ftr {max-width: 109%;
@@ -859,7 +860,7 @@ span.showBodyOfDisplayOnHover {
     }
     }
   .logo {
-    img { max-width: 55vw;
+    img { max-width: 60vw;
   }}
 }
 
