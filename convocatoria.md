@@ -10,7 +10,8 @@ feature_text: |
 La Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco, de acuerdo a lo previsto en la Base Décima de la Convocatoria para la conformación del Comité de Participación Social (CPS) del Sistema Anticorrupción del Estado de Jalisco (SAEJAL), hace de conocimiento que:
 <br><br>
 Los requisitos de la Base Primera de la convocatoria antes mencionada, deben interpretarse en armonía y a la luz del artículo 34 de la Ley del Sistema Anticorrupción del Estado de Jalisco, y ante duda de los mismos prevalecerá lo previsto en dicha ley, de igual manera se observará este criterio para determinar el cumplimiento de los requisitos en la evaluación documental prevista por la Base Séptima de la Convocatoria, todo lo anterior en congruencia con los principios de legalidad y certidumbre jurídica.</p>
-</div>
+<p style="text-align:right; font-size:small;">
+Aprobada en sesión de la Comisión de Selección celebrada el 4 de octubre de 2017.</p></div>
 <p></p>
 <p></p>
 <p></p>
