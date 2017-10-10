@@ -240,7 +240,7 @@ COMISIÓN DE SELECCÍON PARA EL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANT
 </div>
 <p></p><div style="text-align:center">
 <hr style="width:70%"></div>
-Lee o descarga esta Convocatoria [en formato PDF]({{ site.url }}/documentos/ConvocatoriaCPSJalisco_v3.pdf).
+Lee o descarga esta Convocatoria [en formato PDF]({{ site.url }}/documentos/ConvocatoriaCPSJalisco_con_notas_agregadas.pdf).
 <p></p>
 <p></p>
 <p></p><p></p>
