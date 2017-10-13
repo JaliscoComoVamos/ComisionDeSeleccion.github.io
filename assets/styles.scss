@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-  width: 90%;
+  width: 92%;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -118,7 +118,8 @@ body {
   }
 
   .container {
-    width: 98%;
+    max-width: none;
+    width: 95%;
     min-height: 11.8vh;
     @include flexbox;
     @include flex-direction(row);
