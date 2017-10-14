@@ -11,14 +11,18 @@
 {% if main_page %} 
 
 	
-<div class="feature">
-  <div class="outer">
-    <table style="width:100%"><tr><td style="text-align: center;">
+<div class="feature" style="text-align: center;">
+  <div class="outer" style="text-align: center;">
+    <table style="max-width: 900px;"><tr><th colspan="2" style="text-align: center;">
     <figure class="figure  figure--center">
       <img class="image  image_ftr" src="/assets/logo-1.svg"> 
-    </figure></td></tr><tr><td style="text-align: center;">
-  <br>
-  {% include button.html text="<b>Metodología para la Evaluación de los Expedientes</b>" link="/documentos/Metodologia_de_Evaluacion_Documental_y_Curricular.pdf" %} </td></tr></table></div>
+    </figure></th></tr><tr>
+      <td style="text-align: right; padding: 8px"> {% include button.html text="<b>Lista de Aspirantes Registrados</b>" link="/documentos/Lista_Aspirantes.pdf" color="#47c0c9"%} </td>
+      <td style="text-align: left; padding: 8px">
+      {% include button.html text="<b>Metodología para la Evaluación de los Expedientes</b>" link="/documentos/Metodologia_de_Evaluacion_Documental_y_Curricular.pdf" %} </td>
+    </tr>
+    </table>
+  </div>
 </div>
 
 

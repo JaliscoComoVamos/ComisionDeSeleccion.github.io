@@ -30,17 +30,19 @@ body {
 }
 
 .outer {
-  width: 95%;
+  margin: 0 8px 0 4px;
+  width: 100%;
   display:flex;
   justify-content: center;
   align-items: center;
   padding-top: 15px;
-  padding-left: 35px;
+  padding-left: 5px;
+  padding-right: 10px;
 }
 
 .outer > div {
-   padding: 0 0 0 4rem;
-   margin: 0 8px 0;
+   padding: 0 0 0 0;
+   margin: 0 0 0 0;
  }
 
 
@@ -127,8 +129,10 @@ body {
     @include breakpoint(break-1) {
       @include align-items(center);
       text-algin: left;
-    }
+     }
+    .feature {max-width: 1200px}
   }
+
 }
 
 .footer {
@@ -168,13 +172,15 @@ body {
 
 
 .feature {
-  padding-bottom: .3rem;
-  margin-bottom: 1.2rem;
+  margin: 0.2rem 0 1.2rem 0;
+  padding: 0 0 .3rem 0;
   text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
   background-position: center; 
-  .container {
+  .container, .container > div {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
     min-height: 30vh;
     max-width: 95%;
     @include flex-direction(column);
@@ -390,11 +396,12 @@ input[type="submit"],
 input[type="color"],
 textarea,
 select {
-  padding: .6rem 1.2rem;
+  text-align: center;
+  padding: .4rem 0.7rem;
   margin-bottom: .6rem;
-  line-height: inherit;
+  line-height: 1.4rem;
   box-shadow: none;
-  border-radius: 8px;
+  border-radius: 7px;
   -webkit-appearance: none;
   .icon {
     margin: 0 0 .35rem;
@@ -413,10 +420,9 @@ input[type="submit"]
   will-change: box-shadow;
   box-shadow: inset 0 0 0 0.5rem transparent;
   @include fontsize(zeta, all);
-  border: 1px solid #da5f49;
   &:hover { 
-  background: $accentColour; 
-  color: #333333;
+  opacity: 0.6;
+  color: $black;
   }
 }
 
@@ -817,7 +823,7 @@ span.showBodyOfDisplayOnHover {
   }
 
 
-.image_ftr {max-width: 45%} 
+.image_ftr {max-width: 70%} 
 
 
 
@@ -826,7 +832,7 @@ span.showBodyOfDisplayOnHover {
   margin-left: 0;
   max-height: 36vh};
 .feature {
-    margin-top: 10vh;
+    margin-top: 7vh;
     padding-top: 3rem;
     padding-bottom: 3rem;
     max-height: 100vh;
@@ -837,7 +843,7 @@ span.showBodyOfDisplayOnHover {
   }
  .logo {
     img { 
-    max-width: 17vw; max-height: 21vh; 
+    max-width: 17vw; max-height: 18vh; 
     }}
 .nav {
     @include fontsize(theta, all);
@@ -852,10 +858,9 @@ span.showBodyOfDisplayOnHover {
 
 @media(max-width: 750px) { 
   .image_ftr {max-width: 100%;
-  margin-left: -1.9rem;
   max-height: 30vh};
   .feature {
-    margin-top: 1.5rem;
+    margin-top: 1.4rem;
     padding-top: 4.6rem;
     padding-bottom: 1rem;
     .outer { min-height: 25vh;
