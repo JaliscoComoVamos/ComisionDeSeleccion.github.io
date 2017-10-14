@@ -381,8 +381,8 @@ video {
 
 
 // Form elements and buttons
-// button,
-// .button,
+button,
+.button,
 input[type="text"],
 input[type="email"],
 input[type="search"],
@@ -392,11 +392,9 @@ textarea,
 select {
   padding: .6rem 1.2rem;
   margin-bottom: .6rem;
-  transition: color .1s, background-color .1s, border .1s;
   line-height: inherit;
-  border: none;
   box-shadow: none;
-  border-radius: 0;
+  border-radius: 8px;
   -webkit-appearance: none;
   .icon {
     margin: 0 0 .35rem;
@@ -409,17 +407,16 @@ input[type="submit"]
  {
   cursor: pointer;
   display: inline-block;
-  color: $backgroundColour;
-  background: $accentColour;
+  color: $white;
+  background: #da5f49;
   transition: box-shadow .1s;
   will-change: box-shadow;
   box-shadow: inset 0 0 0 0.5rem transparent;
-  &:hover {
-    box-shadow: inset 0 0 0 0.5rem rgba(0,0,0,0.25);
-  }
-  &:active,
-  &:focus {
-    box-shadow: inset 0 0 0 0.5rem rgba(0,0,0,0.25);
+  @include fontsize(zeta, all);
+  border: 1px solid #da5f49;
+  &:hover { 
+  background: $accentColour; 
+  color: #333333;
   }
 }
 
@@ -820,46 +817,58 @@ span.showBodyOfDisplayOnHover {
   }
 
 
-.image_ftr {max-width: 86%} 
+.image_ftr {max-width: 45%} 
 
 
 
 @media(max-height: 750px) { 
 .image_ftr {max-width: 85%;
   margin-left: 0;
-  max-height: 75vh};
+  max-height: 36vh};
 .feature {
-    margin-top: 8vh;
+    margin-top: 10vh;
     padding-top: 3rem;
-    padding-bottom: 1rem;
-    .outer { min-height: 25vh;
+    padding-bottom: 3rem;
+    max-height: 100vh;
+    .outer { 
+    min-height: 30vh;
+    max-height: 100vh;
     } 
   }
  .logo {
     img { 
-    max-width: 17vw; max-height: 22vh; 
+    max-width: 17vw; max-height: 21vh; 
     }}
 .nav {
     @include fontsize(theta, all);
     padding: 0.3rem 0.1rem 0 0;
     }
+  button,
+  .button
+   {@include fontsize(eta, all);
+    }
+
 }
 
 @media(max-width: 750px) { 
-  .image_ftr {max-width: 109%;
+  .image_ftr {max-width: 100%;
   margin-left: -1.9rem;
-  max-height: 35vh};
+  max-height: 30vh};
   .feature {
     margin-top: 1.5rem;
     padding-top: 4.6rem;
     padding-bottom: 1rem;
     .outer { min-height: 25vh;
-    max-height: 35vh;
+
     }
     }
   .logo { 
     img { max-width: 45vw;
   }}
+  button,
+  .button
+   {@include fontsize(eta, all);
+  }
 }
 
 

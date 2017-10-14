@@ -59,7 +59,7 @@ collections:
 defaults:
   -
     values:
-      image: "/assets/logo-text-on-white.png" # Default image for sharing
+      image: "http://comisionsaejalisco.org/logo-text-on-white.png" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right

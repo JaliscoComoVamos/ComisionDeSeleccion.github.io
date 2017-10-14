@@ -2,14 +2,8 @@
 
 Sitio web para "Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco" [http://comisionsaejalisco.org/](http://comisionsaejalisco.org/).
 
-Puedes compartir este sitio usando el siguiente imagen:
  
-<img src="http://comisionsaejalisco.org/assets/logo-boton.png" width="300px">
-
-Liga para descargar el imagen como formato PNG:  
-[http://comisionsaejalisco.org/assets/logo-boton.png](http://comisionsaejalisco.org/assets/logo-boton.png).
-
-Igual puedes inserter un botón en tu sitio web usando las instrucciones [aquí](http://comisionsaejalisco.org/compartir).
+<img src="http://comisionsaejalisco.org/assets/logo-text-on-white.png">
 
 
 ---

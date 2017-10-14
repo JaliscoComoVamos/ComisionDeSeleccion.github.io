@@ -4,7 +4,9 @@ excerpt: "La Comisión de Selección para el nombramiento de los integrantes del
 feature_image: "/assets/logo.svg"
 title: ""
 ---
-
+<p></p>
+<p></p>
+<p></p>
 
 ## QUIÉNES SOMOS  
 
