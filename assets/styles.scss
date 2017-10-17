@@ -179,10 +179,11 @@ body {
   background-size: cover;
   background-position: center; 
   .container, .container > div {
+  text-align: center;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
     min-height: 30vh;
-    max-width: 95%;
+    width: 100%;
     @include flex-direction(column);
     @include justify-content(center)
   }

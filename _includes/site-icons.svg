@@ -23,7 +23,16 @@
   <symbol id="link" viewBox="0 0 16 16"><path d="M5.86 12.7l-.81.8c-.7.7-1.84.7-2.54 0a1.75 1.75 0 0 1 0-2.5l2.98-2.96c.61-.61 1.77-1.52 2.62-.68a1 1 0 1 0 1.4-1.4c-1.44-1.43-3.57-1.17-5.42.67L1.1 9.6a3.72 3.72 0 0 0 0 5.32 3.78 3.78 0 0 0 5.34 0l.8-.8a1 1 0 1 0-1.39-1.42zm9.03-11.5c-1.55-1.53-3.7-1.6-5.14-.19l-1 1a1 1 0 1 0 1.39 1.41l1-1c.75-.74 1.72-.43 2.35.2a1.75 1.75 0 0 1 0 2.5l-3.17 3.15c-1.46 1.45-2.14.77-2.43.48a1 1 0 0 0-1.4 1.4c.67.67 1.43 1 2.23 1 .98 0 2.01-.5 3-1.47l3.17-3.15a3.72 3.72 0 0 0 0-5.32z"/></symbol>
   <symbol id="email" viewBox="0 0 16 11"><path fill-rule="evenodd" d="M1.33 0h13.34L8 5 1.33 0zM16 0v11H0V0l8 6 8-6z"/></symbol>
   <symbol id="nav" viewBox="0 0 16 11"><path d="M0 12h16v-2H0v2zm0-5h16V5H0v2zm0-7v2h16V0H0z"/></symbol>
-    <symbol id="phone" viewBox="0 0 32 32">
+  
+  <symbol id="phone" viewBox="0 0 32 32">
     <path d="M22 20c-2 2-2 4-4 4s-4-2-6-4-4-4-4-6 2-2 4-4-4-8-6-8-6 6-6 6c0 4 4.109 12.109 8 16s12 8 16 8c0 0 6-4 6-6s-6-8-8-6z" fill="#000000"></path>
   </symbol>
+
+<symbol id="document" viewBox="0 0 17 16">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+            <path d="M0,0 L0,16 L13,16 L13,4.02441406 L7,4 L7,0.062 L0,0 Z M11,13 L2,13 L2,12 L11,12 L11,13 L11,13 Z M11,11 L2,11 L2,10 L11,10 L11,11 L11,11 Z M11,7 L11,8 L2,8 L2,7 L11,7 L11,7 Z" class="si-glyph-fill"></path>
+            <path d="M8,0 L8,2.844 L12.752,2.844 L8,0 Z" class="si-glyph-fill"></path>
+</symbol>
+
+
 </svg>
