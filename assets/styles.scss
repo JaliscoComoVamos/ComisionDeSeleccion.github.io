@@ -879,8 +879,13 @@ span.showBodyOfDisplayOnHover {
 }
 
 
-.footer a {  &:hover, &:active, &:focus {
+.footer a, {  &:hover, &:active, &:focus {
     color: #da5f49
+  }
+  }
+
+  .footer a, .comunicados a { color: #da5f49; &:hover, &:active, &:focus {
+    color: $linkColour
   }
   }
 
@@ -905,11 +910,10 @@ span.showBodyOfDisplayOnHover {
 
 .column {
     float: left;
-    padding-left: 15px;
+    padding-left: 2em;
     width: 50%;
-}
-.row {width: 110%;
-      margin-left: -5.5%}
+    text-indent: -1em;
+    }
 
 /* Clear floats after the columns */
 .row:after {
@@ -920,8 +924,6 @@ span.showBodyOfDisplayOnHover {
 
 /* Responsive layout - when the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other */
 @media (max-width: 650px) {
-    .row {width: 100%;
-      margin-left: 0}
     .column {
         width: 100%;
         padding-left: 0px;
@@ -1025,4 +1027,6 @@ width: 90vw;
 }
 margin-left: -15px;
 }
+
+.bigg { @include fontsize(delta, all)}
 

@@ -77,6 +77,7 @@ avatarurl: "http://comisionsaejalisco.org/assets/logo.ico"
 # 8. Site navigation
 navigation_header:
   Quiénes Somos: /
+  Comunicados: /comunicados/
   Convocatoria: 
   Marco Legal: /marco_legal/
   Calendario: /calendario/
