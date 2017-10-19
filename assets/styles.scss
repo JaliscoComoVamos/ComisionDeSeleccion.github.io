@@ -951,7 +951,6 @@ $breakpoint-alpha: 640px; // adjust to your needs
   overflow-y: hidden;
   border-collapse: separate;
   margin: 0;
-  min-width: 610px;
 
   thead {
     width: 100%;
@@ -1051,6 +1050,7 @@ width: 140%;
     overflow-y: hidden;
     overflow-x: hidden;
     border: none;
+    display: inline;
   }
 
   thead tr, tbody { 
@@ -1069,7 +1069,9 @@ width: 140%;
   margin-left: 0%;
   margin-right: 0%;
   margin: 0 0 0 -10px;
+  min-width: none;
   width: 95vw;
+  max-width: 95vw;
   overflow-x: hidden;
   overflow-y: hidden;
   }
