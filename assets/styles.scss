@@ -172,7 +172,7 @@ body {
 
 
 .feature {
-  margin: 0.2rem 0 1.2rem 0;
+  margin: 0 0 1.2rem 0;
   padding: 0 0 .3rem 0;
   text-align: center;
   background: $featureBackgroundColour;
@@ -887,10 +887,12 @@ span.showBodyOfDisplayOnHover {
 .comunicados {min-width: 240px}
 .comunicados a { 
   color: #da5f49; 
-  &:hover, &:active { color: $hoverColour}
+  &:hover, &:active, &:focus { color: $hoverColour}
 }
 @media (max-width: 1000px) {
   .comunicados {min-width: 180px} }
+@media (max-width: 700px) {
+  .comunicados {min-width: 163px} }
 
 
 // special underline
@@ -909,12 +911,15 @@ span.showBodyOfDisplayOnHover {
     }
 }
 
+a:focus .specialunderline {
+      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, $hoverColour 50%);
+    }
+
 //////////
 
 .hangingindent {
   margin-left: -1.5em ;
-  &:focus {color: #da5f49 }
-  &:hover {color: $hoverColour }
+  &:focus, &:hover, &:active {color: $hoverColour }
 }
 
 .column {
