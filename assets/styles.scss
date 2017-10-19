@@ -884,17 +884,17 @@ span.showBodyOfDisplayOnHover {
   }
   }
 
-  .footer a, .comunicados a { color: #da5f49; &:hover, &:active, &:focus {
-    color: $linkColour
-  }
-  }
+.comunicados {min-width: 240px}
+.comunicados a { 
+  color: #da5f49; 
+  &:hover, &:active { color: $linkColour}
+}
+@media (max-width: 1000px) {
+  .comunicados {min-width: 180px} }
 
 
-
-// special underline
-
-.specialunderline {
-    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$linkColour 50%);
+.specialunderline2 {
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, #da5f49 50%);
     background-position: 0 93%;
     background-repeat: repeat-x;
     background-size: 100% 0.15rem;
@@ -903,16 +903,37 @@ span.showBodyOfDisplayOnHover {
                 -0.1rem 0 $backgroundColour,
                 -0.15rem 0 $backgroundColour;
     &:hover, &:active, &:focus {
-      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$hoverColour 50%);
+      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, $linkColour 50%);
+  }}
+
+
+// special underline
+
+.specialunderline {
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, $linkColour 50%);
+    background-position: 0 93%;
+    background-repeat: repeat-x;
+    background-size: 100% 0.15rem;
+    text-shadow: 0.1rem 0 $backgroundColour,
+                 0.15rem 0 $backgroundColour,
+                -0.1rem 0 $backgroundColour,
+                -0.15rem 0 $backgroundColour;
+    &:hover, &:active, &:focus {
+      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, $hoverColour 50%);
   }}
 //////////
 
+.hangingindent {
+  margin-left: -1.5em ;
+  &:focus {color: $linkColour }
+  &:hover {color: $hoverColour }
+}
 
 .column {
     float: left;
     padding-left: 2em;
+    padding-right: 5px;
     width: 50%;
-    text-indent: -1em;
     }
 
 /* Clear floats after the columns */
@@ -922,12 +943,15 @@ span.showBodyOfDisplayOnHover {
     clear: both;
 }
 
-/* Responsive layout - when the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other */
-@media (max-width: 650px) {
+/* Responsive layout - when the screen is less than 640px wide, make the two columns stack on top of each other instead of next to each other */
+@media (max-width: 640px) {
     .column {
         width: 100%;
         padding-left: 0px;
     }
+    .hangingindent {
+  margin-left: 5px ;
+}
 }
 
 
@@ -1028,5 +1052,5 @@ width: 90vw;
 margin-left: -15px;
 }
 
-.bigg { @include fontsize(delta, all)}
+.bigg { @include fontsize(delta, all); }
 
