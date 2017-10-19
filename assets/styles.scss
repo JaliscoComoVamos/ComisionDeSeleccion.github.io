@@ -1045,7 +1045,6 @@ width: 140%;
       max-width: 90vw;
       overflow: hidden;
     }
-  width: 90vw;
   max-width: 98vw;
 
   tbody {
@@ -1053,7 +1052,9 @@ width: 140%;
     overflow-x: hidden;
     border: none;
   }
-  thead tr, tbody { display: inline;}
+  thead tr, tbody { display: inline;};
+  width: 100%;
+  margin: 0 0 0 0;
 
   }
 
@@ -1063,6 +1064,7 @@ width: 140%;
   width: 90vw;
   overflow: hidden;
   }
+
   
 }
 
