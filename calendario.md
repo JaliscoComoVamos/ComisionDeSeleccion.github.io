@@ -5,13 +5,14 @@ feature_text: |
 ---
 
 <table class="rwd-table" id="table-wrap">
-  <tr>
+  <thead><tr>
     <th>DÍA(S)</th>
     <th>ACTIVIDAD</th>
     <th>LUGAR</th>
     <th>HORA</th>
     <th>OBJETIVO</th>
-  </tr>
+  </tr></thead>
+  <tbody>
   <tr>
     <td data-th="DÍA" rowspan="2"> 13 de octubre 2017</td>
     <td data-th="ACTIVIDAD"> Comisión especial para cierre de Convocatoria</td>
@@ -58,7 +59,7 @@ feature_text: |
     <td data-th="LUGAR Y HORA" colspan="2"> PENDIENTE</td>
     <td data-th="OBJETIVO"> Se entregarán los nombramientos a los 5 seleccionados</td>
   </tr>
-
+</tbody>
 </table>
 
 
