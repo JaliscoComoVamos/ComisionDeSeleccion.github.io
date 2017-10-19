@@ -886,7 +886,7 @@ span.showBodyOfDisplayOnHover {
 
 .comunicados {min-width: 240px}
 .comunicados a { 
-  color: $linkColour; 
+  color: #da5f49; 
   &:hover, &:active { color: $hoverColour}
 }
 @media (max-width: 1000px) {
@@ -896,7 +896,7 @@ span.showBodyOfDisplayOnHover {
 // special underline
 
 .specialunderline {
-    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, $linkColour 50%);
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, #da5f49 50%);
     background-position: 0 93%;
     background-repeat: repeat-x;
     background-size: 100% 0.15rem;
@@ -913,7 +913,7 @@ span.showBodyOfDisplayOnHover {
 
 .hangingindent {
   margin-left: -1.5em ;
-  &:focus {color: $linkColour }
+  &:focus {color: #da5f49 }
   &:hover {color: $hoverColour }
 }
 
@@ -922,6 +922,7 @@ span.showBodyOfDisplayOnHover {
     padding-left: 2em;
     padding-right: 5px;
     width: 50%;
+    a {color: #da5f49}
     }
 
 /* Clear floats after the columns */
