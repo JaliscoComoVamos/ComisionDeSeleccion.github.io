@@ -947,7 +947,6 @@ span.showBodyOfDisplayOnHover {
 $breakpoint-alpha: 640px; // adjust to your needs
 
 .rwd-table {
-  overflow-x: hidden;
   overflow-y: hidden;
   border-collapse: separate;
   margin: 0;
@@ -959,7 +958,6 @@ $breakpoint-alpha: 640px; // adjust to your needs
 
   tbody {
     display: block;
-    overflow-x: hidden;
     overflow-y: auto;
     max-height: 77vh;
     border: 1px solid #A9A9A9;
@@ -970,7 +968,7 @@ $breakpoint-alpha: 640px; // adjust to your needs
   td:nth-child(4),
   th:nth-child(4) {
   width: 12.5%;
-  @media (max-width: 639px) {width: 100%}
+  @media (max-width: 639px) {width: 90vw}
   }
 
   td:nth-child(2),
@@ -980,7 +978,7 @@ $breakpoint-alpha: 640px; // adjust to your needs
   td:nth-child(5),
   th:nth-child(5), {
   width: 25%;
-  @media (max-width: 639px) {width: 100%}
+  @media (max-width: 639px) {width: 90vw}
   }
 
   th {
@@ -998,7 +996,7 @@ $breakpoint-alpha: 640px; // adjust to your needs
     }
 
     &:before {
-      content: attr(data-th)":  "; 
+      content: attr(data-th)": "; 
       font-weight: bold;
       display: inline-block;
       
@@ -1038,17 +1036,19 @@ width: 140%;
 
 @media (max-width: 639px) {
 .rwd-table {
-  overflow: hidden;
+  max-width: 95vw;
+  width: 95vw;
+  margin: 0 0 0 0;
+  min-width: none;
+  overflow-y: hidden;
+
   td { &:first-child { background: #82D4DA; };
       word-wrap: break-word; 
       max-width: 90vw;
-      overflow: hidden;
     }
-  max-width: 95vw;
 
   tbody {
     overflow-y: hidden;
-    overflow-x: hidden;
     border: none;
     display: inline;
   }
@@ -1059,10 +1059,6 @@ width: 140%;
   }
 
   tr { width: 95vw}
-  
-  width: 95vw;
-  margin: 0 0 0 0;
-  min-width: none;
   }
 
   #table-wrap {
@@ -1072,8 +1068,6 @@ width: 140%;
   min-width: none;
   width: 95vw;
   max-width: 95vw;
-  overflow-x: hidden;
-  overflow-y: hidden;
   }
 
   
