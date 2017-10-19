@@ -947,6 +947,7 @@ span.showBodyOfDisplayOnHover {
 $breakpoint-alpha: 640px; // adjust to your needs
 
 .rwd-table {
+  overflow-x: hidden;
   overflow-y: hidden;
   border-collapse: separate;
   width: 130%;
@@ -1034,7 +1035,7 @@ $breakpoint-alpha: 640px; // adjust to your needs
 
 #table-wrap {
 margin-left: -20%;
-width: 140%;
+width: 138%;
 }
 
 
@@ -1051,6 +1052,7 @@ width: 140%;
 
   tbody {
     overflow-y: hidden;
+    overflow-x: hidden;
     border: none;
   }
   thead tr, tbody { display: inline;}
