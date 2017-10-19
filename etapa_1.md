@@ -281,7 +281,7 @@ Mireya Margarita Vidales Casillas</span></a><br>
       <a href="/testados/Maria_Belen_Zapata_Martinez.pdf" class="hangingindent"> 
       <svg class="icon" role="img"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline" style="line-height: 1rem; vertical-align: text-bottom;">
-María Belén Zapata Martínez</span></a><br>
+María Belén Zapata Martínez</span></a>
 </div>
 </div>
 
