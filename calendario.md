@@ -38,7 +38,7 @@ feature_text: |
   </tr>
   <tr style="background-color: #f2f2f2;">
     <td data-th="DÍA"> 20 de octubre 2017</td>
-    <td data-th="ACTIVIDAD" colspan="4"> Publicación de la listas de  aspirantes seleccionados y calendario de entrevistas</td>
+    <td data-th="ACTIVIDAD" colspan="4"> Publicación de la lista de  aspirantes seleccionados y calendario de entrevistas</td>
   </tr>
 	<tr>
     <td data-th="DÍAS"> 23 y 24 de octubre 2017</td>
