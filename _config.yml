@@ -59,7 +59,7 @@ collections:
 defaults:
   -
     values:
-      image: "http://comisionsaejalisco.org/logo-text-on-white.png" # Default image for sharing
+      image: "http://comisionsaejalisco.org/assets/logo-text-on-white.png" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
@@ -76,7 +76,7 @@ avatarurl: "http://comisionsaejalisco.org/assets/logo.ico"
 
 # 8. Site navigation
 navigation_header:
-  Quiénes Somos: /
+  Quiénes Somos: /quienes_somos/
   Comunicados: /comunicados/
   Convocatoria: 
   Marco Legal: /marco_legal/
