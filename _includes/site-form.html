@@ -1,21 +1,26 @@
 <div class="form  form--contact">
     <form class="contact-form" action="" method="POST">
-        <label class="label" for="name">Name: <span class="required">*</span></label>
-        <input class="input" id="name" type="text" name="name" value="" placeholder="Your Name" required="required" />
-
-        <label class="label" for="_replyto">Email Address: <span class="required">*</span></label>
-        <input class="input" id="_replyto" type="email" name="_replyto" value="" placeholder="email@website.com" required="required" />
-
-        <label class="label" for="message">Message: <span class="required">*</span></label>
-        <textarea class="textarea" id="message" name="message" placeholder="Your message..." required="required"></textarea>
-
-        <input class="button" type="submit" value="Send message" />
+        <label class="label" for="name">Nombre: <span class="required">*</span></label>
+        <input class="input" id="name" type="text" name="Nombre" value="" placeholder="Tu nombre" required="required" />
         <br/>
-				<small class="small"><span class="required">*</span> indicates a required field</small>
+
+        <label class="label" for="_replyto">Correo: <span class="required">*</span></label>
+        <input class="input" id="_replyto" type="email" name="Correo" value="" placeholder="email@website.com" required="required" />
+        
+        <br/>
+        <label class="label" for="message">Pregunta: <span class="required">*</span></label>
+        <textarea class="textarea" id="message" name="Pregunta" placeholder="Pregunta breve y concisa" required="required"></textarea>
+        <br/>
+
+        <input class="button" type="submit" value="Enviar" style="width: 5em"/>
+        <br/>
+				<small class="small"><span class="required">*</span> indica un campo requerido</small>
 
 				<input type="text" name="_gotcha" style="display:none">
-				<input type="hidden" name="_subject" value="Message from {{ site.name }} website">
-				<input type="hidden" name="_next" value="/thanks/" />
+				<input type="hidden" name="_subject" value="Mensaje de comisionsaejalisco.org">
+				<input type="hidden" name="_next" value="/gracias/" />
+                <input type="hidden" name="_language" value="es" />
+                <input type="hidden" name="_format" value="plain" />
     </form>
 </div>
 <script>

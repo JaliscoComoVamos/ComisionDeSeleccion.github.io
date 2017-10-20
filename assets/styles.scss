@@ -389,6 +389,9 @@ video {
 
 // Form elements and buttons
 button,
+.button {border-radius: 10px;}
+
+button,
 .button,
 input[type="text"],
 input[type="email"],
@@ -402,28 +405,35 @@ select {
   margin-bottom: .6rem;
   line-height: 1.4rem;
   box-shadow: none;
-  border-radius: 7px;
   -webkit-appearance: none;
   .icon {
     margin: 0 0 .35rem;
   }
+  &:hover, &:active, &:focus { 
+  outline-width: 0;
+  }
 }
+
+input[type="text"],
+input[type="email"],
+textarea {text-align: left;}
 
 button,
 .button, 
 input[type="submit"]
+.button input[type="submit"]
  {
   cursor: pointer;
   display: inline-block;
   color: $white;
   background: #da5f49;
-  transition: box-shadow .1s;
-  will-change: box-shadow;
-  box-shadow: inset 0 0 0 0.5rem transparent;
+  border: 1px solid #da5f49;
+
   @include fontsize(zeta, all);
-  &:hover { 
-  opacity: 0.6;
-  color: $black;
+  
+  &:hover, &:active, &:focus { 
+  background: #F0C199; 
+  color: #333333;
   }
 }
 
@@ -454,7 +464,7 @@ input[type="search"],
 input[type="color"],
 textarea,
 select {
-  width: 100%;
+  width: 95%;
   border: 1px solid $captionColour;
   &:hover {
     border-color: $bodyColour;
@@ -462,9 +472,9 @@ select {
 }
 
 
-select {
-  background: $codeBackgroundColour;
-}
+// select {
+//  background: $codeBackgroundColour;
+// }
 
 textarea {
     resize: vertical;
@@ -572,6 +582,15 @@ icon {
     white-space: pre;
     overflow-x: scroll;
   }
+
+  input[type="submit"]
+    { color: #ffffff; 
+      &:hover,
+      &:active,
+      &:focus { color: #333333 }
+    }
+
+
 }
 
 

@@ -73,6 +73,7 @@ url: "http://comisionsaejalisco.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/jaliscocomovamos/jaliscocomovamos.github.io"
 avatarurl: "http://comisionsaejalisco.org/assets/logo.ico"
+email: "contacto@comisionsaejalisco.org"
 
 # 8. Site navigation
 navigation_header:
