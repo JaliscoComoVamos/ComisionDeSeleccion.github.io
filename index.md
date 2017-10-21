@@ -34,14 +34,21 @@ Lunes 23 y martes 24 de octubre de 2017 en la Sala Presidentes en las instalacio
 <b>25 minutos.</b> El aspirante responderá preguntas sobre los temas expuestos en la Metodología y su experiencia profesional o personal.
 
 <b>5 minutos.</b> Contestará preguntas, formuladas por la sociedad civil, recibidas con al menos 24 horas de anticipación. 
-
+<p></p>
+<p></p>
+<p></p> <div class="medium">
+<b>Lee más:&nbsp;</b> <a href="/documentos/Acuerdo_Segunda_Etapa.pdf" class="svg_text_link"><span class="specialunderline2" style="line-height: 1rem;"> Acuerdo por el que se determina las personas seleccionadas para la Segunda Etapa del proceso y Calendario de entrevistas</span>   <svg class="icon" role="img">  <use xlink:href="#doc-pdf">  </use>  </svg>  </a></div>
+<p></p>
+<p></p>
 <p></p>
 <h3 style="text-align:center">Manda tus preguntas</h3>
 <p></p>
 
-Las entrevistas serán abiertas al público con la participación de la sociedad civil a través de preguntas formuladas previamente a los aspirantes vía el siguiente formulario.
-
+<b>Las entrevistas serán abiertas al público con la participación de la sociedad civil a través de preguntas formuladas previamente a los aspirantes vía el siguiente formulario.</b>
+<p></p>
 <p></p>
 
 {% include site-form.html %}
+<p></p>
+<p></p>
 <p></p>

@@ -904,7 +904,8 @@ span.showBodyOfDisplayOnHover {
   }
 
 .comunicados {min-width: 260px}
-.comunicados a { 
+.comunicados a,
+.svg_text_link a { 
   color: #da5f49; 
   &:hover, &:active, &:focus { color: $hoverColour}
 }
@@ -930,7 +931,21 @@ span.showBodyOfDisplayOnHover {
     }
 }
 
-a:focus .specialunderline {
+.specialunderline2 {
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, $linkColour 50%);
+    background-position: 0 93%;
+    background-repeat: repeat-x;
+    background-size: 100% 0.15rem;
+    text-shadow: 0.1rem 0 $backgroundColour,
+                 0.15rem 0 $backgroundColour,
+                -0.1rem 0 $backgroundColour,
+                -0.15rem 0 $backgroundColour;
+    &:hover, &:active, &:focus {
+      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, $hoverColour 50%);
+    }
+}
+
+a:focus .specialunderline, a:focus .specialunderline2, {
       background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, $hoverColour 50%);
     }
 
@@ -939,6 +954,11 @@ a:focus .specialunderline {
 .hangingindent {
   margin-left: -1.5em ;
   &:focus, &:hover, &:active {color: $hoverColour }
+}
+
+.svg_text_link {
+  text-decoration: none;
+  &:focus, &:hover, &:active {color: $hoverColour };
 }
 
 .column {
@@ -1102,4 +1122,6 @@ width: 140%;
 }
 
 .bigg { @include fontsize(delta, all); }
+
+.medium { @include fontsize(epsilon, all); }
 
