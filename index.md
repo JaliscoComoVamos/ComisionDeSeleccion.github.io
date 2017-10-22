@@ -33,7 +33,7 @@ Lunes 23 y martes 24 de octubre de 2017 en la Sala Presidentes en las instalacio
 
 <b>25 minutos.</b> El aspirante responderá preguntas sobre los temas expuestos en la Metodología y su experiencia profesional o personal.
 
-<b>5 minutos.</b> Contestará preguntas, formuladas por la sociedad civil, recibidas con al menos 24 horas de anticipación. 
+<b>5 minutos.</b> Contestará preguntas, formuladas por la sociedad civil, registradas con anticipación en la página electrónica de la Comisión de Selección. 
 <p></p>
 <p></p>
 <p></p> <div class="medium">
