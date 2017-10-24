@@ -42,9 +42,9 @@ feature_text: |
   </tr>
 	<tr>
     <td data-th="DÍAS"> 23 y 24 de octubre 2017</td>
-    <td data-th="ACTIVIDAD"> Entrevistas a los 15 seleccionados</td>
+    <td data-th="ACTIVIDAD"> Entrevistas a los 24 seleccionados</td>
     <td data-th="LUGAR"> CANACO Guadalajara</td>
-    <td data-th="HORA"> 10:00 a 19:00 horas</td>
+    <td data-th="HORA"> 9:00 a 19:00 horas</td>
     <td data-th="OBJETIVO"> Abiertas al público</td>
   </tr>
   	<tr style="background-color: #f2f2f2;">
