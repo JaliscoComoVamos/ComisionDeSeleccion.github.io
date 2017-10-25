@@ -8,7 +8,21 @@ title: ""
 <h5 style="color: #333333;">Entrevistas de los 24 aspirantes a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</h5>
 <p></p><p></p>
 
-<a href="https://www.youtube.com/watch?v=FrSVnoRkynM"><span class="specialunderline2" style="line-height: 1rem;"> <b>Día 2 de las entrevistas - martes 24 de octubre de 2017 (parte 2 de 2)</b></span></a>
+
+<a href="https://www.youtube.com/watch?v=yV43UlNqDkY"><span class="specialunderline2" style="line-height: 1rem;"> <b>Día 2 de las entrevistas - martes 24 de octubre de 2017 (parte 1 de 3)</b></span></a>
+{% include video.html id="yV43UlNqDkY" %}
+<p style="text-align:justify"><b>Entrevistas en este video: </b> Gerardo González Herrera; Lorenzo Bailón Cabrera; Héctor Ontiveros Delgadillo.</p>
+<p></p>
+<p></p>
+
+<a href="https://www.youtube.com/watch?v=WrVhCq9-03k"><span class="specialunderline2" style="line-height: 1rem;"> <b>Día 2 de las entrevistas - martes 24 de octubre de 2017 (parte 2 de 3)</b></span></a>
+{% include video.html id="WrVhCq9-03k" %}
+<p style="text-align:justify"><b>Entrevistas en este video: </b> Annel Alejandra Vázquez Anderson; José de Jesús Ibarra Cárdenas; María Esther Avelar Álvarez; Marco Antonio Cortés Guardado.</p>
+<p></p>
+<p></p>
+
+
+<a href="https://www.youtube.com/watch?v=FrSVnoRkynM"><span class="specialunderline2" style="line-height: 1rem;"> <b>Día 2 de las entrevistas - martes 24 de octubre de 2017 (parte 3 de 3)</b></span></a>
 {% include video.html id="FrSVnoRkynM" %}
 <p style="text-align:justify"><b>Entrevistas en este video: </b> Francisco Javier González Vallejo; Nancy García Vázquez; Jorge Alberto Alatorre Flores; Alberto Bayardo Pérez Arce.</p>
 <p></p>
