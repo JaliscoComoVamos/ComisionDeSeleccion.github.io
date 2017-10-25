@@ -8,6 +8,12 @@ title: ""
 <h5 style="color: #333333;">Entrevistas de los 24 aspirantes a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</h5>
 <p></p><p></p>
 
+<a href="https://www.youtube.com/watch?v=FrSVnoRkynM"><span class="specialunderline2" style="line-height: 1rem;"> <b>Día 2 de las entrevistas - martes 24 de octubre de 2017 (parte 2 de 2)</b></span></a>
+{% include video.html id="FrSVnoRkynM" %}
+<p style="text-align:justify"><b>Entrevistas en este video: </b> Francisco Javier González Vallejo; Nancy García Vázquez; Jorge Alberto Alatorre Flores; Alberto Bayardo Pérez Arce.</p>
+<p></p>
+<p></p>
+
 <a href="https://www.youtube.com/watch?v=8-HTbtHFz_g"><span class="specialunderline2" style="line-height: 1rem;"> <b>Día 1 de las entrevistas - lunes 23 de octubre de 2017 (parte 1 de 2)</b></span></a>
 {% include video.html id="8-HTbtHFz_g" %}
 <p style="text-align:justify"><b>Entrevistas en este video: </b> Ramón Becerra Reynoso; Guillermo Levine Gutiérrez; Joaquín Ignacio Peón Escalante; David Gómez-Álvarez Pérez; José Ma. Eugenio Núñez Murillo; Lucia Almaraz Cázares; Iliana Guadalupe León González.</p>
