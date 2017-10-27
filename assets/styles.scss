@@ -606,18 +606,20 @@ icon {
 .flex-grid .col {
   flex: 1;
 }
-.flex-grid-thirds {
+.flex-grid-thirds, .flex-grid-fourths {
   display: flex;
   justify-content: space-between;
 }
 .flex-grid-thirds .col {
   width: 32%;
-
+}
+.flex-grid-fourths .col {
+  width: 23%;
 }
 
 @media (max-width: 500px) {
   .flex-grid,
-  .flex-grid-thirds {
+  .flex-grid-thirds, flex-grid-fourths {
     display: block;
     .col {
       width: 100%;
@@ -907,7 +909,7 @@ span.showBodyOfDisplayOnHover {
   }
   }
 
-.comunicados {min-width: 260px}
+.comunicados {min-width: 282px}
 .comunicados a,
 .svg_text_link a { 
   color: #da5f49; 
@@ -948,10 +950,39 @@ span.showBodyOfDisplayOnHover {
       background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, $hoverColour 50%);
     }
 }
-
-a:focus .specialunderline, a:focus .specialunderline2, {
+a:focus .specialunderline, a:focus .specialunderline2 {
       background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, $hoverColour 50%);
     }
+
+
+.specialunderline3 {
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, #75bec4 50%);
+    background-position: 0 93%;
+    background-repeat: repeat-x;
+    background-size: 100% 0.15rem;
+    text-shadow: 0.1rem 0 #e8e9e8,
+                 0.15rem 0 #e8e9e8,
+                -0.1rem 0 #e8e9e8,
+                -0.15rem 0 #e8e9e8;
+    &:hover, &:active, &:focus {
+      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, #82D4DA 50%);
+    }
+}
+a:focus .specialunderline3 {
+      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, #82D4DA 50%);
+    }
+.actas a,
+.svg_text_link2 a { 
+  color: #75bec4; 
+  &:hover, &:active, &:focus { color: #82D4DA;}
+}
+.svg_text_link2 {
+  text-decoration: none;
+  &:focus, &:hover, &:active {color: #82D4DA; };
+}
+
+
+
 
 //////////
 
@@ -1084,7 +1115,6 @@ margin-left: -20%;
 width: 140%;
 }
 
-
 @media (max-width: 639px) {
 .rwd-table {
   max-width: 95vw;
@@ -1120,9 +1150,12 @@ width: 140%;
   width: 95vw;
   max-width: 95vw;
   line-height: 1.6rem;
+  } 
+
+  #table-wrap2 {
+  line-height: 1.9rem;
   }
 
-  
 }
 
 .bigg { @include fontsize(delta, all); }
