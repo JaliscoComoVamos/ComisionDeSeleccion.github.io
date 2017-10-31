@@ -30,7 +30,7 @@ feature_text: |
 </div><p></p><p></p>
 
 
-<div class="flex-grid-fourths  actas" style="margin-left: 12%; width: 103%">
+<div class="flex-grid-fourths  actas" style="margin-left: 12%; width: 103%; overflow-x: hidden;">
 
 <div class="col"><div style="text-align:center"> <br>
  <a href="/actas/Acta05.pdf" class="svg_text_link2"> <svg class="icon" role="img" style="width: 32px; height: 32px;"> <use xlink:href="#doc-pdf"></use></svg><br>
