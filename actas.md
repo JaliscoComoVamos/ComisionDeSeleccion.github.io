@@ -3,6 +3,10 @@ title: ""
 feature_text: |
   # ACTAS DE LAS SESIONES DE LA COMISIÓN DE SELECCIÓN
 ---
+
+<p style="text-align:justify">Al ser un órgano colegiado con atribuciones de decisión publica, la Comisión de Selección del Comité de Participación Social  del Sistema Anticorrupción del Estado de Jalisco, hace del conocimiento de la sociedad las fechas, lugares, agenda y acuerdos tomados durante sus sesiones de trabajo.</p>
+<p></p><p></p>
+
 <div class="flex-grid-fourths  actas">
 
 <div class="col"><div style="text-align:center"> <br>
