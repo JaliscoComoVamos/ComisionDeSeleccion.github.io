@@ -613,13 +613,21 @@ icon {
 .flex-grid-thirds .col {
   width: 32%;
 }
-.flex-grid-fourths .col {
-  width: 23%;
+.flex-grid-fourths .col, .flex-grid-fourths2 .col {
+  width: 25%;
+  border: 15px solid $white;
 }
+
+
+.flex-grid-fourths2 {
+  display: flex;
+  justify-content: center;
+}
+
 
 @media (max-width: 500px) {
   .flex-grid,
-  .flex-grid-thirds, flex-grid-fourths {
+  .flex-grid-thirds, .flex-grid-fourths, .flex-grid-fourths2 {
     display: block;
     .col {
       width: 100%;
