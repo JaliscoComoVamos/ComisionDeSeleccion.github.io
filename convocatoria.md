@@ -6,12 +6,13 @@ feature_text: |
 
 <div style="background-color: #fcf6bd; padding: 10px"> <p style="text-align:center">
 <b>NOTA:</b></p>
-<p style="text-align:justify">
+<div style="text-align:justify; line-height: 1.5rem"><span>
 La Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco, de acuerdo a lo previsto en la Base Décima de la Convocatoria para la conformación del Comité de Participación Social (CPS) del Sistema Anticorrupción del Estado de Jalisco (SAEJAL), hace de conocimiento que:
 <br><br>
-Los requisitos de la Base Primera de la convocatoria antes mencionada, deben interpretarse en armonía y a la luz del artículo 34 de la Ley del Sistema Anticorrupción del Estado de Jalisco, y ante duda de los mismos prevalecerá lo previsto en dicha ley, de igual manera se observará este criterio para determinar el cumplimiento de los requisitos en la evaluación documental prevista por la Base Séptima de la Convocatoria, todo lo anterior en congruencia con los principios de legalidad y certidumbre jurídica.</p>
-<p style="text-align:right; font-size:small;">
-Aprobada en sesión de la Comisión de Selección celebrada el 4 de octubre de 2017.</p></div>
+Los requisitos de la Base Primera de la convocatoria antes mencionada, deben interpretarse en armonía y a la luz del artículo 34 de la Ley del Sistema Anticorrupción del Estado de Jalisco, y ante duda de los mismos prevalecerá lo previsto en dicha ley, de igual manera se observará este criterio para determinar el cumplimiento de los requisitos en la evaluación documental prevista por la Base Séptima de la Convocatoria, todo lo anterior en congruencia con los principios de legalidad y certidumbre jurídica.</span></div>
+
+<span><div style="text-align:right; font-size:small;">
+Aprobada en sesión de la Comisión de Selección celebrada el 4 de octubre de 2017.</div></span></div>
 <p></p>
 <p></p>
 <p></p>
@@ -21,13 +22,13 @@ Aprobada en sesión de la Comisión de Selección celebrada el 4 de octubre de 2
 <p></p>
 <p></p>
 
-<p style="text-align:justify">La Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco, con fundamento en el Artículo 107 TER y el transitorio octavo del Decreto 26408/LXI/17 de la Constitución Política del Estado de Jalisco.</p>
-
+<div style="text-align:justify; line-height: 1.5rem"><span>La Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco, con fundamento en el Artículo 107 TER y el transitorio octavo del Decreto 26408/LXI/17 de la Constitución Política del Estado de Jalisco.</span></div>
+<p></p><p></p>
 <div style="text-align:center"><b>CONSIDERANDO:</b></div>
 
 <ol>
   <li>
-    <p style="text-align:justify">Que el  pasado 14 de septiembre de 2017 el Congreso del Estado de Jalisco acordó la integración de la Comisión de Selección para la conformación del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco.</p>
+    <p style="text-align:justify">Que el pasado 14 de septiembre de 2017 el Congreso del Estado de Jalisco acordó la integración de la Comisión de Selección para la conformación del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco.</p>
   </li>
   <li>
     <p style="text-align:justify">Que en el arábigo 4 del Artículo 18 de la Ley del Sistema Anticorrupción del Estado de Jalisco establece que la Comisión de Selección deberá emitir “una convocatoria con el objeto de realizar una amplia consulta pública en el Estado, dirigida a toda la sociedad en general para que presenten sus postulaciones a ocupar el cargo” en el Comité de Participación Social del Sistema Estatal Anticorrupción.</p>

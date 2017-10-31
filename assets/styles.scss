@@ -918,7 +918,7 @@ span.showBodyOfDisplayOnHover {
 @media (max-width: 1000px) {
   .comunicados {min-width: 180px} }
 @media (max-width: 700px) {
-  .comunicados {min-width: 163px} }
+  .comunicados { min-width: none; max-width:40% } }
 
 
 // special underline
