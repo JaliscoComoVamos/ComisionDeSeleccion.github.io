@@ -5,6 +5,25 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
+<h4 style="color: #5b9498; background: #fcf5bf; text-align: center">Anunciamos los cinco integrantes seleccionados para el nuevo Comité de Participación Social de Sistema Anticorrupción del Estado de Jalisco</h4>
+
+<p></p>
+<p></p>
+
+<table class="table3"><tbody>
+	<tr><th style="width: 50%"> <b> NOMBRE</b></th><th><b>DURACIÓN EN EL CARGO</b></th></tr>
+	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Jorge Alberto Alatorre Flores</span></td><td><p>1 año.  Será el primer Presidente del Comité de Participación Social, quien además presidirá el Comité Coordinador del Sistema Anticorrupción del Estado Jalisco.</p></td></tr>
+	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Freddy Mariñez Navarro</span></td><td><p>2 años</p></td></tr>
+	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Lucía Almaraz Cázares</span></td><td><p>3 años</p></td></tr>
+	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Annel Alejandra Vázquez Anderson</span></td><td><p>4 años</p></td></tr>
+	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> José de Jesús Ibarra Cárdenas</span></td><td><p>5 años</p></td></tr>
+</tbody></table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div style="text-align:center">
+<hr style="width:90%"></div>
 <p></p>
 <h5 style="color: #333333;">Entrevistas de los 24 aspirantes a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</h5>
 

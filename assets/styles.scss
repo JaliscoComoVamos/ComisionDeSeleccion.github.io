@@ -432,8 +432,8 @@ input[type="submit"]
   @include fontsize(zeta, all);
   
   &:hover, &:active, &:focus { 
-  background: #F0C199; 
-  color: #333333;
+  background: $linkColour; 
+  color: $white;
   }
 }
 
@@ -849,7 +849,7 @@ span.showBodyOfDisplayOnHover {
   }
 
 
-.image_ftr {max-width: 85%; margin-left:-15px} 
+.image_ftr {max-width: 75%; margin-left:-15px} 
 
 
 
@@ -1165,3 +1165,12 @@ width: 140%;
 .button2{
   background: #333;
   &:hover, &:focus, &:hover {background:#404040}}
+
+
+
+.table3 {
+      border: 1px solid $featureBackgroundColour;
+      tr:nth-child(odd) {background-color: #f2f2f2; }
+  }
+
+
