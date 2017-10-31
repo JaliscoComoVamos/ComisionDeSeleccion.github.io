@@ -4,6 +4,7 @@ excerpt: "La Comisión de Selección para el nombramiento de los integrantes del
 feature_image: "/assets/logo.svg"
 title: ""
 ---
+
 <p></p>
 <h5 style="color: #333333;">Entrevistas de los 24 aspirantes a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</h5>
 
