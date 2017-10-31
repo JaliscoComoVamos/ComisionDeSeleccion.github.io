@@ -12,11 +12,11 @@ title: ""
 
 <table class="table3"><tbody>
 	<tr><th style="width: 50%"> <b> NOMBRE</b></th><th><b>DURACIÓN EN EL CARGO</b></th></tr>
-	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Jorge Alberto Alatorre Flores</span></td><td><p>1 año.  Será el primer Presidente del Comité de Participación Social, quien además presidirá el Comité Coordinador del Sistema Anticorrupción del Estado Jalisco.</p></td></tr>
-	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Freddy Mariñez Navarro</span></td><td><p>2 años</p></td></tr>
-	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Lucía Almaraz Cázares</span></td><td><p>3 años</p></td></tr>
-	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Annel Alejandra Vázquez Anderson</span></td><td><p>4 años</p></td></tr>
-	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> José de Jesús Ibarra Cárdenas</span></td><td><p>5 años</p></td></tr>
+	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Jorge Alberto Alatorre Flores</span></td><td><div style="line-height: 1.3rem"><span>1 año.  Será el primer Presidente del Comité de Participación Social, quien además presidirá el Comité Coordinador del Sistema Anticorrupción del Estado Jalisco.</span></div></td></tr>
+	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Freddy Mariñez Navarro</span></td><td><span>2 años</span></td></tr>
+	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Lucía Almaraz Cázares</span></td><td><span>3 años</span></td></tr>
+	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Annel Alejandra Vázquez Anderson</span></td><td><span>4 años</span></td></tr>
+	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> José de Jesús Ibarra Cárdenas</span></td><td><span>5 años</span></td></tr>
 </tbody></table>
 <p></p>
 <p></p>
@@ -73,7 +73,7 @@ title: ""
 
 <h5 style="color: #333333; text-align: left">Proceso:</h5>
 <p></p>
-<p style="text-align:justify">Después de una revisión exhaustiva de los expedientes de todos y cada uno de los aspirantes para la integración del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, la Comisión de Selección publicó la lista de los 24 aspirantes seleccionados para la etapa de entrevistas.</p>
+<div style="text-align:justify; line-height: 1.5rem"><span>Después de una revisión exhaustiva de los expedientes de todos y cada uno de los aspirantes para la integración del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, la Comisión de Selección publicó la lista de los 24 aspirantes seleccionados para la etapa de entrevistas.</span></div>
 
 <p></p>
 <p></p>
