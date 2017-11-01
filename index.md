@@ -5,6 +5,19 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
+{% include figure.html image="/assets/ceremonia_de_entrega.jpg" position="center" %}
+<p></p>
+<div style="text-align:justify; line-height: 1.5rem"><span>Todas y todos están cordialmente invitados a la ceremonia de entrega de nombramientos a los cinco integrantes del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco.
+<br><br>
+La ceremonia se realizará el miércoles 1ro de noviembre a las 12:00 horas, en las instalaciones del Instituto Cultural Cabañas en el Patio de Museografía, con domicilio en Calle Cabañas 8, Col. Las Fresas, 44360 Guadalajara, Jalisco.
+<br><br></span></div>
+<div style="text-align:center; ">Esperamos contar con su valiosa presencia.</div>
+<p></p>
+<p></p>
+<div style="text-align:center">
+<hr style="width:90%"></div>
+<p></p>
+<p></p>
 <h4 style="color: #5b9498; background: #fcf5bf; text-align: center">Anunciamos los cinco integrantes seleccionados para el nuevo Comité de Participación Social de Sistema Anticorrupción del Estado de Jalisco</h4>
 
 <p></p>
