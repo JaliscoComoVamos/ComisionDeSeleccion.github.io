@@ -38,8 +38,12 @@ La ceremonia se realizará el miércoles 1ro de noviembre a las 12:00 horas, en 
 <p></p>
 <p></p>
 <p></p>
+<div>
+<a href="/documentos/Acuerdo_30_de_octubre_2017.pdf" class="svg_text_link"><svg class="icon" role="img">  <use xlink:href="#doc-pdf">  </use>  </svg>   <span class="specialunderline2" style="line-height: 1rem;"> Acuerdo de la Comisión de Selección por el que se le otorga el nombramiento a los cinco integrantes del Comité de Participación Social de Sistema Anticorrupción del Estado de Jalisco</span></a></div>
+<p></p>
 <div style="text-align:center">
 <hr style="width:90%"></div>
+<p></p>
 <p></p>
 <h5 style="color: #333333;">Entrevistas de los 24 aspirantes a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</h5>
 
