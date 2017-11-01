@@ -37,9 +37,9 @@ feature_text: |
 <span class="specialunderline3  bigg" style="line-height: 2rem;">ACTA 5&nbsp;</span> </a><p></p><span class="small">16 de octubre de 2017</span><p></p></div> </div>
 
 
-<div class="col"><div style="text-align:center"> <br>
+<div class="col"><div style="text-align:center">
  <a href="/actas/Acta06.pdf" class="svg_text_link2"> <svg class="icon" role="img" style="width: 32px; height: 32px;"> <use xlink:href="#doc-pdf"></use></svg><br>
-<span class="specialunderline3  bigg" style="line-height: 2rem;">ACTA 6&nbsp;</span> </a><p></p><span class="small">19 de octubre de 2017</span><p></p></div> </div>
+<span class="specialunderline3  bigg" style="line-height: 2rem;">ACTA 6&nbsp;</span> </a><br><span class="small">19 de octubre de 2017</span><p></p> <a class="button  small  button3" href="/cedulas" style="color: #ffffff; width: 92%">Cédulas de evaluación curricular de todos los participantes</a><a class="button  small  button3" href="/lista-resultados" style="color: #ffffff; width: 92%">Lista de los resultados de la evaluación curricular</a>  </div> </div>
 
 
 <div class="col"><div style="text-align:center"> <br>

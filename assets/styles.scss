@@ -618,7 +618,7 @@ icon {
 }
 
 .flex-grid-fourths2 .col {
-  width: 25%;
+  width: 26%;
   border: 10px solid $white;
 }
 
@@ -631,7 +631,7 @@ icon {
 
 @media (max-width: 500px) {
   .flex-grid,
-  .flex-grid-thirds, .flex-grid-fourths, .flex-grid-fourths2 {
+  .flex-grid-thirds {
     display: block;
     .col {
       width: 100%;
@@ -639,6 +639,21 @@ icon {
     }
   }
 }
+
+
+@media (max-width: 600px) {
+  .flex-grid-fourths, .flex-grid-fourths2 {
+    display: block;
+    .col {
+      width: 100%;
+      margin: 0 0 5px 0;
+      border: none;
+    }
+  }
+}
+
+
+
 
 * {
   box-sizing: border-box;
@@ -1178,6 +1193,10 @@ width: 140%;
   background: #333;
   &:hover, &:focus, &:hover {background:#404040}}
 
+.button3{
+  background: #75bec4; 
+  border-color: #75bec4;
+  &:hover, &:focus, &:hover {background:#82D4DA}}
 
 
 .table3 {
