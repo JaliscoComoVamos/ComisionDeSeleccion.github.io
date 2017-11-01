@@ -5,7 +5,10 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
-{% include figure.html image="/assets/ceremonia_de_entrega.jpg" position="center" %}
+<figure class="figure  figure--center">
+  <img class="image" src="/assets/ceremonia_de_entrega.jpg" style="border: 1px solid #e8e9e8">
+</figure>
+
 <p></p>
 <div style="text-align:justify; line-height: 1.5rem"><span>Todas y todos están cordialmente invitados a la ceremonia de entrega de nombramientos a los cinco integrantes del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco.
 <br><br>

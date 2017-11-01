@@ -1018,6 +1018,10 @@ a:focus .specialunderline3 {
   &:focus, &:hover, &:active {color: $hoverColour }
 }
 
+td > a {
+  &:focus, &:hover, &:active {color: #da5f49 }
+}
+
 .svg_text_link {
   text-decoration: none;
   &:focus, &:hover, &:active {color: $hoverColour };
