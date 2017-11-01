@@ -1209,3 +1209,7 @@ width: 140%;
   }
 
 
+.svg_text_link3 a { 
+  color: #E79789; 
+  &:hover, &:active, &:focus { color: $hoverColour}
+}
