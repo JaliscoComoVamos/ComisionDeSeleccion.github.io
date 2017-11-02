@@ -32,7 +32,7 @@ feature_text: |
 <tr><td><div><span>54ACPSJ2017</span></div></td><td><a href="/cedulas/Maria_Esther_Avelar_Alvarez.pdf">María Esther Avelar Álvarez</a><span style="color:#75bec4;">*</span></td><td><div><span>137</span></div></td></tr>
 <tr><td><div><span>47ACPSJ2017</span></div></td><td><a href="/cedulas/Annel_Alejandra_Vazquez_Anderson.pdf">Annel Alejandra Vázquez Anderson</a><span style="color:#75bec4;">*</span></td><td><div><span>136</span></div></td></tr>
 <tr><td><div><span>59ACPSJ2017</span></div></td><td><a href="/cedulas/Francisco_Javier_Gonzalez_Vallejo.pdf">Francisco Javier González Vallejo</a><span style="color:#75bec4;">*</span></td><td><div><span>136</span></div></td></tr>
-<tr><td><div><span>24ACPSJ2017</span></div></td><td><a href="/cedulas/Lucia_Almaraz_Cazares.pdf">Lucía Almaraz Cázares</a><span style="color:#75bec4;">*</span></td><td><div><span>136</span></div></td></tr>
+<tr><td><div><span>24ACPSJ2017</span></div></td><td><a href="/cedulas/Lucia_Almaraz_Cazarez.pdf">Lucía Almaraz Cázarez</a><span style="color:#75bec4;">*</span></td><td><div><span>136</span></div></td></tr>
 <tr><td><div><span>45ACPSJ2017</span></div></td><td><a href="/cedulas/Bulmaro_Lopez_Gonzalez.pdf">Bulmaro López González</a></td><td><div><span>135</span></div></td></tr>
 <tr><td><div><span>16ACPSJ2017</span></div></td><td><a href="/cedulas/Javier_Ignacio_Salazar_Mariscal.pdf">Javier Ignacio Salazar Mariscal</a></td><td><div><span>134</span></div></td></tr>
 <tr><td><div><span>53ACPSJ2017</span></div></td><td><a href="/cedulas/Gabriel_Torres_Espinoza.pdf">Gabriel Torres Espinoza</a></td><td><div><span>134</span></div></td></tr>

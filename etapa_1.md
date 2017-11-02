@@ -19,10 +19,10 @@ feature_text: |
       <svg class="icon" role="img"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline" style="line-height: 1rem; vertical-align: text-bottom;">
 Jorge Alberto Alatorre Flores</span></a><br>
-	<a href="/testados/Lucia_Almaraz_Cazares.pdf" class="hangingindent"> 
+	<a href="/testados/Lucia_Almaraz_Cazarez.pdf" class="hangingindent"> 
       <svg class="icon" role="img"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline" style="line-height: 1rem; vertical-align: text-bottom;">
-Lucia Almaraz Cázares</span></a><br>
+Lucía Almaraz Cázarez</span></a><br>
 	<a href="/testados/Maria_Esther_Avelar_Alvarez.pdf" class="hangingindent"> 
       <svg class="icon" role="img"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline" style="line-height: 1rem; vertical-align: text-bottom;">

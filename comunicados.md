@@ -4,7 +4,7 @@ feature_text: |
   # COMUNICADOS
 ---
 <table id="table-wrap2" style="margin-left: 0px; width: 100%; border-spacing: 0 9px; border-collapse: separate;">
-  
+
 <tr style="height: 200px">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/Acuerdo_30_de_octubre_2017.pdf"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>

@@ -5,20 +5,6 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
-<figure class="figure  figure--center">
-  <img class="image" src="/assets/ceremonia_de_entrega.jpg" style="border: 1px solid #e8e9e8">
-</figure>
-
-<p></p>
-<div style="text-align:justify; line-height: 1.5rem"><span>Todas y todos están cordialmente invitados a la ceremonia de entrega de nombramientos a los cinco integrantes del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco.
-<br><br>
-La ceremonia se realizará el miércoles 1ro de noviembre a las 12:00 horas, en las instalaciones del Instituto Cultural Cabañas en el Patio de Museografía, con domicilio en Calle Cabañas 8, Col. Las Fresas, 44360 Guadalajara, Jalisco.
-<br><br></span></div>
-<div style="text-align:center; ">Esperamos contar con su valiosa presencia.</div>
-<p></p>
-<p></p>
-<div style="text-align:center">
-<hr style="width:90%"></div>
 <p></p>
 <p></p>
 <h4 style="color: #5b9498; background: #fcf5bf; text-align: center">Anunciamos los cinco integrantes seleccionados para el nuevo Comité de Participación Social de Sistema Anticorrupción del Estado de Jalisco</h4>
@@ -30,7 +16,7 @@ La ceremonia se realizará el miércoles 1ro de noviembre a las 12:00 horas, en 
 	<tr><th style="width: 50%"> <b> NOMBRE</b></th><th><b>DURACIÓN EN EL CARGO</b></th></tr>
 	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Jorge Alberto Alatorre Flores</span></td><td><div style="line-height: 1.3rem"><span>1 año.  Será el primer Presidente del Comité de Participación Social, quien además presidirá el Comité Coordinador del Sistema Anticorrupción del Estado Jalisco.</span></div></td></tr>
 	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Freddy Mariñez Navarro</span></td><td><span>2 años</span></td></tr>
-	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Lucía Almaraz Cázares</span></td><td><span>3 años</span></td></tr>
+	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Lucía Almaraz Cázarez</span></td><td><span>3 años</span></td></tr>
 	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> Annel Alejandra Vázquez Anderson</span></td><td><span>4 años</span></td></tr>
 	<tr><td> <span style="color: #d8604e; font-weight:bold" class="medium"> José de Jesús Ibarra Cárdenas</span></td><td><span>5 años</span></td></tr>
 </tbody></table>
@@ -60,7 +46,7 @@ La ceremonia se realizará el miércoles 1ro de noviembre a las 12:00 horas, en 
 
 <a href="https://www.youtube.com/watch?v=8-HTbtHFz_g"><span class="specialunderline2" style="line-height: 1rem;"> <b>Día 1 de las entrevistas - lunes 23 de octubre de 2017 (parte 2 de 3)</b></span></a>
 {% include video.html id="8-HTbtHFz_g" %}
-<p style="text-align:justify"><b>Entrevistas en este video: </b> Joaquín Ignacio Peón Escalante; David Gómez-Álvarez Pérez; José Ma. Eugenio Núñez Murillo; Lucia Almaraz Cázares; Iliana Guadalupe León González.</p>
+<p style="text-align:justify"><b>Entrevistas en este video: </b> Joaquín Ignacio Peón Escalante; David Gómez-Álvarez Pérez; José Ma. Eugenio Núñez Murillo; Lucía Almaraz Cázarez; Iliana Guadalupe León González.</p>
 <p></p>
 <p></p>
 
