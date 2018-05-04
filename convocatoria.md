@@ -3,7 +3,6 @@ title: ""
 feature_text: |
    # CONVOCATORIA
 ---
-
 <div style="background-color: #fcf6bd; padding: 10px"> <p style="text-align:center">
 <b>NOTA:</b></p>
 <div style="text-align:justify; line-height: 1.5rem"><span>
@@ -16,7 +15,7 @@ Aprobada en sesión de la Comisión de Selección celebrada el 4 de octubre de 2
 <p></p>
 <p></p>
 <p></p>
-
+<div style="font-family: Lato">
 <div style="text-align:center"><b>CONVOCATORIA PARA LA CONFORMACIÓN DEL COMITÉ DE PARTICIPACIÓN SOCIAL (CPS) DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO (SAEJAL)</b></div>
 
 <p></p>
@@ -238,7 +237,7 @@ Posteriormente, respecto de las y los candidatos que los cumplan, la Comisión h
 COMISIÓN DE SELECCÍON PARA EL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO  </b>
 <p></p>
 <p><b>Guadalajara, Jalisco a 2 de octubre de 2017</b></p>
-</div>
+</div></div>
 <p></p><div style="text-align:center">
 <hr style="width:70%"></div>
 Lee o descarga esta Convocatoria [en formato PDF]({{ site.url }}/documentos/ConvocatoriaCPSJalisco_con_notas_agregadas.pdf).

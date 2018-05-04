@@ -7,7 +7,7 @@ title: ""
 
 <p></p>
 <p></p>
-<h4 style="color: #5b9498; background: #fcf5bf; text-align: center">Anunciamos los cinco integrantes seleccionados para el nuevo Comité de Participación Social de Sistema Anticorrupción del Estado de Jalisco</h4>
+<h4 style="color: #333; background: #fcf5bf; text-align: center; font-weight: normal; padding: 5px; font-family: Karla">Anunciamos los cinco integrantes seleccionados para el nuevo Comité de Participación Social de Sistema Anticorrupción del Estado de Jalisco:</h4>
 
 <p></p>
 <p></p>
