@@ -18,8 +18,8 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <div class="col"><div style="text-align:center"><img class="img-circle" src="/fotos/RobertoArias.jpg" width="220px"><p><b style="color: #82D4DA">ROBERTO ARIAS DE LA MORA</b></p>
 <p class="small">Secretario General de El Colegio de Jalisco </p> </div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MaraRobles.jpg" width="220px"><p><b style="color: #82D4DA">MARA NADIEZHDA ROBLES VILLASEÑOR</b></p>  
-<p class="small">Rectora del Centro Universitario de los Altos de la UDG </p> </div></div>
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MariaAvelar.jpg" width="220px"><p><b style="color: #82D4DA">MARÍA ESTHER AVELAR ÁLVAREZ</b></p>  
+<p class="small">Rectora del Sistema de Universidad Virtual de la Universidad de Guadalajara </p> </div></div>
 </div><p>
 </p>
 <div class="flex-grid-thirds">
