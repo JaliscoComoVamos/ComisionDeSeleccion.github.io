@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "es-MX" }}">
+
 		<head>
 			<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -19,9 +20,25 @@
 				{% seo %}
 			{% endif %}
 
-    <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+      {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+      <title>{{ collectiondata.title }} - {{ site.title }}</title>
+      <meta property="og:title" content="{{ collectiondata.title }}">
+      <meta name="description" content="{{ collectiondata.description }}">
+      <meta property="og:description" content="{{ collectiondata.description }}">
 
-			{% if site.avatarurl %}{% include site-favicons.html %}{% endif %}
+      <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
+      <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#242e2b' }}"/>
+
+      {% if site.css_inline == true %}
+          {% include site-styles.html %}
+      {% else %}
+          <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+      {% endif %}
+
+
+			{% if site.avatarurl %}
+                {% include site-favicons.html %}
+            {% endif %}
 
     		{% if site.google_analytics %}
         		{% include google_analytics.html %}
@@ -35,9 +52,5 @@
 			{{ content }}
 
 		</body>
-
-		    {% if site.google_analytics %}
-        {% include google_analytics.html %}
-    {% endif %}
 
 </html>

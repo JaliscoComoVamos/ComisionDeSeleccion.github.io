@@ -19,7 +19,7 @@ exclude:
 - alembic-jekyll-theme.gemspec
 
 # 2. Installed Gems
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
@@ -28,6 +28,7 @@ gems:
 - jekyll-default-layout
 - jekyll-feed
 - jemoji
+- jekyll-remote-theme
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -55,6 +56,8 @@ collections:
 # 6. Jekyll collections settings
 defaults:
   -
+    scope:
+      path: ""
     values:
       image: "/assets/logo-text-on-white.png" # Default image for sharing
 
@@ -71,6 +74,7 @@ baseurl: ""
 repo: "https://github.com/jaliscocomovamos/jaliscocomovamos.github.io"
 avatarurl: "http://comisionsaejalisco.org/favicon.ico"
 email: "contacto@comisionsaejalisco.org"
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site navigation
 navigation_header:
@@ -106,5 +110,8 @@ sharing_links: # Appear at the bottom of single blog posts, uncomment and commen
 
 # Add Google Analytics
 google_analytics: UA-107378701-1
+
+# Additional instructions
+remote_theme: daviddarnes/alembic
 
 
