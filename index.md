@@ -6,7 +6,7 @@ title: ""
 ---
 <h4 style="text-align:center;"><a href="http://comisionsaejalisco.org/convocatoria/convocatoria_conformacion_cps/">Da click aquí para revisar la convocatoria para la conformación del Comité de Participación Social (septiembre 2018)</a></h4>
 <p></p>
-<div style="color: #000000; height:6px; width:100%; display:block;"></div>
+<div style="background-color: #262626; height:6px; width:100%; display:block;"></div>
 <p></p>
 <h4 style="color: #333; background: #fcf5bf; text-align: center; font-weight: normal; padding: 5px; font-family: Karla">Anunciamos los cinco integrantes seleccionados para el nuevo Comité de Participación Social de Sistema Anticorrupción del Estado de Jalisco:</h4>
 
