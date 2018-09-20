@@ -18,7 +18,7 @@ feature_text: |
     </thead>
     <tbody>
         <tr>
-            <td data-th="DÍA" rowspan="2">17 de septiembre de 2018</td>
+            <td data-th="DÍA" >17 de septiembre de 2018</td>
             <td data-th="ACTIVIDAD">Emisión de la Convocatoria</td>
             <td data-th="LUGAR">Sistema de Universidad Virtual de la Universidad de Guadalajara.</td>
             <td data-th="HORA"> 10:30 horas</td>
