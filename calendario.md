@@ -22,7 +22,7 @@ feature_text: |
             <td data-th="ACTIVIDAD">Emisión de la Convocatoria</td>
             <td data-th="LUGAR">Sistema de Universidad Virtual de la Universidad de Guadalajara.</td>
             <td data-th="HORA"> 10:30 horas</td>
-            <td data-th="OBJETIVO"></td>
+
         </tr>
         <tr style="background-color: #f2f2f2;">
             <td data-th="DÍA" > 17 de septiembre al 2 de octubre de 2018, lunes a viernes de 9:00 a 15:00 horas.</td>
