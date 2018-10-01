@@ -1,6 +1,20 @@
 <nav class="nav  nav--header">
     <ul class="list  list--nav">
         {% for item in site.navigation_header %}
+        
+        <li class="item  item--nav{% if page.url contains 'formato' %}  item--current{% endif %}">
+            <div class="dropdown">
+                <div class="dropbtn"> Formatos </div>
+                <ul class="dropdown-content">
+                    <li><a href="{{ site.url }}/convocatoria/convocatoria_conformacion_cps">Convocatoria para conformación del CPS</a></li>
+                    <li><a href="{{ site.url }}/convocatoria/carta_bajo_protesta">Carta Bajo Protesta de Decir Verdad</a></li>
+                    <li><a href="{{ site.url }}/convocatoria/3de3_intereses">Declaración de Intereses</a></li>
+                    <li><a href="{{ site.url }}/convocatoria/3de3_patrimonial">Declaración Patrimonial</a></li>
+                    <li><a href="{{ site.url }}/convocatoria/3de3_fiscal">Declaración Fiscal (Ejemplo)</a></li>
+                        <li><a href="{{ site.url }}/convocatoria">Convocatoria 2017</a></li>
+                </ul>
+            </div>
+        </li>
 
         {% if item[0] contains 'Convocatoria' %}
 
@@ -36,5 +50,7 @@
         {% endif %}
 
         {% endfor %}
+        
+        
     </ul>
 </nav>
