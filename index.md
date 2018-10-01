@@ -32,15 +32,3 @@ title: ""
 <hr style="width:90%"></div>
 <p></p>
 <p></p>
-<h5 style="color: #333333;">Entrevistas de los 24 aspirantes a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</h5>
-
-<p></p>
-<p></p>
-
-
-<a href="https://www.youtube.com/watch?v=H5h_Shb50zg"><span class="specialunderline2" style="line-height: 1rem;"> <b>Día 1 de las entrevistas - lunes 23 de octubre de 2017 (parte 1 de 3)</b></span></a>
-{% include video.html id="H5h_Shb50zg" %}
-<p style="text-align:justify"><b>Entrevistas en este video: </b> Ramón Becerra Reynoso; Guillermo Levine Gutiérrez.</p>
-<p></p>
-<p></p>
-
