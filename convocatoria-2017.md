@@ -4,7 +4,7 @@ excerpt: "La Comisión de Selección para el nombramiento de los integrantes del
 feature_image: "/assets/logo.svg"
 title: ""
 ---
-<h4 style="text-align:center;">Convocatoria de proceso de selección para nuevo integrante del comité de participación social del sistema anticorrupción del estado de Jalisco 2018. <a href="http://comisionsaejalisco.org/documentos/ConvocatoriaCPSJalisco_con_notas_agregadas.pdf">Descárgala aquí.</a></h4>
+<h4 style="text-align:center;">Convocatoria de proceso de selección para nuevo integrante del comité de participación social del sistema anticorrupción del estado de Jalisco 2017. <a href="http://comisionsaejalisco.org/documentos/ConvocatoriaCPSJalisco_con_notas_agregadas.pdf">Descárgala aquí.</a></h4>
 <p></p>
 <div style="background-color: #262626; height:6px; width:100%; display:block;"></div>
 <p></p>
