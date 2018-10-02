@@ -1,11 +1,11 @@
 ---
 title: ""
 feature_text: |
-   # CONVOCATORIA
-   ## Convocatoria para conformación del Comité de Participación Social
+   # CONVOCATORIA 2018
+   ## 
 ---
 
-Descarga la **Convocatoria para conformación del Comité de Participación Social** [en formato PDF]({{ site.url }}/documentos/convocatoria_para conformacion_del CPS_2018_Final_07sep2018.pdf).
+Descarga la **Convocatoria de proceso de selección para nuevo integrante del comité de participación social del sistema anticorrupción del estado de Jalisco 2018.** [Descargar aquí]({{ site.url }}/documentos/convocatoria_para conformacion_del CPS_2018_Final_07sep2018.pdf).
 
 
 
