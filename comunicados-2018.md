@@ -5,7 +5,7 @@ feature_text: |
 ---
 
       
-  <h4><a href="http://comisionsaejalisco.org/comunicados-2017">Si quieres consultar el historial de comunicados del año 2017, da click aquí.</a></h4>
+  <h4 style="text-align:center;"><a href="http://comisionsaejalisco.org/comunicados-2017">Si quieres consultar el historial de comunicados del año 2017, da click aquí.</a></h4>
 
 
 <table id="table-wrap2" style="margin-left: 0px; width: 100%; border-spacing: 0 9px; border-collapse: separate;">
