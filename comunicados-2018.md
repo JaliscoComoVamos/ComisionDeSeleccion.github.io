@@ -3,14 +3,10 @@ title: ""
 feature_text: |
   # COMUNICADOS 2018
 ---
-  <p></p>
-    <p></p>
-      <p></p>
+
       
-  <h4><a href="http://comisionsaejalisco.org/comunicados">Si quieres consultar el historial de comunicados del año 2017, da click aquí.</a></h4>
-    <p></p>
-      <p></p>
-        <p></p>
+  <h4><a href="http://comisionsaejalisco.org/comunicados-2017">Si quieres consultar el historial de comunicados del año 2017, da click aquí.</a></h4>
+
 
 <table id="table-wrap2" style="margin-left: 0px; width: 100%; border-spacing: 0 9px; border-collapse: separate;">
 
