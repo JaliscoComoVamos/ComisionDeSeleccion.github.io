@@ -4,9 +4,8 @@ excerpt: "La Comisión de Selección para el nombramiento de los integrantes del
 feature_image: "/assets/logo.svg"
 title: ""
 ---
-<h4 style="text-align:center;"><a href="http://comisionsaejalisco.org/convocatoria/convocatoria_conformacion_cps/">Convocatoria 2018</a></h4>
+<h3 style="text-align:center;"><a href="/convocatoria/convocatoria_conformacion_cps/">Convocatoria 2018</a></h3>
 <p></p>
-<h4 style="text-align:center;"><a href="http://comisionsaejalisco.org/convocatoria/convocatoria-2017">Convocatoria 2017</a></h4>
+<h3 style="text-align:center;"><a href="/convocatoria/convocatoria-2017">Convocatoria 2017</a></h3>
 <p></p>
-<div style="background-color: #262626; height:6px; width:100%; display:block;"></div>
 <p></p>
