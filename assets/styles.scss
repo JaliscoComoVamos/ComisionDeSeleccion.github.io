@@ -101,14 +101,14 @@ body {
   }
 
   /* Show the dropdown menu on hover */
-  .dropdown:hover .dropdown-content {
+  .dropdown:hover .dropdown-content, .dropdown:active .dropdown-content {
       display: block ;
       position: absolute;
       z-index: 3;
   }
 
   /* Change the background color of the dropdown button when the dropdown content is shown */
-  .dropdown:hover .dropbtn {
+  .dropdown:hover .dropbtn, .dropdown:active .dropbtn {
       background-color: #e8e9e8;
   }
   }
