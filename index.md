@@ -6,6 +6,6 @@ title: ""
 ---
 <h3 style="text-align:center;"><a href="/convocatoria/convocatoria_conformacion_cps/">Convocatoria 2018</a></h3>
 <p></p>
-<h3 style="text-align:center;"><a href="/convocatoria/convocatoria-2017">Convocatoria 2017</a></h3>
+<h3 style="text-align:center;"><a href="/convocatoria-2017/">Convocatoria 2017</a></h3>
 <p></p>
 <p></p>
