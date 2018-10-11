@@ -21,13 +21,13 @@ Jorge Chaires Zaragoza</span></a>
             <svg class="icon" role="img">
                 <use xlink:href="#doc-pdf"></use>
             </svg> <span class="specialunderline" style="line-height: 1rem; vertical-align: text-bottom;">
-Marco Antonio Cortes Guardado</span></a>
+Marco Antonio Cortés Guardado</span></a>
         <br>
             <a href="/testados2/Nancy_Garcia_Vazquez.pdf" class="hangingindent">
             <svg class="icon" role="img">
                 <use xlink:href="#doc-pdf"></use>
             </svg> <span class="specialunderline" style="line-height: 1rem; vertical-align: text-bottom;">
-Nancy Garcia Vazquez</span></a>
+Nancy García Vázquez</span></a>
           <br>
          <a href="/testados2/Tadeo_Eduardo_Hubbe_Contreras.pdf" class="hangingindent">
             <svg class="icon" role="img">
@@ -59,7 +59,7 @@ Jose Antonio Murillo Gladin</span></a>
             <svg class="icon" role="img">
                 <use xlink:href="#doc-pdf"></use>
             </svg> <span class="specialunderline" style="line-height: 1rem; vertical-align: text-bottom;">
-Alejandro Salvador Sanchez Torres</span></a>
+Alejandro Salvador Sánchez Torres</span></a>
         <br>
   
         <a href="/testados2/Gonzalo_Alejandro_Verduzco_Mendoza.pdf" class="hangingindent">
