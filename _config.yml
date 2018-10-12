@@ -73,7 +73,7 @@ url: "http://comisionsaejalisco.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/jaliscocomovamos/jaliscocomovamos.github.io"
 avatarurl: "http://comisionsaejalisco.org/favicon.ico"
-email: "contacto@comisionsaejalisco.org"
+email: "lic_adrian21@hotmail.com"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site navigation
@@ -84,6 +84,7 @@ navigation_header:
   Formatos: 
   Marco Legal: /marco_legal/
   Calendario: /calendario/
+  Contacto: /contacto/
 
 navigation_footer:
   # Created by Jalisco Cómo Vamos: http://jaliscocomovamos.org/
