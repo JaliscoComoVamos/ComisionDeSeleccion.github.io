@@ -3,7 +3,7 @@ title: ""
 feature_text: |
    # CONTACTO
 ---
-
+<!--
 <p></p><p></p>
 Si tienes alguna duda, pregunta o comentario, te atenderemos con mucho gusto.
 <p><br><b>Envíanos un mensaje:</b></p><br>
@@ -12,5 +12,5 @@ Si tienes alguna duda, pregunta o comentario, te atenderemos con mucho gusto.
  {% include site-form.html %}
 <p></p>
 
-
+-->
 <p></p><p></p><p></p><p></p>
