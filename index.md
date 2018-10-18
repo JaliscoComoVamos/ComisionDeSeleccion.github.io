@@ -35,16 +35,16 @@ title: ""
     d. Su papel en la promoción de vínculos con la sociedad jalisciense.<br><br>
 
     <li><strong>25 minutos.</strong> El aspirante responderá realizará preguntas de los temas expuestos en la Metodología para la valoración de expedientes y algunos otros asuntos de la experiencia profesional o personal del aspirante que los Comisionados consideren pertinentes:</li>
-    <ol type="a">
-        <li>Dominio de los temas de trabajo del Comité: transparencia, rendición de cuentas, combate a la corrupción y aspectos relacionados.</li>
-        <li>Visión del Sistema Estatal Anticorrupción.</li>
-        <li>Capacidad de advertir los retos que enfrenta el Sistema Estatal Anticorrupción, así como su propuesta para resolverlos.</li>
-        <li>Claridad y visión sobre el papel del Comité de Participación Social dentro del Sistema Nacional Anticorrupción (objetivos y funciones).</li>
-        <li>Estructura lógica del pensamiento, capacidad de síntesis y sentido crítico en la presentación de explicaciones y argumentos.</li>
-        <li>Visión congruente con los principios constitucionales del Sistema Nacional Anticorrupción.</li>
-        <li>Liderazgo y capacidades de comunicación.</li>
-        <li>Independencia, determinación y firmeza en el ejercicio de sus atribuciones.</li>
-    </ol>
+   
+        a. Dominio de los temas de trabajo del Comité: transparencia, rendición de cuentas, combate a la corrupción y aspectos relacionados.<br><br>
+        b. Visión del Sistema Estatal Anticorrupción.<br><br>
+        c. Capacidad de advertir los retos que enfrenta el Sistema Estatal Anticorrupción, así como su propuesta para resolverlos.<br><br>
+        d. Claridad y visión sobre el papel del Comité de Participación Social dentro del Sistema Nacional Anticorrupción (objetivos y funciones).<br><br>
+        e. Estructura lógica del pensamiento, capacidad de síntesis y sentido crítico en la presentación de explicaciones y argumentos.<br><br>
+        f. Visión congruente con los principios constitucionales del Sistema Nacional Anticorrupción.<br><br>
+        g. Liderazgo y capacidades de comunicación.<br><br>
+        h. Independencia, determinación y firmeza en el ejercicio de sus atribuciones.<br><br>
+    
     <li><strong>5 minutos.</strong>Contestará preguntas, formuladas por la sociedad civil, formuladas con anticipación recibidas con al menos 24 horas de anticipación.
     </li>
 </ol>
