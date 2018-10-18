@@ -48,3 +48,9 @@ title: ""
     <li><strong>5 minutos.</strong>Contestará preguntas, formuladas por la sociedad civil, formuladas con anticipación recibidas con al menos 24 horas de anticipación.
     </li>
 </ol>
+<p></p>
+<p></p>
+<p>Las entrevistas serán abiertas al público con la participación de la sociedad civil a través de preguntas formuladas previamente a los aspirantes vía correo electrónico a través del siguiente enlace:</p>
+<p><a target="_blank" href="http://comisionsaejalisco.org/contacto/">Pregunta Ciudadana</a></p>
+
+<p>Vuelve aquí para ver la transmisión en vivo de la ronda de entrevistas este lunes 22 de octubre a partir de las 9:00 horas.</p>
