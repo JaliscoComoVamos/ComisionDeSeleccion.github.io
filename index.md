@@ -45,7 +45,7 @@ title: ""
         g. Liderazgo y capacidades de comunicación.<br><br>
         h. Independencia, determinación y firmeza en el ejercicio de sus atribuciones.<br><br>
     
-    <li><strong>5 minutos.</strong>Contestará preguntas, formuladas por la sociedad civil, formuladas con anticipación recibidas con al menos 24 horas de anticipación.
+    <li><strong>5 minutos.</strong> El aspirante contestará preguntas, formuladas por la sociedad civil, formuladas con anticipación recibidas con al menos 24 horas de anticipación.
     </li>
 </ol>
 <p></p>
