@@ -28,12 +28,12 @@ title: ""
 <ol>
     <li><Strong>15 minutos.</Strong> El aspirante transmitir de forma oral a la Comisión de Selección y a la sociedad en general:
     </li>
-    <ol type="a">
-        <li>Su visión del Comité de Participación Social dentro del Sistema Anticorrupción: expectativas de corto plazo y necesidades de largo plazo en su funcionamiento.</li>
-        <li>Una exposición de las razones que lo hacen un candidato idóneo y cuál sería su aportación personal a la labor de un cuerpo colegiado como el Comité de Participación Social.</li>
-        <li>Elementos de su perfil, experiencia profesional y rasgos de su carácter que contribuirían a lograr los objetivos del Comité de Participación Social.</li>
-        <li>Su papel en la promoción de vínculos con la sociedad jalisciense.</li>
-    </ol>
+
+    a. Su visión del Comité de Participación Social dentro del Sistema Anticorrupción: expectativas de corto plazo y necesidades de largo plazo en su funcionamiento.<br><br>
+    b. Una exposición de las razones que lo hacen un candidato idóneo y cuál sería su aportación personal a la labor de un cuerpo colegiado como el Comité de Participación Social.<br><br>
+    c. Elementos de su perfil, experiencia profesional y rasgos de su carácter que contribuirían a lograr los objetivos del Comité de Participación Social.<br><br>
+    d. Su papel en la promoción de vínculos con la sociedad jalisciense.<br><br>
+
     <li><strong>25 minutos.</strong> El aspirante responderá realizará preguntas de los temas expuestos en la Metodología para la valoración de expedientes y algunos otros asuntos de la experiencia profesional o personal del aspirante que los Comisionados consideren pertinentes:</li>
     <ol type="a">
         <li>Dominio de los temas de trabajo del Comité: transparencia, rendición de cuentas, combate a la corrupción y aspectos relacionados.</li>
