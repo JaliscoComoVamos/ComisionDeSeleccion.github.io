@@ -7,7 +7,7 @@ title: ""
 <h3>Lista de los 8 aspirantes que pasan a la ronda de entrevistas para ser elegidos como un nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco.</h3>
 <p></p>
 <p></p>
-<ul>
+<ul style="text-align:center;list-style-type: none;">
     <li>Blumaro López González</li>
     <li>Marco Antonio Cortés Guardado</li>
     <li>Nancy García Vázquez</li>
