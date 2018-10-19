@@ -26,7 +26,7 @@ title: ""
 </ul>
 <h5>Formato de entrevistas:</h5>
 <ol>
-    <li><Strong>15 minutos.</Strong> El aspirante transmitir de forma oral a la Comisión de Selección y a la sociedad en general:
+    <li><Strong>15 minutos.</Strong> El aspirante transmitirá de forma oral a la Comisión de Selección y a la sociedad en general:
     </li>
 
     a. Su visión del Comité de Participación Social dentro del Sistema Anticorrupción: expectativas de corto plazo y necesidades de largo plazo en su funcionamiento.<br><br>
@@ -34,7 +34,7 @@ title: ""
     c. Elementos de su perfil, experiencia profesional y rasgos de su carácter que contribuirían a lograr los objetivos del Comité de Participación Social.<br><br>
     d. Su papel en la promoción de vínculos con la sociedad jalisciense.<br><br>
 
-    <li><strong>25 minutos.</strong> El aspirante responderá realizará preguntas de los temas expuestos en la Metodología para la valoración de expedientes y algunos otros asuntos de la experiencia profesional o personal del aspirante que los Comisionados consideren pertinentes:</li>
+    <li><strong>25 minutos.</strong> El aspirante responderá preguntas de los temas expuestos en la Metodología para la valoración de expedientes y algunos otros asuntos de la experiencia profesional o personal del aspirante que los Comisionados consideren pertinentes:</li>
    
         a. Dominio de los temas de trabajo del Comité: transparencia, rendición de cuentas, combate a la corrupción y aspectos relacionados.<br><br>
         b. Visión del Sistema Estatal Anticorrupción.<br><br>
