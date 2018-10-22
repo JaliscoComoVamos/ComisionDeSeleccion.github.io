@@ -4,6 +4,8 @@ excerpt: "La Comisión de Selección para el nombramiento de los integrantes del
 feature_image: "/assets/logo.svg"
 title: ""
 ---
+
+<div style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/AQvqtvak5Kw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <h3 style="text-align:center;">Lista de los 8 aspirantes que pasan a la ronda de entrevistas para ser elegidos como un nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco.</h3>
 <p></p>
 <p></p>
