@@ -10,7 +10,7 @@ feature_text: |
 <p></p>
 <p></p>
 <div class="row">
-<div class="column" style="padding-left: 0;">
+<div class="column">
 <div style="text-align: center">
 <h6 style="color: #75bec4;">Nancy García Vázquez</h6></div><p></p>
 <p style="text-align: center" class="svg_text_link3"><a href="/declaraciones/DeclaracionpatrimonialNGV2018.pdf">Declaración patrimonial</a></p>
