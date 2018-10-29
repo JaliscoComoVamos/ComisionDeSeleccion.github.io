@@ -56,7 +56,7 @@ feature_text: |
   </a></td>
     <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;"><p>Fe notarial del cierre de registros de los aspirantes que se postularon para ser elegidos como un nuevo integrante del Comité de Participación Social del Estado de Jalisco.</p><span style="font-style: italic; color: #d8ad89">Publicado 18/10/2018</span></td>
   </tr>
-      
+       
   <tr style="border-spacing: 5px; height: 200px; ">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333; "> <a href="/documentos/Acta cierre convocatoria.pdf"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
