@@ -26,8 +26,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>LISTA DE RESULTADOS</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de resultados de la evaluación documental y curricular, así como las cédulas de evaluación <a href="https://www.3de3.mx/" target="
-    ">3de3.mx</a><p></p><span style="font-style: italic; color: #d8ad89">Publicado 29/10/2018</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de resultados de la evaluación documental y curricular, así como las cédulas de evaluación<p></p><span style="font-style: italic; color: #d8ad89">Publicado 29/10/2018</span></td>
   </tr>
   
   
