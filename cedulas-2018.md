@@ -12,7 +12,7 @@ feature_text: |
 <tr><th><b>LUGAR</b></th><th><b>CÓDIGO</b></th><th><b>NOMBRE</b></th><th><b>TOTAL SUMATORIA</b></th><th><b>PROMEDIO</b></th></tr>
 
 
-<tr><td>1</td><td><div><span>2ACPSJ/2018</span></div></td><td><a href="/cedulas/2ACPSJ2018 Ev. Doc..pdf">Marco Antonio Cortés Guardado</a><span style="color:#75bec4;">*</span></td><td><div><span>160</span></div></td><td><div><span>53.33</span></div></td></tr>
+<tr><td>1</td><td><div><span>2ACPSJ/2018</span></div></td><td><a href="/cedulas/2ACPSJ2018%20Ev.%20Doc..pdf">Marco Antonio Cortés Guardado</a><span style="color:#75bec4;"></span></td><td><div><span>160</span></div></td><td><div><span>53.33</span></div></td></tr>
 </tbody></table>
 
 <p></p>
