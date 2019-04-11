@@ -5,6 +5,9 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
+<p>La Comisión de Selección podrá recibir las comunicaciones y notificaciones diversas que le sean dirigidas en el domicilio oficial de las oficinas de la Secretaría Ejecutiva:</p> <p>Av. Arcos #767, Col. Jardines del Bosque.</p> <p>C.P. 44520, Guadalajara, Jalisco</p>
+
+<!-- 
 
 <h3 style="text-align:center;">Lista de los 8 aspirantes que pasan a la ronda de entrevistas para ser elegidos como un nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco.</h3>
 <p></p>
@@ -55,4 +58,4 @@ title: ""
 <p>Las entrevistas serán abiertas al público con la participación de la sociedad civil a través de preguntas formuladas previamente a los aspirantes vía correo electrónico a través del siguiente enlace:</p>
 <p><a target="_blank" href="http://comisionsaejalisco.org/contacto/">Pregunta Ciudadana</a></p>
 
-
+-->
