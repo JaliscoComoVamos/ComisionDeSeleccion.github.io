@@ -38,7 +38,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <p class="small">Director administrativo de UTEG Centro Universitario </p> </div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/HectorManuelRobles.png" width="220px">
-	<a href="#" target="_blank">
+	<a href="/documentos/CV-Hector-Robles.docx" target="_blank">
 	<p><b style="color: #82D4DA">HÉCTOR MANUEL ROBLES IBARRÍA</b></p>  </a>
 <p class="small">Rector de la Universidad Enrique Díaz de León</p></div></div>
 
@@ -54,10 +54,12 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 	<p><b style="color: #82D4DA">MARÍA ISABEL LAZO CORVERA</b></p>  </a>
 <p class="small">Empresaria en el ramo de alimentos; Fundadora de Pastelerías Marisa  </p></div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px"><p><b style="color: #82D4DA">J. ISABEL SEPÚLVEDA CAMPOS</b></p>  
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px"><a href="/documentos/CV-Isabel-Sepulveda.doc">
+	<p><b style="color: #82D4DA">J. ISABEL SEPÚLVEDA CAMPOS</b></p>  </a>
 <p class="small">Editorialista Grupo Reforma; Consejera de Coparmex Jalisco y otros organismos empresariales y de la sociedad civil</p></div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/ReneRivial.jpg" width="220px"><p><b style="color: #82D4DA">RENÉ JUSTIN RIVIAL LEÓN</b></p>  
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/ReneRivial.jpg" width="220px"><a href="/documentos/CV-Rene-Rivial.doc" target="_blank">
+	<p><b style="color: #82D4DA">RENÉ JUSTIN RIVIAL LEÓN</b></p>  </a>
 <p class="small">Empresario en el ramo de materiales poliméricos; Fundador de Productos Rivial S.A. de C.V.</p>
 </div></div>
 </div>
