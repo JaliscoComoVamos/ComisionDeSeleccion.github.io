@@ -31,18 +31,27 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 </div><p>
 </p>
 <div class="flex-grid-thirds">
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/RaulErnestoQuintero.jpg" width="220px"><p><b style="color: #82D4DA">RAÚL ERNESTO QUINTERO PEÑA</b></p>  
+	
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/RaulErnestoQuintero.jpg" width="220px">
+	<a href="/documentos/CV-Raul-Quintero.pdf" target="_blank">
+	<p><b style="color: #82D4DA">RAÚL ERNESTO QUINTERO PEÑA</b></p>  </a>
 <p class="small">Director administrativo de UTEG Centro Universitario </p> </div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/HectorManuelRobles.png" width="220px"><p><b style="color: #82D4DA">HÉCTOR MANUEL ROBLES IBARRÍA</b></p>  
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/HectorManuelRobles.png" width="220px">
+	<a href="#" target="_blank">
+	<p><b style="color: #82D4DA">HÉCTOR MANUEL ROBLES IBARRÍA</b></p>  </a>
 <p class="small">Rector de la Universidad Enrique Díaz de León</p></div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/DiegoPetersenF.jpg" width="220px"><p><b style="color: #82D4DA">DIEGO PETERSEN FARAH</b></p>  
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/DiegoPetersenF.jpg" width="220px">
+<a href="/documentos/CV-Diego-Petersen.docx" target="_blank">
+	<p><b style="color: #82D4DA">DIEGO PETERSEN FARAH</b></p>  </a>
 <p class="small">Periodista y columnista del diario El Informador  </p></div></div>
 </div><p>
 </p>
 <div class="flex-grid-thirds">
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MarisaLazo.jpg" width="220px"><p><b style="color: #82D4DA">MARÍA ISABEL LAZO CORVERA</b></p>  
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MarisaLazo.jpg" width="220px">
+<a href="/documentos/CV-Marisa-Lazo.doc" target="_blank">
+	<p><b style="color: #82D4DA">MARÍA ISABEL LAZO CORVERA</b></p>  </a>
 <p class="small">Empresaria en el ramo de alimentos; Fundadora de Pastelerías Marisa  </p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px"><p><b style="color: #82D4DA">J. ISABEL SEPÚLVEDA CAMPOS</b></p>  
