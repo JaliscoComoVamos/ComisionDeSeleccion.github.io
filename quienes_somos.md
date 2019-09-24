@@ -16,7 +16,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <p class="small">Ex Rector de la Universidad Panamericana Campus Guadalajara</p> </div></div>
 
 <div class="col"><div style="text-align:center"><img class="img-circle" src="/fotos/RobertoArias.jpg" width="220px">
-<a href="documentos/CV-Roberto-Arias.doc" target="_blank">
+<a href="/documentos/CV-Roberto-Arias.doc" target="_blank">
 	<p><b style="color: #82D4DA">ROBERTO ARIAS DE LA MORA</b></p></a>
 <p class="small">Secretario General de El Colegio de Jalisco </p> </div></div>
 
