@@ -13,14 +13,14 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 
 <div class="flex-grid-thirds">
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/JuanGerardoDeLaBorbolla.jpg" width="220px">
-<a href="/documentos/CV-Juan-Borbolla.doc" target="_blank">
+<a href="/documentos/CV-Juan-Borbolla.pdf" target="_blank">
 	<p><b style="color: #82D4DA">JUAN GERARDO DE LA BORBOLLA RIVERO</b></p>  </a>
 <p class="small">Ex Rector de la Universidad Panamericana Campus Guadalajara</p> 
 
 </div></div>
 
 <div class="col"><div style="text-align:center"><img class="img-circle" src="/fotos/RobertoArias.jpg" width="220px">
-<a href="/documentos/CV-Roberto-Arias.doc" target="_blank">
+<a href="/documentos/CV-Roberto-Arias.pdf" target="_blank">
 	<p><b style="color: #82D4DA">ROBERTO ARIAS DE LA MORA</b></p></a>
 <p class="small">Secretario General de El Colegio de Jalisco </p> </div></div>
 
@@ -38,27 +38,27 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <p class="small">Director administrativo de UTEG Centro Universitario </p> </div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/HectorManuelRobles.png" width="220px">
-	<a href="/documentos/CV-Hector-Robles.docx" target="_blank">
+	<a href="/documentos/CV-Hector-Robles.pdf" target="_blank">
 	<p><b style="color: #82D4DA">HÉCTOR MANUEL ROBLES IBARRÍA</b></p>  </a>
 <p class="small">Rector de la Universidad Enrique Díaz de León</p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/DiegoPetersenF.jpg" width="220px">
-<a href="/documentos/CV-Diego-Petersen.docx" target="_blank">
+<a href="/documentos/CV-Diego-Petersen.pdf" target="_blank">
 	<p><b style="color: #82D4DA">DIEGO PETERSEN FARAH</b></p>  </a>
 <p class="small">Periodista y columnista del diario El Informador  </p></div></div>
 </div><p>
 </p>
 <div class="flex-grid-thirds">
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MarisaLazo.jpg" width="220px">
-<a href="/documentos/CV-Marisa-Lazo.doc" target="_blank">
+<a href="/documentos/CV-Marisa-Lazo.pdf" target="_blank">
 	<p><b style="color: #82D4DA">MARÍA ISABEL LAZO CORVERA</b></p>  </a>
 <p class="small">Empresaria en el ramo de alimentos; Fundadora de Pastelerías Marisa  </p></div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px"><a href="/documentos/CV-Isabel-Sepulveda.docx" target="_blank">
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px"><a href="/documentos/CV-Isabel-Sepulveda.pdf" target="_blank">
 	<p><b style="color: #82D4DA">J. ISABEL SEPÚLVEDA CAMPOS</b></p>  </a>
 <p class="small">Editorialista Grupo Reforma; Consejera de Coparmex Jalisco y otros organismos empresariales y de la sociedad civil</p></div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/ReneRivial.jpg" width="220px"><a href="/documentos/CV-Rene-Rivial.doc" target="_blank">
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/ReneRivial.jpg" width="220px"><a href="/documentos/CV-Rene-Rivial.pdf" target="_blank">
 	<p><b style="color: #82D4DA">RENÉ JUSTIN RIVIAL LEÓN</b></p>  </a>
 <p class="small">Empresario en el ramo de materiales poliméricos; Fundador de Productos Rivial S.A. de C.V.</p>
 </div></div>
