@@ -4,6 +4,83 @@ feature_text: |
   # CALENDARIO
 ---
 
+<h4 style="text-align:center;">Calendario 2019</h4>
+<br><br>
+<table class="rwd-table" id="table-wrap">
+    <thead>
+        <tr>
+            <th>DÍA(S)</th>
+            <th>ACTIVIDAD</th>
+            <th>LUGAR</th>
+            <th>HORA</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="DÍA" >13 de septiembre de 2019</td>
+            <td data-th="ACTIVIDAD">Rueda de prensa de emisión de la Convocatoria</td>
+            <td data-th="LUGAR">Sistema de Universidad Virtual de la Universidad de Guadalajara.</td>
+            <td data-th="HORA"> 10:00 horas</td>
+
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍA" > 17 de septiembre al 2 de octubre de 2019, lunes a viernes</td>
+            <td data-th="ACTIVIDAD">Recepción de candidaturas</td>
+            <td data-th="LUGAR"> Av. Arcos, número 767. Col. Jardines del Bosque o vía electrónica al correo:
+                <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA">9:00 a 17:00 horas</td>
+            
+        </tr>
+
+        <tr>
+            <td data-th="DÍA"> Lunes 7 de octubre de 2019</td>
+            <td data-th="ACTIVIDAD"> Cierre de recepción de candidaturas.</td>
+            <td data-th="LUGAR">Av. Arcos, número 767. Col. Jardines del Bosque o vía electrónica al correo:
+                <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA">17:00 horas</td>
+           
+        </tr>
+
+        <tr>
+            <td data-th="DÍAS">Martes 8 de octubre de 2019</td>
+            <td data-th="ACTIVIDAD">Publicación la Metodología para la evaluación documental y curricular que permita identificar los 10 mejores perfiles.</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA">A partir de las 15:00 horas</td>
+           
+        </tr>
+        <tr>
+            <td data-th="DÍAS">Viernes 11 de octubre de 2019</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para la designación de expedientes por revisar de acuerdo con los grupos conformados y el total de candidatos.</td>
+            <td data-th="LUGAR">Secretaria Ejecutiva del Sistema Estatal Anticorrupción</td>
+            <td data-th="HORA">A partir de las 10:00 horas</td>
+           
+        </tr>
+        <tr>
+            <td data-th="DÍAS">Miércoles 16 de octubre de 2019.</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para la evaluación documental y curricular para identificar a los mejores perfiles.</td>
+            <td data-th="LUGAR">Secretaria Ejecutiva del Sistema Estatal Anticorrupción</td>
+            <td data-th="HORA"></td>
+          
+        </tr>
+        <tr>
+            <td data-th="DÍAS">Viernes 18 de octubre de 2019.</td>
+            <td data-th="ACTIVIDAD">Publicación de los nombres de las personas seleccionadas y del calendario de entrevistas individuales con los candidatos.</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>
+           
+        </tr>
+        <tr>
+            <td data-th="DÍAS">22 y 23 de octubre de 2019.</td>
+            <td data-th="ACTIVIDAD">Realización de las entrevistas/comparecencias, públicas (invitados de sociedad civil, académicos y especialistas en la materia).</td>
+            <td data-th="LUGAR">Sala de consejo. Cámara de Comercio</td>
+            <td data-th="HORA"></td>
+          
+        </tr>
+    </tbody>
+</table>
+
+
 <h4 style="text-align:center;">Calendario 2018</h4>
 <br><br>
 <table class="rwd-table" id="table-wrap">
@@ -125,14 +202,14 @@ feature_text: |
     <td data-th="DÍA"> 20 de octubre 2017</td>
     <td data-th="ACTIVIDAD" colspan="4"> Publicación de la lista de  aspirantes seleccionados y calendario de entrevistas</td>
   </tr>
-	<tr>
+  <tr>
     <td data-th="DÍAS"> 23 y 24 de octubre 2017</td>
     <td data-th="ACTIVIDAD"> Entrevistas a los 24 seleccionados</td>
     <td data-th="LUGAR"> CANACO Guadalajara</td>
     <td data-th="HORA"> 9:00 a 19:00 horas</td>
     <td data-th="OBJETIVO"> Abiertas al público</td>
   </tr>
-  	<tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #f2f2f2;">
     <td data-th="DÍAS"> 30 y 31 de octubre 2017</td>
     <td data-th="ACTIVIDAD"> Sesión de la Comisión de Selección</td>
     <td data-th="LUGAR Y HORA" colspan="2"> PENDIENTE</td>
