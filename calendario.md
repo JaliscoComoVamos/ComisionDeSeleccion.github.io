@@ -44,7 +44,7 @@ feature_text: |
 
         <tr>
             <td data-th="DÍAS">Martes 8 de octubre de 2019</td>
-            <td data-th="ACTIVIDAD">Publicación la Metodología para la evaluación documental y curricular que permita identificar los 10 mejores perfiles.</td>
+            <td data-th="ACTIVIDAD">Publicación de la Metodología para la evaluación documental y curricular que permita identificar los mejores perfiles.</td>
             <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
             <td data-th="HORA">A partir de las 15:00 horas</td>
            
@@ -73,7 +73,7 @@ feature_text: |
         <tr>
             <td data-th="DÍAS">22 y 23 de octubre de 2019.</td>
             <td data-th="ACTIVIDAD">Realización de las entrevistas/comparecencias, públicas (invitados de sociedad civil, académicos y especialistas en la materia).</td>
-            <td data-th="LUGAR">Sala de consejo. Cámara de Comercio</td>
+            <td data-th="LUGAR">Sala de consejo, Cámara de Comercio. <br><br>Av Vallarta 4045, colonia Don Bosco Vallarta, CP 45000, Zapopan Jalisco</td>
             <td data-th="HORA"></td>
           
         </tr>
