@@ -20,12 +20,12 @@ feature_text: |
         <tr>
             <td data-th="DÍA" >13 de septiembre de 2019</td>
             <td data-th="ACTIVIDAD">Rueda de prensa de emisión de la Convocatoria</td>
-            <td data-th="LUGAR">Sistema de Universidad Virtual de la Universidad de Guadalajara.</td>
+            <td data-th="LUGAR">Secretaria Ejecutiva del Sistema Estatal Anticorrupción.</td>
             <td data-th="HORA"> 10:00 horas</td>
 
         </tr>
         <tr style="background-color: #f2f2f2;">
-            <td data-th="DÍA" > 17 de septiembre al 2 de octubre de 2019, lunes a viernes</td>
+            <td data-th="DÍA" > 17 de septiembre al 7 de octubre de 2019, lunes a viernes</td>
             <td data-th="ACTIVIDAD">Recepción de candidaturas</td>
             <td data-th="LUGAR"> Av. Arcos, número 767. Col. Jardines del Bosque o vía electrónica al correo:
                 <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
