@@ -5,7 +5,88 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
+
+
+<h4 style="text-align:center;">Entrevistas Martes 22 de octubre de 2019</h4>
+<br><br>
+<table class="rwd-table" id="table-wrap">
+    <thead>
+        <tr>
+            <th>CÓDIGO</th>
+            <th>NOMBRE COMPLETO</th>
+            <th>HORARIO DE ENTREVISTA</th>
+           
+           
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="CÓDIGO">01/ACPSJ/2019</td>
+            <td data-th="NOMBRE COMPLETO">Gilberto Tinajero Díaz</td>
+            <td data-th="HORARIO DE ENTREVISTA">9:00 - 9:50</td>
+
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="CÓDIGO">02/ACPSJ/2019</td>
+            <td data-th="NOMBRE COMPLETO">Hiram Abel Ángel Lara</td>
+            <td data-th="HORARIO DE ENTREVISTA">9:50 - 10:40</td>      
+        </tr>
+
+        <tr>
+            <td data-th="CÓDIGO">03/ACPSJ/2019</td>
+            <td data-th="NOMBRE COMPLETO">Carlos Luis Moreno Jaimes</td>
+            <td data-th="HORARIO DE ENTREVISTA">10:40 - 11:30</td>
+        </tr>
+
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="CÓDIGO">06/ACPSJ/2019</td>
+            <td data-th="NOMBRE COMPLETO">Rito Abel Orozco Jara</td>
+            <td data-th="HORARIO DE ENTREVISTA">11:30 - 12:20</td>
+        </tr>
+        <tr>
+       		<td data-th="CÓDIGO">07/ACPSJ/2019</td>
+            <td data-th="NOMBRE COMPLETO">Tadeo Eduardo Hubbe Contreras</td>
+            <td data-th="HORARIO DE ENTREVISTA">12:20 - 13:10</td>
+           
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+       		<td data-th="CÓDIGO">08/ACPSJ/2019</td>
+            <td data-th="NOMBRE COMPLETO">Omar Alejandro Peña Ugalde</td>
+            <td data-th="HORARIO DE ENTREVISTA">13:10 14:00</td>
+          
+        </tr>
+        <tr>
+       		<td data-th="CÓDIGO">09/ACPSJ/2019</td>
+            <td data-th="NOMBRE COMPLETO">David Gómez Álvarez Pérez</td>
+            <td data-th="HORARIO DE ENTREVISTA">15:00 - 15:50</td>
+           
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+       		<td data-th="CÓDIGO">10/ACPSJ/2019</td>
+            <td data-th="NOMBRE COMPLETO">Roberto Orozco Gálvez </td>
+            <td data-th="HORARIO DE ENTREVISTA">15:50 - 16:40</td>
+          
+        </tr>
+         <tr>
+       		<td data-th="CÓDIGO">11/ACPSJ/2019</td>
+            <td data-th="NOMBRE COMPLETO">Jorge Chaires Zaragoza</td>
+            <td data-th="HORARIO DE ENTREVISTA">16:40 - 17:30</td>
+          
+        </tr>      
+         <tr style="background-color: #f2f2f2;">
+       		<td data-th="CÓDIGO">12/ACPSJ/2019</td>
+            <td data-th="NOMBRE COMPLETO">Iliana Guadalupe León González</td>
+            <td data-th="HORARIO DE ENTREVISTA">17:30 - 18:20</td>
+          
+        </tr>
+    </tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+
 <p>La Comisión de Selección podrá recibir las comunicaciones y notificaciones diversas que le sean dirigidas en el domicilio oficial de las oficinas de la Secretaría Ejecutiva:</p> <p>Av. Arcos #767, Col. Jardines del Bosque.</p> <p>C.P. 44520, Guadalajara, Jalisco</p>
+
 
 <!-- 
 
