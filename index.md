@@ -7,18 +7,16 @@ title: ""
 <p>&nbsp;</p>
 <h4 style="text-align: center;">Tiempos de entrevista</h4>
 <p>&nbsp;</p>
-
 <p>&nbsp;</p>
-<table style="height: 93px;" width="559">
+<table class="rwd-table" id="table-wrap" style="height: 93px;" width="559">
 <thead>
-  
 <tr>
 <td style="width: 178px; text-align: center;">Presentaci&oacute;n</td>
 <td style="width: 178px; text-align: center;">Preguntas miembros de la Comisi&oacute;n de Selecci&oacute;n</td>
 <td style="width: 181px; text-align: center;">Preguntas Ciudadanas</td>
 </tr>
-  </thead>
-  <tbody>
+</thead>
+<tbody>
 <tr>
 <td style="width: 178px; text-align: center;">15 min</td>
 <td style="width: 178px; text-align: center;">25 min</td>
@@ -32,7 +30,7 @@ title: ""
 <li><strong>Martes 22 de octubre de 2019 en la Sala de Presidentes en las instalaciones de la C&aacute;mara de Comercio de Guadalajara, ubicadas en Av. Ignacio L. Vallarta 4095, Don Bosco Vallarta, 45000 Zapopan, Jalisco M&eacute;xico; a partir de las 9:00 horas a 18:20 horas.</strong></li>
 </ul>
 <p>En la entrevista con la Comisi&oacute;n de Selecci&oacute;n cada uno de los diez aspirantes participar&aacute;n en igualdad de t&eacute;rminos y condiciones, independientemente de la calificaci&oacute;n obtenida en la c&eacute;dula de evaluaci&oacute;n curricular de la etapa previa. El formato de la entrevista ser&aacute; el siguiente:</p>
-<ol>
+<ol style="list-style-type: upper-alpha;">
 <li>Cada aspirante contar&aacute; hasta con 15 minutos para transmitir de forma oral a la Comisi&oacute;n de Selecci&oacute;n y a la sociedad en general:</li>
 <ol style="padding-left: 30px;">
 <li>Su visi&oacute;n del Comit&eacute; de Participaci&oacute;n Social dentro del Sistema Anticorrupci&oacute;n: expectativas de corto plazo y necesidades de largo plazo en su funcionamiento.</li>
