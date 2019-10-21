@@ -41,10 +41,10 @@ title: ""
 <br><br><br>
 
 <style>
-	ol li ol{
+	.typeset ol li ol{
 		padding-left:20px;
 	}
-	ol li ol li{
+	.typeset ol li ol li{
 		padding-left: 40px;
 	}
 
