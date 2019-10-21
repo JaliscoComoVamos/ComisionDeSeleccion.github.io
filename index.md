@@ -5,6 +5,39 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
+<h4 style="text-align:center;">Tiempos de entrevista</h4>
+<table class="rwd-table" id="table-wrap">
+	<thead>
+		<tr>
+			<th>Presentación</th>
+			<th>Preguntas miembros de la Comisión de Selección</th>
+			<th>Preguntas ciudadanas</th>
+</tr>
+</thead>
+<tbody>
+	<td>15 min.</td>
+	<td>25 min</td>
+	<td>5 min.</td>
+</tbody>
+</table>
+
+<p>Las entrevistas de la Comisión de Selección serán abiertas al público en los siguientes horarios:</p>
+<ul><li><strong>Martes 22 de octubre de 2019 en la Sala de Presidentes en las instalaciones de la Cámara de Comercio de Guadalajara, ubicadas en Av. Ignacio L. Vallarta 4095, Don Bosco Vallarta, 45000 Zapopan, Jalisco México; a partir de las 9:00 horas a 18:20 horas.</strong></li></ul>
+<p>En la entrevista con la Comisión de Selección cada uno de los diez aspirantes participarán en igualdad de términos y condiciones, independientemente de la calificación obtenida en la cédula de evaluación curricular de la etapa previa. El formato de la entrevista será el siguiente:</p>
+<ol><li>Cada aspirante contará hasta con 15 minutos para transmitir de forma oral a la Comisión de Selección y a la sociedad en general:</li><ol><li> Su visión del Comité de Participación Social dentro del Sistema Anticorrupción: expectativas de corto plazo y necesidades de largo plazo en su funcionamiento.</li><li>b. Una exposición de las razones que lo hacen un candidato idóneo y cuál sería su aportación personal a la labor de un cuerpo colegiado como el Comité de Participación Social.</li>
+	<li>Elementos de su perfil, experiencia profesional y rasgos de su carácter que contribuirían a lograr los objetivos del Comité de Participación Social.</li>
+	<li>Su papel en la promoción de vínculos con la sociedad jalisciense.</li>
+</ol><li>La Comisión de Selección realizará preguntas hasta por 25 minutos de los temas expuestos en la Metodología para la valoración de expedientes y algunos otros asuntos de la experiencia profesional o personal del aspirante que los Comisionados consideren pertinentes:</li>
+<ol><li> Dominio de los temas de trabajo del Comité: transparencia, rendición de cuentas, combate a la corrupción y aspectos relacionados.</li>
+	<li>Visión del Sistema Estatal Anticorrupción.</li>
+	<li>Capacidad de advertir los retos que enfrenta el Sistema Estatal Anticorrupción, así como su propuesta para resolverlos.</li>
+	<li> Claridad y visión sobre el papel del Comité de Participación Social dentro del Sistema Nacional Anticorrupción (objetivos y funciones).</li>
+	<li>Estructura lógica del pensamiento, capacidad de síntesis y sentido crítico en la presentación de explicaciones y argumentos.</li><li>Visión congruente con los principios constitucionales del Sistema Nacional Anticorrupción.
+	</li>
+	<li>Liderazgo y capacidades de comunicación.</li>
+	<li>Independencia, determinación y firmeza en el ejercicio de sus atribuciones.</li>
+</ol><li>Al final se otorgarán 5 minutos a las preguntas formuladas con anticipación por miembros de la sociedad civil, que serán registradas en la páginawww.comisionsaejalisco.org.</li></ol>
+<br><br><br>
 
 
 <h4 style="text-align:center;">Entrevistas Martes 22 de octubre de 2019</h4>
