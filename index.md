@@ -7,30 +7,18 @@ title: ""
 <p>&nbsp;</p>
 <h4 style="text-align: center;">Tiempos de entrevista</h4>
 <p>&nbsp;</p>
-<table id="table-wrap" class="rwd-table">
-<thead>
-<tr>
-<th>Presentaci&oacute;n</th>
-<th>Preguntas miembros de la Comisi&oacute;n de Selecci&oacute;n</th>
-<th>Preguntas ciudadanas</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>15 min.</td>
-<td>25 min</td>
-<td>5 min.</td>
-</tr>
-</tbody>
-</table>
+
 <p>&nbsp;</p>
 <table style="height: 93px;" width="559">
-<tbody>
+<thead>
+  
 <tr>
 <td style="width: 178px; text-align: center;">Presentaci&oacute;n</td>
 <td style="width: 178px; text-align: center;">Preguntas miembros de la Comisi&oacute;n de Selecci&oacute;n</td>
 <td style="width: 181px; text-align: center;">Preguntas Ciudadanas</td>
 </tr>
+  </thead>
+  <tbody>
 <tr>
 <td style="width: 178px; text-align: center;">15 min</td>
 <td style="width: 178px; text-align: center;">25 min</td>
