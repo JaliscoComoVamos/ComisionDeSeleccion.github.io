@@ -20,6 +20,7 @@ title: ""
 	<td>5 min.</td>
 </tbody>
 </table>
+<br><br><br>
 
 <p>Las entrevistas de la Comisión de Selección serán abiertas al público en los siguientes horarios:</p>
 <ul><li><strong>Martes 22 de octubre de 2019 en la Sala de Presidentes en las instalaciones de la Cámara de Comercio de Guadalajara, ubicadas en Av. Ignacio L. Vallarta 4095, Don Bosco Vallarta, 45000 Zapopan, Jalisco México; a partir de las 9:00 horas a 18:20 horas.</strong></li></ul>
@@ -39,6 +40,16 @@ title: ""
 </ol><li>Al final se otorgarán 5 minutos a las preguntas formuladas con anticipación por miembros de la sociedad civil, que serán registradas en la páginawww.comisionsaejalisco.org.</li></ol>
 <br><br><br>
 
+<style>
+	ol li ol{
+		padding-left:20px;
+	}
+	ol li ol li{
+		padding-left: 40px;
+	}
+
+
+</style>
 
 <h4 style="text-align:center;">Entrevistas Martes 22 de octubre de 2019</h4>
 <br><br>
