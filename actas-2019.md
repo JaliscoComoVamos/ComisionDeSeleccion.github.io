@@ -39,7 +39,7 @@ feature_text: |
 
 -->
 
-</div>
+
 
 <p></p>
 <p></p>
