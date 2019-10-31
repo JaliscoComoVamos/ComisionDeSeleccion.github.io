@@ -20,7 +20,7 @@ feature_text: |
 
 <tr><td>4</td><td><div><span>8ACPSJ/2019</span></div></td><td><a href="/cedulas/08ACPSJ2019_vf.pdf">Peña Ugalde Omar Alejandro</a><span style="color:#75bec4;"></span></td><td><div><span>149</span></div></td><td><div><span>49.67</span></div></td></tr>
 
-<tr><td>5</td><td><div><span>9ACPSJ/2019</span></div></td><td><a href="/cedulas/01ACPSJ2018Ev.Doc.pdf">Gómez Álvarez Pérez David</a><span style="color:#75bec4;"></span></td><td><div><span>145</span></div></td><td><div><span>48.33</span></div></td></tr>
+<tr><td>5</td><td><div><span>9ACPSJ/2019</span></div></td><td><a href="/cedulas/09ACPSJ2019_vf.pdf">Gómez Álvarez Pérez David</a><span style="color:#75bec4;"></span></td><td><div><span>145</span></div></td><td><div><span>48.33</span></div></td></tr>
 
 <tr><td>6</td><td><div><span>2ACPSJ/2019</span></div></td><td><a href="/cedulas/02ACPSJ2019_vf.pdf">Ángel Lara Hiram Abel</a><span style="color:#75bec4;"></span></td><td><div><span>145</span></div></td><td><div><span>48.33</span></div></td></tr>
 
