@@ -13,8 +13,8 @@ Descarga la **Convocatoria de proceso de selección para nuevo integrante del Co
 <h5 style="color: #333333;">Descarga la Convocatoria de proceso de selección para nuevo integrante
 del Comité de Participación Social del Sistema Anticorrupción del
 Estado de Jalisco 2020</h5>
-<h2><a target="_blank" href="documentos/Convocatoria_para conformacion_del CPS_2020-VF-.pdf">Convocatoria 2020 PDF</a></h2>
-<h2><a target="_blank" href="documentos/Convocatoria_para conformacion_del CPS_2020-VF-.docx">Convocatoria 2020 PDF</a></h2>
+<h2 style="text-align:center;"><a target="_blank" href="documentos/Convocatoria_para conformacion_del CPS_2020-VF-.pdf">Convocatoria 2020 PDF</a></h2>
+<h2 style="text-align:center;"><a target="_blank" href="documentos/Convocatoria_para conformacion_del CPS_2020-VF-.docx">Convocatoria 2020 Word</a></h2>
 
 <p></p>
 
