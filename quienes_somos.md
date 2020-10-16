@@ -19,10 +19,10 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 
 </div></div>
 
-<div class="col"><div style="text-align:center"><img class="img-circle" src="/fotos/RobertoArias.jpg" width="220px">
+<div class="col"><div style="text-align:center"><img class="img-circle" src="/fotos/Mtro. Héctor González.png" width="220px">
 <a href="/documentos/CV-Roberto-Arias.pdf" target="_blank">
-	<p><b style="color: #82D4DA">ROBERTO ARIAS DE LA MORA</b></p></a>
-<p class="small">Secretario General de El Colegio de Jalisco </p> </div></div>
+	<p><b style="color: #82D4DA">HÉCTOR GONZÁLEZ MONTIEL</b></p></a>
+<p class="small">Director administrativo y académico del Centro Universitario UTEG</p> </div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IxchelNRA.png" width="220px">
 <a href="/documentos/CV-Maria-Esther-Avelar.pdf" target="_blank">
