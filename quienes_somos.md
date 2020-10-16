@@ -13,19 +13,19 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 
 <div class="flex-grid-thirds">
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MariaAvelar.jpg" width="220px">
-<a href="/documentos/CV-Juan-Borbolla.pdf" target="_blank">
+<a href="/documentos/CV-Maria-Esther-Avelar.pdf" target="_blank">
 	<p><b style="color: #82D4DA">MARÍA ESTHER AVELAR ÁLVAREZ</b></p>  </a>
 <p class="small">Rectora del Sistema de Universidad Virtual de la Universidad de Guadalajara </p> 
 
 </div></div>
 
 <div class="col"><div style="text-align:center"><img class="img-circle" src="/fotos/Mtro. Héctor González.png" width="220px">
-<a href="/documentos/CV-Roberto-Arias.pdf" target="_blank">
+<a href="/CV Hector Gonzalez Montiel.pdf" target="_blank">
 	<p><b style="color: #82D4DA">HÉCTOR GONZÁLEZ MONTIEL</b></p></a>
 <p class="small">Director administrativo y académico del Centro Universitario UTEG</p> </div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IxchelNRA.png" width="220px">
-<a href="/documentos/CV-Maria-Esther-Avelar.pdf" target="_blank">
+<a href="/CV Ixchel N Ruiz Anguiano_1020.pdf" target="_blank">
 	<p><b style="color: #82D4DA">IXCHEL NACDUL RUÍZ ANGUANO</b></p>  </a>
 <p class="small">Académica egresada de la UdeG y propuesta por el Colegio de Jalisco</p> </div></div>
 </div><p>
