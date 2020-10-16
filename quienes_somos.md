@@ -32,20 +32,20 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 </p>
 <div class="flex-grid-thirds">
 	
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/RaulErnestoQuintero.jpg" width="220px">
-	<a href="/documentos/CV-Raul-Quintero.pdf" target="_blank">
-	<p><b style="color: #82D4DA">RAÚL ERNESTO QUINTERO PEÑA</b></p>  </a>
-<p class="small">Director administrativo de UTEG Centro Universitario </p> </div></div>
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/UEDdL Mtro. Marco Robles.jpg" width="220px">
+	<a href="/CV Marco Antonio Robles Morales.pdf" target="_blank">
+	<p><b style="color: #82D4DA">MARCO ANTONIO ROBLES MORALES</b></p>  </a>
+<p class="small">Abogado en derecho y maestro con 30 años de experiencia en el ámbito educativo propuesto por la Universidad Enrique Díaz de León. </p> </div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/HectorManuelRobles.png" width="220px">
-	<a href="/documentos/CV-Hector-Robles.pdf" target="_blank">
-	<p><b style="color: #82D4DA">HÉCTOR MANUEL ROBLES IBARRÍA</b></p>  </a>
-<p class="small">Rector de la Universidad Enrique Díaz de León</p></div></div>
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/UP Dr. José Antonio Esquivias_editada.jpg" width="220px">
+	<a href="/CV José Antonio Esquivias CV.pdf" target="_blank">
+	<p><b style="color: #82D4DA">JOSÉ ANTONIO ESQUIVIAS ROMERO</b></p>  </a>
+<p class="small">Rector de la Universidad Panamericana</p></div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/DiegoPetersenF.jpg" width="220px">
-<a href="/documentos/CV-Diego-Petersen.pdf" target="_blank">
-	<p><b style="color: #82D4DA">DIEGO PETERSEN FARAH</b></p>  </a>
-<p class="small">Periodista y columnista del diario El Informador  </p></div></div>
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px">
+<a href="/documentos/CV-Isabel-Sepulveda.pdf" target="_blank">
+	<p><b style="color: #82D4DA">J. ISABEL SEPÚLVEDA CAMPOS</b></p>  </a>
+<p class="small">Editorialista Grupo Reforma; Consejera de Coparmex Jalisco y otros organismos empresariales y de la sociedad civil</p></div></div>
 </div><p>
 </p>
 <div class="flex-grid-thirds">
