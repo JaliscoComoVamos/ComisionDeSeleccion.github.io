@@ -27,7 +27,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IxchelNRA.png" width="220px">
 <a href="/CV Ixchel N Ruiz Anguiano_1020.pdf" target="_blank">
 	<p><b style="color: #82D4DA">IXCHEL NACDUL RUÍZ ANGUANO</b></p>  </a>
-<p class="small">Académica egresada de la UdeG y propuesta por el Colegio de Jalisco</p> </div></div>
+<p class="small">Secretario general de El Colegio de Jalisco</p> </div></div>
 </div><p>
 </p>
 <div class="flex-grid-thirds">
@@ -35,7 +35,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/UEDdL Mtro. Marco Robles.jpg" width="220px">
 	<a href="/CV Marco Antonio Robles Morales.pdf" target="_blank">
 	<p><b style="color: #82D4DA">MARCO ANTONIO ROBLES MORALES</b></p>  </a>
-<p class="small">Abogado en derecho y maestro con 30 años de experiencia en el ámbito educativo propuesto por la Universidad Enrique Díaz de León. </p> </div></div>
+<p class="small">Vicerrector ejecutivo de la Universidad Enrique Díaz de León. </p> </div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/UP Dr. José Antonio Esquivias_editada.jpg" width="220px">
 	<a href="/CV José Antonio Esquivias CV.pdf" target="_blank">
@@ -54,7 +54,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 	<p><b style="color: #82D4DA">MARÍA ISABEL LAZO CORVERA</b></p>  </a>
 <p class="small">Empresaria en el ramo de alimentos; Fundadora de Pastelerías Marisa  </p></div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/Raul Frias_propuesta UDGVirtual.jpg" width="220px"><a href="" target="_blank">
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/Raul Frias_propuesta UDGVirtual.jpg" width="220px"><a href="/03. RAUL FRIAS LUCIO.pdf" target="_blank">
 	<p><b style="color: #82D4DA">RAÚL FRÍAS LUCIO</b></p>  </a>
 <p class="small">Periodista y director editorial en Megacable</p></div></div>
 
