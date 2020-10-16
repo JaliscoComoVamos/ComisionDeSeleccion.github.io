@@ -12,10 +12,10 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <p></p>
 
 <div class="flex-grid-thirds">
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/JuanGerardoDeLaBorbolla.jpg" width="220px">
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MariaAvelar.jpg" width="220px">
 <a href="/documentos/CV-Juan-Borbolla.pdf" target="_blank">
-	<p><b style="color: #82D4DA">JUAN GERARDO DE LA BORBOLLA RIVERO</b></p>  </a>
-<p class="small">Ex Rector de la Universidad Panamericana Campus Guadalajara</p> 
+	<p><b style="color: #82D4DA">MARÍA ESTHER AVELAR ÁLVAREZ</b></p>  </a>
+<p class="small">Rectora del Sistema de Universidad Virtual de la Universidad de Guadalajara </p> 
 
 </div></div>
 
@@ -24,10 +24,10 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 	<p><b style="color: #82D4DA">ROBERTO ARIAS DE LA MORA</b></p></a>
 <p class="small">Secretario General de El Colegio de Jalisco </p> </div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MariaAvelar.jpg" width="220px">
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IxchelNRA.png" width="220px">
 <a href="/documentos/CV-Maria-Esther-Avelar.pdf" target="_blank">
-	<p><b style="color: #82D4DA">MARÍA ESTHER AVELAR ÁLVAREZ</b></p>  </a>
-<p class="small">Rectora del Sistema de Universidad Virtual de la Universidad de Guadalajara </p> </div></div>
+	<p><b style="color: #82D4DA">IXCHEL NACDUL RUÍZ ANGUANO</b></p>  </a>
+<p class="small">Académica egresada de la UdeG y propuesta por el Colegio de Jalisco</p> </div></div>
 </div><p>
 </p>
 <div class="flex-grid-thirds">
