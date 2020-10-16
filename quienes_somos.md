@@ -54,9 +54,9 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 	<p><b style="color: #82D4DA">MARÍA ISABEL LAZO CORVERA</b></p>  </a>
 <p class="small">Empresaria en el ramo de alimentos; Fundadora de Pastelerías Marisa  </p></div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px"><a href="/documentos/CV-Isabel-Sepulveda.pdf" target="_blank">
-	<p><b style="color: #82D4DA">J. ISABEL SEPÚLVEDA CAMPOS</b></p>  </a>
-<p class="small">Editorialista Grupo Reforma; Consejera de Coparmex Jalisco y otros organismos empresariales y de la sociedad civil</p></div></div>
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/Raul Frias_propuesta UDGVirtual.jpg" width="220px"><a href="" target="_blank">
+	<p><b style="color: #82D4DA">RAÚL FRÍAS LUCIO</b></p>  </a>
+<p class="small">Periodista y director editorial en Megacable</p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/ReneRivial.jpg" width="220px"><a href="/documentos/CV-Rene-Rivial.pdf" target="_blank">
 	<p><b style="color: #82D4DA">RENÉ JUSTIN RIVIAL LEÓN</b></p>  </a>
