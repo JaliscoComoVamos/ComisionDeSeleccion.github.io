@@ -1,7 +1,7 @@
 ---
 title: ""
 feature_text: |
-  # COMUNICADOS 2019
+  # COMUNICADOS 2019-2020
 ---
 
 <table id="table-wrap2" style="margin-left: 0px; width: 100%; border-spacing: 0 9px; border-collapse: separate;">
@@ -13,14 +13,8 @@ feature_text: |
   <b>METODOLOGÍA PARA LA EVALUACIÓN DOCUMENTAL Y CURRICULAR DE LOS EXPEDIENTES PRESENTADOS POR LAS Y LOS CANDIDATOS A INTEGRAR EL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b></span>
   </a></td>
    
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">I.	Antecedentes y marco normativo
-
-II.	Procedimientos e instrumentos de verificación de registro de valoración
-
-III.	Procedimiento de valoración de los expedientes presentados por los candidatos y candidatas (evaluación documental)
-
-IV.	Procedimiento de verificación de datos y perfil curricular contenido en los expedientes presentados por las y los candidatos (evaluación curricular)
-<p></p><span style="font-style: italic; color: #d8ad89">Publicado 31/10/2019</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">I.	Antecedentes y marco normativo<br>II.	Procedimientos e instrumentos de verificación de registro de valoración<br>III.	Procedimiento de valoración de los expedientes presentados por los candidatos y candidatas (evaluación documental)<br>IV.	Procedimiento de verificación de datos y perfil curricular contenido en los expedientes presentados por las y los candidatos (evaluación curricular)<br>
+<p></p><span style="font-style: italic; color: #d8ad89">Publicado 17/10/2020</span></td>
   </tr>  
   
     <tr style="height: 200px">
