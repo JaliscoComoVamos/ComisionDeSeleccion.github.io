@@ -79,7 +79,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Quiénes Somos: /quienes_somos/
-  Comunicados: /comunicados-2019/
+  Comunicados: /comunicados-2020/
   Convocatoria: 
   Formatos: 
   Marco Legal: /marco_legal/
