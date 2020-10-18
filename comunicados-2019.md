@@ -13,7 +13,7 @@ feature_text: |
   <b>LISTA DE EXPEDIENTES RECIBIDOS EN FORMA FÍSICA Y POR CORREO ELECTRÓNICO EN EL PLAZO ESTABLECIDO EN LA CONVOCATORIA PARA ELEGIR A UN INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL (CPS) DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO (SAEJAL)</b></span>
   </a></td>
    
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de los aspirantes para elegir a un integrande del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<br>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de los aspirantes para elegir a un integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<br>
 <p></p><span style="font-style: italic; color: #d8ad89">Publicado 16/10/2020</span></td>
   </tr>  
   
