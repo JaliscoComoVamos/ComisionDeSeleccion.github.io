@@ -26,7 +26,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IxchelNRA.png" width="220px">
 <a href="/CV Ixchel N Ruiz Anguiano_1020.pdf" target="_blank">
-	<p><b style="color: #82D4DA">IXCHEL NACDUL RUÍZ ANGUANO</b></p>  </a>
+	<p><b style="color: #82D4DA">IXCHEL NACDUL RUÍZ ANGUIANO</b></p>  </a>
 <p class="small">Secretario general de El Colegio de Jalisco</p> </div></div>
 </div><p>
 </p>
