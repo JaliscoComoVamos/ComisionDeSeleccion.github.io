@@ -6,6 +6,15 @@ feature_text: |
 
 <table id="table-wrap2" style="margin-left: 0px; width: 100%; border-spacing: 0 9px; border-collapse: separate;">
   
+       <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/actas-2020"> 
+      <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#document"></use></svg>
+      <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
+  <b>ACTAS DE LAS SESIONES DE LA COMISIÓN DE SELECCIÓN</b></span>
+  </a></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Al ser un órgano colegiado con atribuciones de decisión publica, la Comisión de Selección del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, hace del conocimiento de la sociedad las fechas, lugares, agenda y acuerdos tomados durante sus sesiones de trabajo.<p></p><span style="font-style: italic; color: #d8ad89">Publicado 16/10/2020</span></td>
+  </tr>
+  
     <tr style="height: 200px">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/lista-de-expedientes-CPS-2020.pdf"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
@@ -28,14 +37,7 @@ feature_text: |
 <p></p><span style="font-style: italic; color: #d8ad89">Publicado 16/10/2020</span></td>
   </tr>  
   
-     <tr style="height: 200px">
-    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/actas-2020"> 
-      <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#document"></use></svg>
-      <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
-  <b>ACTAS DE LAS SESIONES DE LA COMISIÓN DE SELECCIÓN</b></span>
-  </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Al ser un órgano colegiado con atribuciones de decisión publica, la Comisión de Selección del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, hace del conocimiento de la sociedad las fechas, lugares, agenda y acuerdos tomados durante sus sesiones de trabajo.<p></p><span style="font-style: italic; color: #d8ad89">Publicado 16/10/2020</span></td>
-  </tr>
+
 
 </table>
 
