@@ -73,7 +73,7 @@ url: "http://comisionsaejalisco.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/jaliscocomovamos/jaliscocomovamos.github.io"
 avatarurl: "http://comisionsaejalisco.org/favicon.ico"
-email: "lic_adrian21@hotmail.com"
+email: "contacto@comisionsaejalisco.org"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site navigation
