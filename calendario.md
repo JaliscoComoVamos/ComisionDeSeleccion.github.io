@@ -102,7 +102,7 @@ feature_text: |
 <p></p>
 <p></p>
 
--------------------------------------
+<!-- ------------------------------------- -->
 <h4 style="text-align:center;">Calendario 2019</h4>
 <br><br>
 <table class="rwd-table" id="table-wrap">
