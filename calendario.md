@@ -45,8 +45,7 @@ feature_text: |
             <td data-th="DÍAS">viernes 16 de octubre de 2020</td>
             <td data-th="ACTIVIDAD">Sesión de la Comisión para el cierre de recepción de candidaturas</td>
             <td data-th="LUGAR">Sesión virtual y presencial en Av. Arcos número 767, Col. Jardines del Bosque, Guadalajara, Jalisco</td>
-            <td data-th="HORA">16:45 horas</td>
-           
+            <td data-th="HORA">16:45 horas</td>           
         </tr>
         
 
@@ -54,8 +53,7 @@ feature_text: |
             <td data-th="DÍAS">viernes 16 de octubre de 2020</td>
             <td data-th="ACTIVIDAD">Publicación de la Metodología para la evaluación documental y curricular de los expedientes presentados por las y los candidatos a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</td>
             <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
-            <td data-th="HORA"></td>
-           
+            <td data-th="HORA"></td>           
         </tr>
 
         <tr>
@@ -63,8 +61,7 @@ feature_text: |
             <td data-th="ACTIVIDAD">Sesión de la Comisión para la designación de expedientes por revisar de acuerdo con los grupos conformados y el total de candidatos</td>
             <td data-th="LUGAR">Sesión virtual</td>
             <td data-th="HORA">11:00 horas</td>
-          
-        </tr>
+          </tr>
         
         <tr>
             <td data-th="DÍAS">viernes 23 de octubre de 2020</td>
@@ -74,7 +71,7 @@ feature_text: |
           
         </tr>        
         <tr>
-            <td data-th="DÍAS"viernes 23 de octubre de 2020</td>
+            <td data-th="DÍAS">viernes 23 de octubre de 2020</td>
             <td data-th="ACTIVIDAD">Publicación de los nombres de las personas seleccionadas y del calendario de entrevistas individuales con los candidatos</td>
             <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
             <td data-th="HORA"></td>
