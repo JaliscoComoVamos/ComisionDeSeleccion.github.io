@@ -24,7 +24,7 @@ Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; co
   <b>Acuerdo de la Comisión de Selección por el cual se declara como "No Concursante" al 
 aspirante que no cumple con alguno de los requisitos para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado De Jalisco </b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;"Acuerdo de la Comisión de Selección por el cual se declara como "No Concursante" al aspirante que no cumple con alguno de los requisitos para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado De Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 23/10/2020</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el cual se declara como "No Concursante" al aspirante que no cumple con alguno de los requisitos para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado De Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 23/10/2020</span></td>
   </tr>
   
  <tr style="height: 200px">
@@ -33,7 +33,7 @@ aspirante que no cumple con alguno de los requisitos para ser integrante del Com
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>Acuerdo de la Comisión de Selección por el cual se publican los nombres de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco </b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;"Acuerdo de la Comisión de Selección por el cual se publican los nombres de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 23/10/2020</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el cual se publican los nombres de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 23/10/2020</span></td>
   </tr>
 
  <tr style="height: 200px">
@@ -42,7 +42,7 @@ aspirante que no cumple con alguno de los requisitos para ser integrante del Com
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>Acuerdo de la Comisión de Selección por el cual se publica fecha y hora para realizar las entrevistas a las y los candidatos que fueron seleccionados como los 10 mejores perfiles conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco </b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;"Acuerdo de la Comisión de Selección por el cual se publica fecha y hora para realizar las entrevistas a las y los candidatos que fueron seleccionados como los 10 mejores perfiles conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 23/10/2020</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el cual se publica fecha y hora para realizar las entrevistas a las y los candidatos que fueron seleccionados como los 10 mejores perfiles conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 23/10/2020</span></td>
   </tr>
 
 
