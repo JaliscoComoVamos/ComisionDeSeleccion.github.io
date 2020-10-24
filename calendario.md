@@ -69,7 +69,8 @@ feature_text: |
             <td data-th="LUGAR">Sesión virtual y presencial en sala de juntas de la planta alta de Av. La Paz número 2453, Col. Arcos Sur, Guadalajara, Jalisco</td>
             <td data-th="HORA">12:30 horas</td>
           
-        </tr>        
+        </tr>
+        
         <tr>
             <td data-th="DÍAS">viernes 23 de octubre de 2020</td>
             <td data-th="ACTIVIDAD">Publicación de los nombres de las personas seleccionadas y del calendario de entrevistas individuales con los candidatos</td>
