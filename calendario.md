@@ -4,6 +4,107 @@ feature_text: |
   # CALENDARIO
 ---
 
+<h4 style="text-align:center;">Calendario 2020</h4>
+<br><br>
+<table class="rwd-table" id="table-wrap">
+    <thead>
+        <tr>
+            <th>DÍA(S)</th>
+            <th>ACTIVIDAD</th>
+            <th>LUGAR</th>
+            <th>HORA</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="DÍA" >viernes 2 de octubre de 2020</td>
+            <td data-th="ACTIVIDAD">Rueda de prensa de emisión de la Convocatoria</td>
+            <td data-th="LUGAR">Sesión virtual y presencial en sala de juntas de Av. La Paz número 2453, Col. Arcos Sur, Guadalajara, Jalisco</td>
+            <td data-th="HORA">11:00 horas</td>
+
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍA" >5 al 16 de octubre de 2020, lunes a viernes</td>
+            <td data-th="ACTIVIDAD">Recepción de candidaturas</td>
+            <td data-th="LUGAR"> Av. Arcos, número 767. Col. Jardines del Bosque o vía electrónica al correo:
+                <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA">9:00 a 15:00 horas</td>
+            
+        </tr>
+
+        <tr>
+            <td data-th="DÍA">viernes 16 de octubre de 2020</td>
+            <td data-th="ACTIVIDAD">Cierre de candidaturas.</td>
+            <td data-th="LUGAR">Av. Arcos, número 767. Col. Jardines del Bosque o vía electrónica al correo:
+                <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA">17:00 horas</td>
+        </tr>
+        
+        <tr>
+            <td data-th="DÍAS">viernes 16 de octubre de 2020</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para el cierre de recepción de candidaturas</td>
+            <td data-th="LUGAR">Sesión virtual y presencial en Av. Arcos número 767, Col. Jardines del Bosque, Guadalajara, Jalisco</td>
+            <td data-th="HORA">16:45 horas</td>
+           
+        </tr>
+        
+
+        <tr>
+            <td data-th="DÍAS">viernes 16 de octubre de 2020</td>
+            <td data-th="ACTIVIDAD">Publicación de la Metodología para la evaluación documental y curricular de los expedientes presentados por las y los candidatos a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>
+           
+        </tr>
+
+        <tr>
+            <td data-th="DÍAS">martes 20 de octubre de 2020</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para la designación de expedientes por revisar de acuerdo con los grupos conformados y el total de candidatos</td>
+            <td data-th="LUGAR">Sesión virtual</td>
+            <td data-th="HORA">11:00 horas</td>
+          
+        </tr>
+        
+        <tr>
+            <td data-th="DÍAS">viernes 23 de octubre de 2020</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para la revisión de los resultados del proceso de evaluación documental y curricular y definición de los mejores perfiles que pasan a la siguiente etapa</td>
+            <td data-th="LUGAR">Sesión virtual y presencial en sala de juntas de la planta alta de Av. La Paz número 2453, Col. Arcos Sur, Guadalajara, Jalisco</td>
+            <td data-th="HORA">12:30 horas</td>
+          
+        </tr>        
+        <tr>
+            <td data-th="DÍAS"viernes 23 de octubre de 2020</td>
+            <td data-th="ACTIVIDAD">Publicación de los nombres de las personas seleccionadas y del calendario de entrevistas individuales con los candidatos</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>
+           
+        </tr>
+        <tr>
+            <td data-th="DÍAS">martes 27 octubre de 2020</td>
+            <td data-th="ACTIVIDAD">Realización de las entrevistas/comparecencias, públicas (invitados de sociedad civil, académicos y especialistas en la materia)</td>
+            <td data-th="LUGAR">Sala de Consejo, Cámara de Comercio de Guadalajara, Av. Vallarta número 4095, Col. Don Bosco Vallarta, Zapopan Jalisco</td>
+            <td data-th="HORA">9:00 a 19:50 horas</td>
+          
+        </tr>
+        
+                <tr>
+            <td data-th="DÍAS">miércoles 28 de octubre de 2020</td>
+            <td data-th="ACTIVIDAD">Toma de protesta al integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco para el período 2020-2025</td>
+            <td data-th="LUGAR">Sala de Consejo, Cámara de Comercio de Guadalajara, Av. Vallarta número 4095, Col. Don Bosco Vallarta, Zapopan Jalisco</td>
+            <td data-th="HORA">9:00 horas</td>
+          
+        </tr>
+    </tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+-------------------------------------
 <h4 style="text-align:center;">Calendario 2019</h4>
 <br><br>
 <table class="rwd-table" id="table-wrap">
