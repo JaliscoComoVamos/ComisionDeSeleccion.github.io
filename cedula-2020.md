@@ -9,7 +9,7 @@ feature_text: |
 <p></p>
 <table class="table3"><tbody>
 
-<tr><th><b>Núm. Expediente</b></th><th><b>Suma de puntajes</b></th><th><b>Puntaje promedio</b></th></tr>
+<tr><th><b>NÚM. EXPEDIENTE</b></th><th><b>SUMA DE PUNTAJES</b></th><th><b>PUNTAJE PROMEDIO</b></th></tr>
 
 
 <tr><td><a href="/cedulas/04-ACPSJ-2020.pdf">04 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>160</span></div></td><td><div><span>53.33</span></div></td></tr>
