@@ -19,7 +19,7 @@ feature_text: |
 
 <tr><td><a href="/cedulas/18-ACPSJ-2020.pdf">18 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>134</span></div></td><td><div><span>44.67</span></div></td></tr>
 
-<tr><td><a href="/cedulas/15-ACPSJ-2020.pdf">15 ACPSJ/2020/a><span style="color:#75bec4;"></span></td><td><div><span>113</span></div></td><td><div><span>37.67</span></div></td></tr>
+<tr><td><a href="/cedulas/15-ACPSJ-2020.pdf">15 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>113</span></div></td><td><div><span>37.67</span></div></td></tr>
 
 <tr><td><a href="/cedulas/03-ACPSJ-2020.pdf">03 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>109</span></div></td><td><div><span>36.33</span></div></td></tr>
 
