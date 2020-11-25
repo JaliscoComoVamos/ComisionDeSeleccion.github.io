@@ -41,4 +41,4 @@ feature_text: |
 <p></p>
 <p><strong> Nota: El orden del listado es de manera decreciente al puntaje obtenido </strong></p>
 <p></p>
-<p>Se deja asentado que esta evaluación curricular se llevó a cabo en la sesión de la Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco realizada el 23 de octubre de 2020. Además que se cuenta con carta de aceptación de cada uno de los aspirantes que participaron en esta convocatoria para publicar los resultados de sus evaluaciones.</p>
+<div style="text-align:justify; line-height: 1.5rem"><span>Se deja asentado que esta evaluación curricular se llevó a cabo en la sesión de la Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco realizada el 23 de octubre de 2020. Además que se cuenta con carta de aceptación de cada uno de los aspirantes que participaron en esta convocatoria para publicar los resultados de sus evaluaciones. </span></div>
