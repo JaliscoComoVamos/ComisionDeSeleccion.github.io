@@ -14,25 +14,34 @@ feature_text: |
 
 <tr><td><a href="/cedulas/04-ACPSJ-2020.pdf">04 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>160</span></div></td><td><div><span>53.33</span></div></td></tr>
 
-<tr><td><a href="/cedulas/16-ACPSJ-2020.pdf">16 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>158</span></div></td><td><div><span>52.67</span></div></td></tr>
+<tr><td><a href="/cedulas/16-ACPSJ-2020.pdf">16 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>153</span></div></td><td><div><span>51.00</span></div></td></tr>
 
-<tr><td><a href="/cedulas/12ACPSJ2019_vf.pdf">León González Iliana Guadalupe</a><span style="color:#75bec4;"></span></td><td><div><span>151</span></div></td><td><div><span>50.33</span></div></td></tr>
+<tr><td><a href="/cedulas/07-ACPSJ-2020.pdf">07 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>144</span></div></td><td><div><span>48.00</span></div></td></tr>
 
-<tr><td><a href="/cedulas/08ACPSJ2019_vf.pdf">Peña Ugalde Omar Alejandro</a><span style="color:#75bec4;"></span></td><td><div><span>149</span></div></td><td><div><span>49.67</span></div></td></tr>
+<tr><td><a href="/cedulas/18-ACPSJ-2020.pdf">18 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>134</span></div></td><td><div><span>44.67</span></div></td></tr>
 
-<tr><td><a href="/cedulas/09ACPSJ2019_vf.pdf">Gómez Álvarez Pérez David</a><span style="color:#75bec4;"></span></td><td><div><span>145</span></div></td><td><div><span>48.33</span></div></td></tr>
+<tr><td><a href="/cedulas/15-ACPSJ-2020.pdf">15 ACPSJ/2020/a><span style="color:#75bec4;"></span></td><td><div><span>113</span></div></td><td><div><span>37.67</span></div></td></tr>
 
-<tr><td><a href="/cedulas/02ACPSJ2019_vf.pdf">Ángel Lara Hiram Abel</a><span style="color:#75bec4;"></span></td><td><div><span>145</span></div></td><td><div><span>48.33</span></div></td></tr>
+<tr><td><a href="/cedulas/03-ACPSJ-2020.pdf">03 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>109</span></div></td><td><div><span>36.33</span></div></td></tr>
 
-<tr><td><a href="/cedulas/11ACPSJ2019_vf.pdf">Chaires Zaragoza Jorge</a><span style="color:#75bec4;"></span></td><td><div><span>137</span></div></td><td><div><span>45.67</span></div></td></tr>
+<tr><td><a href="/cedulas/02-ACPSJ-2020.pdf">02 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>106</span></div></td><td><div><span>35.33</span></div></td></tr>
 
-<tr><td><a href="/cedulas/10ACPSJ2019_vf.pdf">Orozco Gálvez Roberto</a><span style="color:#75bec4;"></span></td><td><div><span>124</span></div></td><td><div><span>41.33</span></div></td></tr>
+<tr><td><a href="/cedulas/05-ACPSJ-2020.pdf">05 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>97</span></div></td><td><div><span>32.33</span></div></td></tr>
 
-<tr><td><a href="/cedulas/06ACPSJ2019_vf.pdf">Orozco Jara Rito Abel</a><span style="color:#75bec4;"></span></td><td><div><span>114</span></div></td><td><div><span>38.00</span></div></td></tr>
+<tr><td><a href="/cedulas/01-ACPSJ-2020.pdf">01 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>96</span></div></td><td><div><span>32.00</span></div></td></tr>
 
-<tr><td><a href="/cedulas/07ACPSJ2019_vf.pdf">Hubbe Contreras Tadeo Eduardo</a><span style="color:#75bec4;"></span></td><td><div><span>107</span></div></td><td><div><span>35.67</span></div></td></tr>
+<tr><td><a href="/cedulas/14-ACPSJ-2020.pdf">14 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>95</span></div></td><td><div><span>31.67</span></div></td></tr>
+
+<tr><td><a href="/cedulas/06-ACPSJ-2020.pdf">06 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>87</span></div></td><td><div><span>29.00</span></div></td></tr>
+
+<tr><td><a href="/cedulas/11-ACPSJ-2020.pdf">11 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>83</span></div></td><td><div><span>27.67</span></div></td></tr>
+
+<tr><td><a href="/cedulas/10-ACPSJ-2020.pdf">10 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>82</span></div></td><td><div><span>27.33</span></div></td></tr>
 
 
 </tbody></table>
 
+<p><strong> Nota: El orden del listado es de manera decreciente al puntaje obtenido </strong></p>
 <p></p>
+<p></p>
+<p>Se deja asentado que esta evaluación curricular se llevó a cabo en la sesión de la Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco realizada el 23 de octubre de 2020. Además que se cuenta con carta de aceptación de cada uno de los aspirantes que participaron en esta convocatoria para publicar los resultados de sus evaluaciones.</p>
