@@ -12,9 +12,9 @@ feature_text: |
 <tr><th><b>LUGAR</b></th><th><b>CÓDIGO</b></th><th><b>NOMBRE</b></th><th><b>TOTAL SUMATORIA</b></th><th><b>PROMEDIO</b></th></tr>
 
 
-<tr><td>1</td><td><div><span>1ACPSJ/2019</span></div></td><td><a href="/cedulas/01ACPSJ2019_VF.pdf">Tinajero Díaz Gilberto</a><span style="color:#75bec4;"></span></td><td><div><span>162</span></div></td><td><div><span>54.00</span></div></td></tr>
+<tr><td><a href="/cedulas/04-ACPSJ-2020.pdf">04 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>162</span></div></td><td><div><span>54.00</span></div></td></tr>
 
-<tr><td>2</td><td><div><span>3ACPSJ/2019</span></div></td><td><a href="/cedulas/03ACPSJ2019_vf.pdf">Moreno Jaimes Carlos Luis</a><span style="color:#75bec4;"></span></td><td><div><span>158</span></div></td><td><div><span>52.67</span></div></td></tr>
+<tr><td><a href="/cedulas/16-ACPSJ-2020.pdf">16 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>158</span></div></td><td><div><span>52.67</span></div></td></tr>
 
 <tr><td>3</td><td><div><span>12ACPSJ/2019</span></div></td><td><a href="/cedulas/12ACPSJ2019_vf.pdf">León González Iliana Guadalupe</a><span style="color:#75bec4;"></span></td><td><div><span>151</span></div></td><td><div><span>50.33</span></div></td></tr>
 
@@ -36,5 +36,3 @@ feature_text: |
 </tbody></table>
 
 <p></p>
-
-
