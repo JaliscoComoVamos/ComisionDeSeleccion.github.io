@@ -38,8 +38,3 @@ feature_text: |
 <tr><td><a href="/cedulas/10-ACPSJ-2020.pdf">10 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>82</span></div></td><td><div><span>27.33</span></div></td></tr>
 
 </tbody></table>
-
-<p><strong> Nota: El orden del listado es de manera decreciente al puntaje obtenido </strong></p>
-<p></p>
-<p></p>
-<p>Se deja asentado que esta evaluación curricular se llevó a cabo en la sesión de la Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco realizada el 23 de octubre de 2020. Además que se cuenta con carta de aceptación de cada uno de los aspirantes que participaron en esta convocatoria para publicar los resultados de sus evaluaciones.</p>
