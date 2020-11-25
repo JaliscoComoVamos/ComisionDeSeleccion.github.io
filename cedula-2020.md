@@ -11,7 +11,6 @@ feature_text: |
 
 <tr><th><b>NÚM. EXPEDIENTE</b></th><th><b>SUMA DE PUNTAJES</b></th><th><b>PUNTAJE PROMEDIO</b></th></tr>
 
-
 <tr><td><a href="/cedulas/04-ACPSJ-2020.pdf">04 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>160</span></div></td><td><div><span>53.33</span></div></td></tr>
 
 <tr><td><a href="/cedulas/16-ACPSJ-2020.pdf">16 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>153</span></div></td><td><div><span>51.00</span></div></td></tr>
@@ -37,7 +36,6 @@ feature_text: |
 <tr><td><a href="/cedulas/11-ACPSJ-2020.pdf">11 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>83</span></div></td><td><div><span>27.67</span></div></td></tr>
 
 <tr><td><a href="/cedulas/10-ACPSJ-2020.pdf">10 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>82</span></div></td><td><div><span>27.33</span></div></td></tr>
-
 
 </tbody></table>
 
