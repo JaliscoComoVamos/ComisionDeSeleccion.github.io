@@ -16,7 +16,7 @@ feature_text: |
 <p style="text-align: center" class="svg_text_link3"><a href="/declaraciones/DECLARACION-PATRIMONIAL.pdf">Declaración patrimonial</a></p>
 <p style="text-align: center" class="svg_text_link3"><a href="/declaraciones/DECLARACION-FISCAL.pdf">Declaración fiscal</a></p>
 <br>
-<div style="text-align:justify; line-height: 1.8rem"><span>Lo anterior, de conformidad con la fracción VI del arábigo 1 del artículo 34 en correlación con el 18 de la Ley del Sistema Anticorrupción del Estado de Jalisco,así como el resolutivo tercero del Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco de fecha 27 de octubre de 2020. 
+<div style="text-align:justify; line-height: 1.8rem"><span>Lo anterior, de conformidad con la fracción VI del arábigo 1 del artículo 34 en correlación con el 17 de la Ley del Sistema Anticorrupción del Estado de Jalisco,así como el resolutivo tercero del Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco de fecha 27 de octubre de 2020. 
 </span></div>
 </div>
 </div>
