@@ -86,7 +86,7 @@ feature_text: |
         </tr>
         
         <tr style="background-color: #f2f2f2;">
-            <td data-th="DÍAS">jueves 30 de octubre de 2021</td>
+            <td data-th="DÍAS">sábado 30 de octubre de 2021</td>
             <td data-th="ACTIVIDAD">Toma de protesta al integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco para el período 2020-2025</td>
             <td data-th="LUGAR">Sala de Consejo, Cámara de Comercio de Guadalajara, Av. Vallarta número 4095, Col. Don Bosco Vallarta, Zapopan Jalisco</td>
             <td data-th="HORA">9:00 horas</td>
