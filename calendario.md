@@ -24,7 +24,7 @@ feature_text: |
 
         </tr>
         <tr style="background-color: #f2f2f2;">
-            <td data-th="DÍA" >23 de septiembre al 5 de octubre de 2021, lunes a viernes</td>
+            <td data-th="DÍA" >22 de septiembre al 5 de octubre de 2021, lunes a viernes</td>
             <td data-th="ACTIVIDAD">Recepción de candidaturas</td>
             <td data-th="LUGAR"> Av. Arcos, número 767. Col. Jardines del Bosque o vía electrónica al correo:
                 <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
