@@ -33,7 +33,7 @@ feature_text: |
         </tr>
 
         <tr>
-            <td data-th="DÍA"martes 5 de octubre de 2021</td>
+            <td data-th="DÍA">martes 5 de octubre de 2021</td>
             <td data-th="ACTIVIDAD">Cierre de candidaturas.</td>
             <td data-th="LUGAR">Av. Arcos, número 767. Col. Jardines del Bosque o vía electrónica al correo:
                 <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
