@@ -5,12 +5,12 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
-<h4 style="text-align:center;">COMUNICADO DEL ACUERDO QUE DEJA SIN EFECTO LA CONVOCATORIA EMITIDA EL 22 DE SEPTIEMBRE DE 2021 PARA LA DESIGNACIÓN DE UN INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN EN EL ESTADO DE JALISCO.<a href="http://comisionsaejalisco.org/documentos/COMUNICADO-30-9-2021.pdf"></a></h4>
+<a href="http://comisionsaejalisco.org/documentos/COMUNICADO-30-9-2021.pdf"><h4 style="text-align:center;">COMUNICADO DEL ACUERDO QUE DEJA SIN EFECTO LA CONVOCATORIA EMITIDA EL 22 DE SEPTIEMBRE DE 2021 PARA LA DESIGNACIÓN DE UN INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN EN EL ESTADO DE JALISCO.</h4></a>
 <p></p>
 <p></p>
 <div style="background-color: #262626; height:6px; width:100%; display:block;"></div>
 <p></p>
-<h4 style="color: #333; background: #fcf5bf; text-align: center; font-weight: normal; padding: 5px; font-family: Karla">CONVOCATORIA 2021<a href="http://comisionsaejalisco.org/documentos/Convocatoria_para_conformacion_del_CPS_2021.pdf"></a></h4>
+<a href="http://comisionsaejalisco.org/documentos/Convocatoria_para_conformacion_del_CPS_2021.pdf"><h4 style="color: #333; background: #fcf5bf; text-align: center; font-weight: normal; padding: 5px; font-family: Karla">CONVOCATORIA 2021</h4></a>
 
 <p></p>
   
