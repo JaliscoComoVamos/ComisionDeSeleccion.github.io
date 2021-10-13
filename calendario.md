@@ -4,6 +4,142 @@ feature_text: |
   # CALENDARIO
 ---
 
+
+<h4 style="text-align:center;">Calendario 2021</h4>
+<br><br>
+<table class="rwd-table" id="table-wrap">
+    <thead>
+        <tr>
+            <th>DÍA(S)</th>
+            <th>ACTIVIDAD</th>
+            <th>LUGAR</th>
+            <th>HORA</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="DÍA" >29 de Semptiembre del 2021</td>
+            <td data-th="ACTIVIDAD">Rueda de prensa de emisiòn de la Convocatoria</td>
+            <td data-th="LUGAR">Av. Enrique Díaz de León número 90, Guadalajara, Jalisco</td>
+            <td data-th="HORA">13:00 horas</td>
+
+        </tr>
+            <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍA" >Viernes 1 de octubre al Martes 12 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Recepción de candidaturas</td>
+            <td data-th="LUGAR"> Av. Arcos, número 767. Col. Jardines del Bosque o vía electrónica al correo:
+                <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA">9:00 a 15:00 horas</td>
+            
+        </tr>
+
+        <tr>
+            <td data-th="DÍA">Martes 12 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para el cierre de recepción de candidaturas .</td>
+            <td data-th="LUGAR">Sesión virtual y presencial Av. Arcos, número 767. Col. Jardines del Bosque o vía electrónica al correo:</td>
+            <td data-th="HORA">17:00 horas</td>
+        </tr>
+        
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Martes 12 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Publicación de el listado de expedientes recibidos</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>           
+        </tr>
+        
+
+        <tr>
+            <td data-th="DÍAS">Martes 12 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Publicación de la Metodología para la evaluación documental y curricular de los expedientes presentados por las y los candidatos a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>           
+        </tr>
+
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Viernes 15 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para determinar qué aspirantes cumplen con la documentación requerida y los requisitos que establece la Ley y la Convocatoria.</td>
+            <td data-th="LUGAR">Sesión virtual y presencial</td>
+            <td data-th="HORA"></td>
+          </tr>
+        
+        <tr>
+            <td data-th="DÍAS">Martes 18 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Publicación del listado de los aspirantes cumplen con la documentación requerida y los requisitos que establece la Ley y la Convocatoria. Y notificar a quienes no resulten concursantes para la elección del nuevo integra</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/
+            <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA"></td>
+          
+        </tr>
+        
+         <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Martes 19 al Lunes 25 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para determinar los 10 mejores perfiles</td>
+            <td data-th="LUGAR">Sesiòn virtual y presencial</td>
+            <td data-th="HORA"></td>
+           
+        </tr>
+        <tr>
+            <td data-th="DÍAS">Jueves 21 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Publicación de:
+                • Lista de los 10 seleccionados, 
+                • Calendario de entrevistas
+                • Lugar en que se llevarán a cabo las entrevistas</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>
+          
+        </tr>
+        
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Lunes 25 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Realización de las entrevistas/comparecencias, públicas (invitados de sociedad civil, académicos y especialistas en la materia)</td>
+            <td data-th="LUGAR">Sala de Consejo, Cámara de Comercio de Guadalajara, Av. Vallarta número 4095, Col. Don Bosco Vallarta, Zapopan Jalisco</td>
+            <td data-th="HORA"></td>
+          
+        </tr>
+
+                <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Martes 26 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para elegir al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco para el período 2020-2025</td>
+            <td data-th="LUGAR">Sesión virtual y presencial</td>
+            <td data-th="HORA"></td>
+          
+        </tr>
+
+                <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Miercoles 27 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Publicación del Acuerdo de elección</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>
+          
+        </tr>
+
+                <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Miércoles 27 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Notificación al aspirante electo</td>
+            <td data-th="LUGAR">Via correo electrònico:
+                <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA"></td>
+          
+        </tr>
+
+                <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Viernes 29 de octubre de 2021</td>
+            <td data-th="ACTIVIDAD">Toma de protesta al integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco para el período 2021-2026</td>
+            <td data-th="LUGAR">Sala de Consejo, Cámara de Comercio de Guadalajara, Av. Vallarta número 4095, Col. Don Bosco Vallarta, Zapopan Jalisco</td>
+            <td data-th="HORA"></td>
+          
+        </tr>
+    </tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<!-- ------------------------------------- -->
 <h4 style="text-align:center;">Calendario 2020</h4>
 <br><br>
 <table class="rwd-table" id="table-wrap">
