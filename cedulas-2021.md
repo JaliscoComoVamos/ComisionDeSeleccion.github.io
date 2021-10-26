@@ -29,7 +29,7 @@ feature_text: |
 
 <tr><td><a href="\cedulas\2021\01ACPSJ2021.pdf">01 1ACPSJ/2021</a><span style="color:#75bec4;"></span></td><td><div><span>115</span></div></td><td><div><span>38.3</span></div></td></tr>
 
-<tr><td><a href="\cedulas\2021\06ACPSJ2021.pdf">06 6ACPSJ/2021</a><span style="color:#75bec4;"></span></td><td><div><span>95</span></div></td><td><div><span>31.67</span></div></td></tr>
+<tr><td><a href="\cedulas\2021\06ACPSJ2021.pdf">06 6ACPSJ/2021</a><span style="color:#75bec4;"></span></td><td><div><span>115</span></div></td><td><div><span>38.3</span></div></td></tr>
 
 
 </tbody></table>
