@@ -11,9 +11,9 @@ feature_text: |
 
 <tr><th><b>NÚM. EXPEDIENTE</b></th><th><b>SUMA DE PUNTAJES</b></th><th><b>PUNTAJE PROMEDIO</b></th></tr>
 
-<tr><td><a href="cedulas/2021/03CPSJ2021.pdf">03 3ACPSJ/2021</a><span style="color:#75bec4;"></span></td><td><div><span>146</span></div></td><td><div><span>49.00</span></div></td></tr>
+<tr><td><a href="cedulas\2021\03CPSJ2021.pdf">03 3ACPSJ/2021</a><span style="color:#75bec4;"></span></td><td><div><span>146</span></div></td><td><div><span>49.00</span></div></td></tr>
 
-<tr><td><a href="cedulas/2021/08ACPSJ2021.pdf">08 8ACPSJ/2021</a><span style="color:#75bec4;"></span></td><td><div><span>144</span></div></td><td><div><span>48.00</span></div></td></tr>
+<tr><td><a href="cedulas\2021\08ACPSJ2021.pdf">08 8ACPSJ/2021</a><span style="color:#75bec4;"></span></td><td><div><span>144</span></div></td><td><div><span>48.00</span></div></td></tr>
 
 <tr><td><a href="cedulas/2021/09ACPSJ2021.pdf">09 9ACPSJ/2021</a><span style="color:#75bec4;"></span></td><td><div><span>143</span></div></td><td><div><span>48.00</span></div></td></tr>
 
