@@ -8,6 +8,24 @@ feature_text: |
 
 
    <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/video-2021"> 
+      <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#document"></use></svg>
+      <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
+  <b>TOMA DE PROTESTA</b></span>
+  </a></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Toma de protesta del nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado 29/10/2021</span></td>
+  </tr>
+
+ <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/Acuerdo_de_nombramiento_2021.pdf"> 
+      <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
+      <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
+  <b>ACUERDO DE NOMBRAMIENTO</b></span>
+  </a></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado 29/10/2021</span></td>
+  </tr>
+
+   <tr style="height: 200px">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/cedulas-2021"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#document"></use></svg>
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
@@ -91,14 +109,7 @@ feature_text: |
   </tr>
 
 
- <tr style="height: 200px">
-    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/Acuerdo_nombramiento_2020.pdf"> 
-      <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
-      <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
-  <b>ACUERDO DE NOMBRAMIENTO</b></span>
-  </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado 27/10/2020</span></td>
-  </tr>
+
 
 
  <tr style="height: 200px">
