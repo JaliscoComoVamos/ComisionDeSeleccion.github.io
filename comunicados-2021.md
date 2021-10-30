@@ -34,6 +34,15 @@ feature_text: |
     <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado 29/10/2021</span></td>
   </tr>
 
+  <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/declaraciones-2020"> 
+      <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#document"></use></svg>
+      <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
+  <b>DECLARACIONES DEL NUEVO INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL.</b></span>
+  </a></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Se publican las declaraciones de intereses, patrimonial y fiscal de Pedro Vicente Viveros Reyes, de conformidad con la fracción VI del arábigo 1 del artículo 34 en correlación con el 17 de la Ley del Sistema Anticorrupción del Estado de Jalisco,así como el resolutivo tercero del Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco de fecha 26 de octubre de 2021.<p></p><span style="font-style: italic; color: #d8ad89">Publicado 28/10/2021</span></td>
+  </tr>
+
    <tr style="height: 200px">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/cedulas-2021"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#document"></use></svg>
