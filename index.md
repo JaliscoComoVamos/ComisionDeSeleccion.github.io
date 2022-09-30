@@ -5,7 +5,7 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
-<h4 style="text-align:center;"><a target="_blank" href="http://comisionsaejalisco.org/documentos/COMUNICADO-30-9-2021-.pdf">CONVOCATORIA PARA ELEGIR A UN INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL (CPS) DEL SISTEMA.</a></h4>
+<h4 style="text-align:center;"><a target="_blank" href="http://comisionsaejalisco.org/documentos/Convocatoria_para_conformacion_del_CPS_2022.pdf">CONVOCATORIA PARA ELEGIR A UN INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL (CPS) DEL SISTEMA.</a></h4>
 <p></p>
 <p></p>
 <div style="background-color: #262626; height:6px; width:100%; display:block;"></div>
