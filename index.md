@@ -5,7 +5,7 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
-<h4 style="text-align:center;"><a target="_blank" href="http://comisionsaejalisco.org/documentos/COMUNICADO-30-9-2021.pdf">COMUNICADO DEL ACUERDO QUE DEJA SIN EFECTO LA CONVOCATORIA EMITIDA EL 29 DE SEPTIEMBRE DE 2022 PARA LA DESIGNACIÓN DE UN INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN EN EL ESTADO DE JALISCO.</a></h4>
+<h4 style="text-align:center;"><a target="_blank" href="http://comisionsaejalisco.org/documentos/COMUNICADO-30-9-2021-.pdf">CONVOCATORIA PARA ELEGIR A UN INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL (CPS) DEL SISTEMA.</a></h4>
 <p></p>
 <p></p>
 <div style="background-color: #262626; height:6px; width:100%; display:block;"></div>
