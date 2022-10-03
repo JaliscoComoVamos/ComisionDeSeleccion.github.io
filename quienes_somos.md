@@ -49,18 +49,18 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 </div><p>
 </p>
 <div class="flex-grid-thirds">
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MarisaLazo.jpg" width="220px">
-<a href="/documentos/CV-Marisa-Lazo.pdf" target="_blank">
-	<p><b style="color: #82D4DA">MARÍA ISABEL LAZO CORVERA</b></p>  </a>
-<p class="small">Empresaria en el ramo de alimentos; Fundadora de Pastelerías Marisa  </p></div></div>
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MonicaMaria.jpeg" width="220px">
+<a href="/documentos/CV-MONICA-MARIA-ORTIZ-GOMEZ.pdf" target="_blank">
+	<p><b style="color: #82D4DA">MÓNICA MARÍA OIRTIZ GÓMEZ</b></p>  </a>
+<p class="small">Académica en el área de Derecho, Analista y articulista político Local Asesor Jurídica</p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/Raul Frias_propuesta UDGVirtual.jpg" width="220px"><a href="/03. RAUL FRIAS LUCIO.pdf" target="_blank">
 	<p><b style="color: #82D4DA">RAÚL FRÍAS LUCIO</b></p>  </a>
 <p class="small">Periodista y director editorial en Megacable</p></div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/ReneRivial.jpg" width="220px"><a href="/documentos/CV-Rene-Rivial.pdf" target="_blank">
-	<p><b style="color: #82D4DA">RENÉ JUSTIN RIVIAL LEÓN</b></p>  </a>
-<p class="small">Empresario en el ramo de materiales poliméricos; Fundador de Productos Rivial S.A. de C.V.</p>
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/FranciscoJavier.jpeg" width="220px"><a href="/documentos/CV-FRANCISCO-JAVIER-IGNACIO-ORENDAIN-Y-MARTINEZ-GALLARDO.pdf" target="_blank">
+	<p><b style="color: #82D4DA">FRANCISCO XAVIER IGNACIO ORENDÁIN MARTÍNEZ GALLARDO</b></p>  </a>
+<p class="small">Empresario en ramo de la Construcción; Presidente del Consejo de Administración y Director General de diversas empresas.</p>
 </div></div>
 </div>
 
