@@ -13,7 +13,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>VERSIÓN PÚBLICA DE LOS EXPEDIENTES QUE PRESENTARON LAS Y LOS CANDIDATOS  QUE CUMPLEN LOS REQUISITOS PARA SER INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 01/11/2021</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 14/10/2022</span></td>
   </tr>
 
 
@@ -108,7 +108,7 @@ feature_text: |
   </a></td>
    
   <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de los aspirantes para elegir a un integrande del Comité de    Participación Social del Sistema Anticorrupción del Estado de Jalisco<br>
-  <p></p><span style="font-style: italic; color: #d8ad89">Publicado 13/10/2021</span></td>
+  <p></p><span style="font-style: italic; color: #d8ad89">Publicado 14/10/2022</span></td>
   </tr>  
   
   <tr style="height: 200px">
@@ -119,7 +119,7 @@ feature_text: |
   </a></td>
    
   <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">I.  Antecedentes y marco normativo<br>II. Procedimientos e instrumentos de verificación de registro de valoración<br>III. Procedimiento de valoración de los expedientes presentados por los candidatos y candidatas (evaluación documental)<br>IV. Procedimiento de verificación de datos y perfil curricular contenido en los expedientes presentados por las y los candidatos (evaluación curricular)<br>
-<p></p><span style="font-style: italic; color: #d8ad89">Publicado 13/10/2021</span></td>
+<p></p><span style="font-style: italic; color: #d8ad89">Publicado 14/10/2022</span></td>
   </tr> 
 
 
