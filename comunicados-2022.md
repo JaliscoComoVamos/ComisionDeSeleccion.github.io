@@ -63,12 +63,12 @@ feature_text: |
   </tr>
 
    <tr style="height: 200px">
-    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/cedulas-2021"> 
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/cedulas-2022"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#document"></use></svg>
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>VERSIÓN PÚBLICA DE LAS EVALUACIONES CURRICULARES DE LOS CANDIDATOS Y CANDIDATAS QUE LLEGARON A ESTA FASE DEL PROCESO PARA ELEGIR A UN NUEVO INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo por el que se da a conocer la versión pública de las evaluaciones curriculares, la suma de los puntajes y el promedio obtenido por quienes llegaron a esta fase del proceso para elegir a un nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado: 26/10/2021</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo por el que se da a conocer la versión pública de las evaluaciones curriculares, la suma de los puntajes y el promedio obtenido por quienes llegaron a esta fase del proceso para elegir a un nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado: 20/10/2022</span></td>
   </tr>
 
 
