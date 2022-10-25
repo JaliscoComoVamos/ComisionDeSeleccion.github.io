@@ -3,7 +3,7 @@ title: ""
 feature_text: |
   # ACUERDO POR EL QUE SE DA A CONOCER LA VERSIÓN PÚBLICA DE LAS EVALUACIONES CURRICULARES, LA SUMA DE LOS PUNTAJES Y EL PROMEDIO OBTENIDO POR QUIENES LLEGARON A ESTA FASE DEL PROCESO PARA ELEGIR A UN NUEVO INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO.
 ---
-<div style="text-align:justify; line-height: 1.5rem"><span>Con fundamento en las bases segunda, quinta y octava de la Convocatoria emitida el 30 de septiembre de 2021 para elegir a un integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco se da a conocer la versión pública de las evaluaciones curriculares, la suma de los puntajes y el promedio obtenido por quienes llegaron a esta fase del proceso para elegir a un nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, que son: 
+<div style="text-align:justify; line-height: 1.5rem"><span>Con fundamento en las bases segunda, quinta y octava de la Convocatoria emitida el 29 de septiembre de 2022 para elegir a un integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco se da a conocer la versión pública de las evaluaciones curriculares, la suma de los puntajes y el promedio obtenido por quienes llegaron a esta fase del proceso para elegir a un nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, que son: 
 </span></div>
 <p></p>
 <p></p>
@@ -34,4 +34,4 @@ feature_text: |
 <p></p>
 <p><strong> Nota: El orden del listado es de manera decreciente al puntaje obtenido </strong></p>
 <p></p>
-<div style="text-align:justify; line-height: 1.5rem"><span>Se deja asentado que esta evaluación curricular se llevó a cabo en la sesión de la Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco realizada el 23 de octubre de 2021. Además, que se cuenta con carta de aceptación de cada uno de los aspirantes que participaron en esta convocatoria para publicar los resultados de sus evaluaciones. </span></div>
+<div style="text-align:justify; line-height: 1.5rem"><span>Se deja asentado que esta evaluación curricular se llevó a cabo en la sesión de la Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco realizada el 20 de octubre de 2022. Además, que se cuenta con carta de aceptación de cada uno de los aspirantes que participaron en esta convocatoria para publicar los resultados de sus evaluaciones. </span></div>
