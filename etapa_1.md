@@ -258,10 +258,6 @@ Carlos Servín Ugarte</span></a><br>
       <svg class="icon" role="img"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline" style="line-height: 1rem; vertical-align: text-bottom;">
 José Luis Tello Ramírez</span></a><br>
-      <a href="/testados/Gabriel_Torres_Espinoza.pdf" class="hangingindent"> 
-      <svg class="icon" role="img"><use xlink:href="#doc-pdf"></use></svg>
-      <span class="specialunderline" style="line-height: 1rem; vertical-align: text-bottom;">
-Gabriel Torres Espinoza</span></a><br>
       <a href="/testados/Jesus_Octavio_Urquides_Verdugo.pdf" class="hangingindent"> 
       <svg class="icon" role="img"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline" style="line-height: 1rem; vertical-align: text-bottom;">
