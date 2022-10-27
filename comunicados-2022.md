@@ -50,7 +50,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>ACUERDO DE NOMBRAMIENTO</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado 29/10/2021</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado 26/10/2022</span></td>
   </tr>
 
   <tr style="height: 200px">
