@@ -22,13 +22,13 @@ feature_text: |
 
 <tr><td><a href="\cedulas\2022\05ACPSJ2022.pdf">5ACPSJ/2022</a><span style="color:#75bec4;"></span></td><td><div><span>97</span></div></td><td><div><span>32.3</span></div></td></tr>
 
-<tr><td><a href="\cedulas\2022\06ACPSJ2022.pdf">6ACPSJ/2022</a><span style="color:#75bec4;"></span></td><td><div><span>82</span></div></td><td><div><span>27.3</span></div></td></tr>
+<tr><td><a href="\cedulas\2022\06ACPSJ_2022.pdf">6ACPSJ/2022</a><span style="color:#75bec4;"></span></td><td><div><span>82</span></div></td><td><div><span>27.3</span></div></td></tr>
 
 <tr><td><a href="\cedulas\2022\07ACPSJ2022.pdf">7ACPSJ/2022</a><span style="color:#75bec4;"></span></td><td><div><span>109</span></div></td><td><div><span>36.3</span></div></td></tr>
 
 <tr><td><a href="\cedulas\2022\08ACPSJ2022.pdf">8ACPSJ/2022</a><span style="color:#75bec4;"></span></td><td><div><span>87</span></div></td><td><div><span>29.0</span></div></td></tr>
 
-<tr><td><a href="\cedulas\2022\09ACPSJ2022.pdf">9ACPSJ/2022</a><span style="color:#75bec4;"></span></td><td><div><span>137</span></div></td><td><div><span>46</span></div></td></tr>
+<tr><td><a href="\cedulas\2022\09ACPSJ_2022.pdf">9ACPSJ/2022</a><span style="color:#75bec4;"></span></td><td><div><span>137</span></div></td><td><div><span>46</span></div></td></tr>
 
 </tbody></table>
 <p></p>
