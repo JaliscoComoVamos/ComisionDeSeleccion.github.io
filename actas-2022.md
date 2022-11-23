@@ -43,11 +43,11 @@ feature_text: |
 
 <div class="col"><div style="text-align:center"> <br>
  <a href="/actas/ACTA 6 24 DE OCTUBRE DEL 2022.pdf" class="svg_text_link2"> <svg class="icon" role="img" style="width: 32px; height: 32px;"> <use xlink:href="#doc-pdf"></use></svg><br> 
-<span class="specialunderline3  bigg" style="line-height: 2rem;">ACTA 6&nbsp;</span> </a><p></p><span class="small">24 de octubre de 2022</span><p></p></div> </div>
+<span class="specialunderline3  bigg" style="line-height: 2rem;">ACTA 6&nbsp;</span> </a><p></p><span class="small">24 de Octubre de 2022</span><p></p></div> </div>
 
 <div class="col"><div style="text-align:center"> <br>
  <a href="/actas/ACTA 7 25 DE OCTUBRE DEL 2022.pdf" class="svg_text_link2"> <svg class="icon" role="img" style="width: 32px; height: 32px;"> <use xlink:href="#doc-pdf"></use></svg><br> 
-<span class="specialunderline3  bigg" style="line-height: 2rem;">ACTA 7&nbsp;</span> </a><p></p><span class="small">25 de octubre de 2022</span><p></p></div> </div>
+<span class="specialunderline3  bigg" style="line-height: 2rem;">ACTA 7&nbsp;</span> </a><p></p><span class="small">25 de Octubre de 2022</span><p></p></div> </div>
 
 
 <!-- <div class="col"><div style="text-align:center"> <br>
