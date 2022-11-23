@@ -1,4 +1,3 @@
-
 ---
 title: ""
 feature_text: |
