@@ -40,7 +40,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/hector romero gonzalez.jpg" width="220px">
 	<a href="/hector romero gonzalez.pdf" target="_blank">
 	<p><b style="color: #82D4DA">JOSÉ ANTONIO ESQUIVIAS ROMERO</b></p>  </a>
-<p class="small">Rector de la Universidad Panamericana</p></div></div>
+<p class="small">Abogado en ejercicio de su profesión y Máster Iberoamericano en Políticas Anticorrupción.</p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/IsabelSepulveda.jpg" width="220px">
 <a href="/documentos/CV-Isabel-Sepulveda.pdf" target="_blank">
