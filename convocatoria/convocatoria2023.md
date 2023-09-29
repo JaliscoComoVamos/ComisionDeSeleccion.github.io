@@ -15,8 +15,5 @@ Descarga la **Convocatoria de proceso de selección para nuevo integrante del Co
 <p></p>
 
 
-<a href="https://www.youtube.com/watch?v=R1uXrYPzzJI"><span class="specialunderline2" style="line-height: 1rem;"> <b>23 de octubre de 2023</b></span></a>
-{% include video.html id="R1uXrYPzzJI" %}
-
 <p></p>
 <p></p>
