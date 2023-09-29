@@ -10,7 +10,7 @@ Descarga la **Convocatoria de proceso de selección para nuevo integrante del Co
 <p></p>
 <p></p>
 
-<h5 style="color: #333333;">Entrevistas de los aspirantes a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</h5>
+
 
 <p></p>
 
