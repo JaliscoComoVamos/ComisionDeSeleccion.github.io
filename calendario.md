@@ -5,6 +5,7 @@ feature_text: |
 ---
 
 <h4 style="text-align:center;">Calendario 2023</h4>
+<a href="Calendario de actividades 2023.pdf" target="_blank">
 <br><br>
 <table class="rwd-table" id="table-wrap">
     <thead>
