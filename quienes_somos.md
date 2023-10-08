@@ -42,7 +42,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 	<p><b style="color: #82D4DA">HECTOR ROMERO GONZALEZ</b></p>  </a>
 <p class="small">Abogado en ejercicio de su profesión y Máster Iberoamericano en Políticas Anticorrupción.</p></div></div>
 
-<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/maria isabel alvarez peña.jpg" width="220px">
+<div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/maria-isabel-alvarez-peña.jpg" width="220px">
 <a href="/documentos/CV-Isabel-Sepulveda.pdf" target="_blank">
 	<p><b style="color: #82D4DA">MARIA ISABEL ALVAREZ PEÑA</b></p>  </a>
 <p class="small">Coordinadora General de la Licenciatura en Derecho de la Universidad Panamericana</p></div></div>
