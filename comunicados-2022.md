@@ -112,7 +112,7 @@ feature_text: |
   </tr>  
   
   <tr style="height: 200px">
-    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/METODOLOGÍA_PARA_LA_EVALUACIÓN_DOCUMENTAL_Y_CURRICULAR_2022.pdf"> 
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/METODOLOGIA PARA LA EVALUACION DOCUMENTAL Y CURRICULAR 2023-.pdf"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>METODOLOGÍA PARA LA EVALUACIÓN DOCUMENTAL Y CURRICULAR DE LOS EXPEDIENTES PRESENTADOS POR LAS Y LOS CANDIDATOS A INTEGRAR EL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b></span>
