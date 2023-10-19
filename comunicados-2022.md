@@ -13,7 +13,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>VERSIÓN PÚBLICA DE LOS EXPEDIENTES QUE PRESENTARON LAS Y LOS CANDIDATOS  QUE CUMPLEN LOS REQUISITOS PARA SER INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 14/10/2022</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado </span></td>
   </tr>
 
 
@@ -32,7 +32,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>COMUNICADO OFICIAL</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Comunicado Oficial de la Comisión de Selección en relación al Acuerdo en el que se deja sin efecto la Convocatoria del 22 de Septiembre del 2021<p></p><span style="font-style: italic; color: #d8ad89">Publicado 28/10/2022</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Comunicado Oficial de la Comisión de Selección en relación al Acuerdo en el que se deja sin efecto la Convocatoria del 22 de Septiembre del 2021<p></p><span style="font-style: italic; color: #d8ad89">Publicado </span></td>
   </tr>
 
    <tr style="height: 200px">
@@ -41,7 +41,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>TOMA DE PROTESTA</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Toma de protesta del nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado 28/10/2022</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Toma de protesta del nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado </span></td>
   </tr>
 
  <tr style="height: 200px">
@@ -50,7 +50,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>ACUERDO DE NOMBRAMIENTO</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado 26/10/2022</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado</span></td>
   </tr>
 
   <tr style="height: 200px">
@@ -59,7 +59,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>DECLARACIONES DEL NUEVO INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL.</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Se publican las declaraciones de intereses, patrimonial y fiscal de Neyra Josefa Godoy Rodriguez, de conformidad con la fracción VI del arábigo 1 del artículo 34 en correlación con el 17 de la Ley del Sistema Anticorrupción del Estado de Jalisco,así como el resolutivo tercero del Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco de fecha 27 de octubre de 2022.<p></p><span style="font-style: italic; color: #d8ad89">Publicado 27/10/2022</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Se publican las declaraciones de intereses, patrimonial y fiscal de Neyra Josefa Godoy Rodriguez, de conformidad con la fracción VI del arábigo 1 del artículo 34 en correlación con el 17 de la Ley del Sistema Anticorrupción del Estado de Jalisco,así como el resolutivo tercero del Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco de fecha 27 de octubre de 2022.<p></p><span style="font-style: italic; color: #d8ad89">Publicado </span></td>
   </tr>
 
    <tr style="height: 200px">
@@ -68,7 +68,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>VERSIÓN PÚBLICA DE LAS EVALUACIONES CURRICULARES DE LOS CANDIDATOS Y CANDIDATAS QUE LLEGARON A ESTA FASE DEL PROCESO PARA ELEGIR A UN NUEVO INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo por el que se da a conocer la versión pública de las evaluaciones curriculares, la suma de los puntajes y el promedio obtenido por quienes llegaron a esta fase del proceso para elegir a un nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado: 20/10/2022</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo por el que se da a conocer la versión pública de las evaluaciones curriculares, la suma de los puntajes y el promedio obtenido por quienes llegaron a esta fase del proceso para elegir a un nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado: </span></td>
   </tr>
 
 
@@ -78,7 +78,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN POR EL CUAL SE PUBLICA LA DINÁMICA PARA EL DESARROLLO DE LAS ENTREVISTAS A LAS Y LOS CANDIDATOS QUE FUERON SELECCIONADOS CONFORME A LA CONVOCATORIA PARA SER INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el cual se publica la dinámica para el desarrollo de las entrevistas a las y los candidatos que fueron seleccionados conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado 19/10/2022</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el cual se publica la dinámica para el desarrollo de las entrevistas a las y los candidatos que fueron seleccionados conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco<p></p><span style="font-style: italic; color: #d8ad89">Publicado </span></td>
   </tr>
 
  <tr style="height: 200px">
@@ -87,7 +87,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN POR EL CUAL SE PUBLICA FECHA Y HORA PARA REALIZAR LAS ENTREVISTAS A LAS Y LOS CANDIDATOS QUE FUERON SELECCIONADOS COMO LOS 10 MEJORES PERFILES CONFORME A LA CONVOCATORIA PARA SER INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el cual se publica fecha y hora para realizar las entrevistas a las y los candidatos que fueron seleccionados como los 10 mejores perfiles conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 19/10/2022</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el cual se publica fecha y hora para realizar las entrevistas a las y los candidatos que fueron seleccionados como los 10 mejores perfiles conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado </span></td>
   </tr>
 
 
@@ -97,7 +97,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN POR EL CUAL SE PUBLICAN LOS NOMBRES DE LAS Y LOS CANDIDATOS QUE PRESENTARON EXPEDIENTES COMPLETOS Y CUMPLIERON CON LOS REQUISITOS CONFORME A LA CONVOCATORIA PARA SER INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el cual se publican los nombres de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 18/10/2022</span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el cual se publican los nombres de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado </span></td>
   </tr>
 
   <tr style="height: 200px">
