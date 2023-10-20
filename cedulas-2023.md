@@ -11,21 +11,21 @@ feature_text: |
 
 <tr><th><b>NÚM. EXPEDIENTE</b></th><th><b>SUMA DE PUNTAJES</b></th><th><b>PUNTAJE PROMEDIO</b></th></tr>
 
-<tr><td><a href="/cedulas/04-ACPSJ-2020.pdf">6ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>160</span></div></td><td><div><span>53.33</span></div></td></tr>
+<tr><td><a href="/cedulas/04-ACPSJ-2020.pdf">6ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>161</span></div></td><td><div><span>53.7</span></div></td></tr>
 
 <tr><td><a href="/cedulas/16-ACPSJ-2020.pdf">4ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>153</span></div></td><td><div><span>51.00</span></div></td></tr>
 
-<tr><td><a href="/cedulas/07-ACPSJ-2020.pdf">2ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>144</span></div></td><td><div><span>48.00</span></div></td></tr>
+<tr><td><a href="/cedulas/07-ACPSJ-2020.pdf">2ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>145</span></div></td><td><div><span>48.3</span></div></td></tr>
 
-<tr><td><a href="/cedulas/18-ACPSJ-2020.pdf">7ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>134</span></div></td><td><div><span>44.67</span></div></td></tr>
+<tr><td><a href="/cedulas/18-ACPSJ-2020.pdf">7ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>130</span></div></td><td><div><span>43.3</span></div></td></tr>
 
-<tr><td><a href="/cedulas/15-ACPSJ-2020.pdf">3ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>113</span></div></td><td><div><span>37.67</span></div></td></tr>
+<tr><td><a href="/cedulas/15-ACPSJ-2020.pdf">3ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>125</span></div></td><td><div><span>41.7</span></div></td></tr>
 
-<tr><td><a href="/cedulas/03-ACPSJ-2020.pdf">5ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>109</span></div></td><td><div><span>36.33</span></div></td></tr>
+<tr><td><a href="/cedulas/03-ACPSJ-2020.pdf">5ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>124</span></div></td><td><div><span>41.3</span></div></td></tr>
 
-<tr><td><a href="/cedulas/02-ACPSJ-2020.pdf">1ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>106</span></div></td><td><div><span>35.33</span></div></td></tr>
+<tr><td><a href="/cedulas/02-ACPSJ-2020.pdf">1ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>108</span></div></td><td><div><span>36.0</span></div></td></tr>
 
-<tr><td><a href="/cedulas/05-ACPSJ-2020.pdf">8ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>97</span></div></td><td><div><span>32.33</span></div></td></tr>
+<tr><td><a href="/cedulas/05-ACPSJ-2020.pdf">8ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>105</span></div></td><td><div><span>35.0</span></div></td></tr>
 
 </tbody></table>
 <p></p>
