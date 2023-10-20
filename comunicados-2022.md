@@ -73,7 +73,7 @@ feature_text: |
 
 
  <tr style="height: 200px">
-    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/-Acuerdo de la Comisión de Selección por el cual se publica la dinámica para el desarrollo de las entrevistas a las y los candidatos que fueron seleccionados conforme a la convocatoria para ser integrante del Comité de Participación Social del S.pdf"> 
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/entrevistas a las y los candidatos"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN POR EL CUAL SE PUBLICA LA DINÁMICA PARA EL DESARROLLO DE LAS ENTREVISTAS A LAS Y LOS CANDIDATOS QUE FUERON SELECCIONADOS CONFORME A LA CONVOCATORIA PARA SER INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b>Publicado 19/10/2023</span>
@@ -82,7 +82,7 @@ feature_text: |
   </tr>
 
  <tr style="height: 200px">
-    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/.Acuerdo de la Comisión de Selección por el cual se publica fecha y hora para realizar las entrevistas a las y los candidatos que fueron seleccionados como los 10 mejores perfiles conforme a la convocatoria para ser integrante del Comité de Part.pdf"> 
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/10 mejores perfiles.pdf"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN POR EL CUAL SE PUBLICA FECHA Y HORA PARA REALIZAR LAS ENTREVISTAS A LAS Y LOS CANDIDATOS QUE FUERON SELECCIONADOS COMO LOS 10 MEJORES PERFILES CONFORME A LA CONVOCATORIA PARA SER INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b>Publicado 19/10/2023</span>
@@ -92,7 +92,7 @@ feature_text: |
 
 
  <tr style="height: 200px">
-    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/Acuerdo de la Comisión de Selección por el cual se publican los nombres de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Soc.pdf"> 
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/candidatos que presentaron expedientes completos y cumplieron con los requisitos.pdf"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN POR EL CUAL SE PUBLICAN LOS NOMBRES DE LAS Y LOS CANDIDATOS QUE PRESENTARON EXPEDIENTES COMPLETOS Y CUMPLIERON CON LOS REQUISITOS CONFORME A LA CONVOCATORIA PARA SER INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b>Publicado 19/10/2023</span>
@@ -101,7 +101,7 @@ feature_text: |
   </tr>
 
   <tr style="height: 200px">
-    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/Lista_de_expedientes_2022.pdf"> 
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/lista de expedientes.pdf"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="DOC-20231013-WA0030..pdf"></use></svg>
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>LISTA DE EXPEDIENTES RECIBIDOS EN FORMA FÍSICA Y POR CORREO ELECTRÓNICO EN EL PLAZO ESTABLECIDO EN LA CONVOCATORIA PARA ELEGIR A UN INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL (CPS) DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO (SAEJAL)</b></span>
