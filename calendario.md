@@ -3,7 +3,139 @@ title: ""
 feature_text: |
   # CALENDARIO
 ---
+<h4 style="text-align:center;">Calendario 2023</h4>
+<a href="Calendario de actividades 2023.pdf" target="_blank">
+<br><br>
+<table class="rwd-table" id="table-wrap">
+    <thead>
+        <tr>
+            <th>DÍA(S)</th>
+            <th>ACTIVIDAD</th>
+            <th>LUGAR</th>
+            <th>HORA</th> 
+        </tr>
+    </thead>
+    
+    <tbody>
+        <tr>
+            <td data-th="DÍA" >Jueves 29 de septiembre del 2022</td>
+            <td data-th="ACTIVIDAD">Rueda de prensa de emisiòn de la Convocatoria</td>
+            <td data-th="LUGAR">Av. Enrique Díaz de León número 90, Guadalajara, Jalisco</td>
+            <td data-th="HORA">10:00 horas</td>
+        </tr>
+        
+            <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍA" >Viernes 30 de septiembre al jueves 13 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Recepción de candidaturas (en físico y/o digital)</td>
+            <td data-th="LUGAR"> Av. Arcos, número 767. Col. Jardines del Bosque o vía electrónica al correo:
+            <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA">De lunes a viernes de las 9:00 a 15:00 horas Último día, hasta las 17:00 horas</td>
+        </tr>
+        
+        <tr>
+            <td data-th="DÍA">Viernes 30 de septiembre al jueves 13 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Recepción de candidaturas (correo electrónico)</td>
+            <td data-th="LUGAR">Vía electrónica al correo: 
+            <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA">Sin horario. Último día, hasta las 16:45 horas</td>
+        </tr>
+        
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Jueves 13 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para el cierre de recepción de candidaturas</td>
+            <td data-th="LUGAR">Av. Arcos número 767, Col. Jardines del Bosque</td>
+            <td data-th="HORA">17:00 horas</td>           
+        </tr>
+        
+        <tr>
+            <td data-th="DÍAS">Viernes 14 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Publicación de el listado de expedientes recibidos</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>           
+        </tr>
 
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Viernes 14 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Publicación de la Metodología para la evaluación documental y curricular de los expedientes presentados por las y los candidatos a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>
+          </tr>
+        
+        <tr>
+            <td data-th="DÍAS">Lunes 17 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para determinar qué aspirantes cumplen con la documentación requerida y los requisitos que establece la Ley y la Convocatoria</td>
+            <td data-th="LUGAR">Av. La Paz No. 2453, Col. Arcos Sur, C.P. 44130 (Esquina Calderón de la Barca), en Guadalajara. Teléfono: 33 3268 8888‏ ext. 18801, 18735 y 18733</td>
+            <td data-th="HORA"></td>   
+        </tr>
+        
+         <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Martes 18 de octubre de 2022.</td>
+            <td data-th="ACTIVIDAD">Publicación del listado de los aspirantes que cumplen con la documentación requerida y los requisitos que establece la Ley y la Convocatoria. Notificar a quienes no cumplen con los requisitos.</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/ Vía correo electrónico candidatos@comisionsaejalisco.org</td>
+            <td data-th="HORA"></td>  
+        </tr>
+        
+        <tr>
+            <td data-th="DÍAS">Miércoles 19 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para realizar Evaluación Curricular para determinar los mejores perfiles</td>
+            <td data-th="LUGAR">Av. La Paz No. 2453, Col. Arcos Sur, C.P. 44130 (Esquina Calderón de la Barca), en Guadalajara. Teléfono: 33 3268 8888‏ ext. 18801, 18735 y 18733. Unirse a la reunión Zoom https://udg-mx.zoom.us/j/87471812971?pwd=SlRpNHRVVk1jSzVKZ2VxejIyS3JaZz09</td>
+            <td data-th="HORA"></td>
+        </tr>
+        
+        <tr>
+            <td data-th="DÍAS">Miércoles 19 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Publicación de:
+                • Lista de los 10 seleccionados, 
+                • Calendario de entrevistas
+                • Lugar en que se llevarán a cabo las entrevistas</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>
+        </tr>
+        
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Lunes 24 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Realización de las entrevistas/comparecencias, públicas (invitados de sociedad civil, académicos y especialistas en la materia)</td>
+            <td data-th="LUGAR">Cámara de Comercio Av. Vallarta num. 4095 Colonia Fraccionamiento Camino Real, Zapopan, Jalisco. Salon Jalisco, planta baja. Ingreso por Niño Obrero.</td>
+            <td data-th="HORA"></td>
+        </tr>
+        
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Martes 25 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para elegir al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco para el período 2022-2027</td>
+            <td data-th="LUGAR">Cámara de Comercio Av. Vallarta num. 4095 Colonia Fraccionamiento Camino Real, Zapopan, Jalisco. Salon Jalisco, planta baja. Ingreso por Niño Obrero.</td>
+            <td data-th="HORA"></td>
+        </tr>
+        
+            <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Miércoles 26 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Publicación del Acuerdo de elección</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>
+        </tr>
+        
+            <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Miércoles 26 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Notificación al aspirante electo</td>
+            <td data-th="LUGAR">Via correo electrònico:
+                <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA"></td>
+        </tr>
+        
+            <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">Viernes 28 de octubre de 2022</td>
+            <td data-th="ACTIVIDAD">Toma de protesta al integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco para el período 2022-2027</td>
+            <td data-th="LUGAR">Por definir</td>
+            <td data-th="HORA"></td>
+        </tr>
+    </tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<!-- ------------------------------------- -->
 <h4 style="text-align:center;">Calendario 2022</h4>
 <a href="Calendario de actividades 2023.pdf" target="_blank">
 <br><br>
