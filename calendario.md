@@ -3,7 +3,7 @@ title: ""
 feature_text: |
   # CALENDARIO
 ---
-<!-- ------------------------------------- -->
+
 <h4 style="text-align:center;">Calendario 2023</h4>
 <a href="/documentos/Calendario-2023.pdf">
 <br><br>
