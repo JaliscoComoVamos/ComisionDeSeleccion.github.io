@@ -42,13 +42,6 @@ feature_text: |
         </tr>
         
         <tr style="background-color: #f2f2f2;">
-            <td data-th="DÍAS">Jueves 13 de octubre de 2022</td>
-            <td data-th="ACTIVIDAD">Sesión de la Comisión para el cierre de recepción de candidaturas</td>
-            <td data-th="LUGAR">Av. Arcos número 767, Col. Jardines del Bosque</td>
-            <td data-th="HORA">17:00 horas</td>           
-        </tr>
-        
-        <tr>
             <td data-th="DÍAS">Viernes 13 de octubre de 2023.</td>
             <td data-th="ACTIVIDAD">Publicación de el listado de expedientes recibidos</td>
             <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
