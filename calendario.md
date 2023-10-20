@@ -16,7 +16,7 @@ feature_text: |
             <th>HORA</th> 
         </tr>
     </thead>
-    
+ 
     <tbody>
         <tr>
             <td data-th="DÍA" >Viernes 29 de septiembre del 2023.</td>
