@@ -9,9 +9,9 @@ feature_text: |
 <p></p>
 <table class="table3"><tbody>
 
-<tr><th><b>NÚM. EXPEDIENTE</b></th><th><b>SUMA DE PUNTAJES</b></th><th><b>PUNTAJE PROMEDIO</b></th></tr>
+<tr><th><b></b></th><th><b>SUMA DE PUNTAJES</b></th><th><b>PUNTAJE PROMEDIO</b></th></tr>
 
-<tr><td><a href="/cedulas/04-ACPSJ-2020.pdf">6ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>161</span></div></td><td><div><span>53.7</span></div></td></tr>
+<tr><td><6ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>161</span></div></td><td><div><span>53.7</span></div></td></tr>
 
 <tr><td><a href="/cedulas/16-ACPSJ-2020.pdf">4ACPSJ/2023</a><span style="color:#75bec4;"></span></td><td><div><span>153</span></div></td><td><div><span>51.00</span></div></td></tr>
 
