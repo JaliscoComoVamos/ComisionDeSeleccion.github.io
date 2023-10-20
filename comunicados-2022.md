@@ -95,9 +95,9 @@ feature_text: |
     <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/candidatos-requisitos.pdf"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
-  <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN POR EL CUAL SE PUBLICAN LOS NOMBRES DE LAS Y LOS CANDIDATOS QUE PRESENTARON EXPEDIENTES COMPLETOS Y CUMPLIERON CON LOS REQUISITOS CONFORME A LA CONVOCATORIA PARA SER INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b>Publicado 13/10/2023</span>
+  <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN POR EL CUAL SE PUBLICAN LOS NOMBRES DE LAS Y LOS CANDIDATOS QUE PRESENTARON EXPEDIENTES COMPLETOS Y CUMPLIERON CON LOS REQUISITOS CONFORME A LA CONVOCATORIA PARA SER INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el cual se publican los nombres de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado </span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Acuerdo de la Comisión de Selección por el cual se publican los nombres de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 13/10/2023</span></td>
   </tr>
 
   <tr style="height: 200px">
