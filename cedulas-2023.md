@@ -3,7 +3,7 @@ title: ""
 feature_text: |
   # ACUERDO POR EL QUE SE DA A CONOCER LA VERSIÓN PÚBLICA DE LAS EVALUACIONES CURRICULARES, LA SUMA DE LOS PUNTAJES Y EL PROMEDIO OBTENIDO POR QUIENES LLEGARON A ESTA FASE DEL PROCESO PARA ELEGIR A UN NUEVO INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO 
 ---
-<div style="text-align:justify; line-height: 1.5rem"><span>Con fundamento en las bases segunda, quinta y octava de la Convocatoria emitida el 02 de octubre de 2020 para elegir a un integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco se da a conocer la versión pública de las evaluaciones curriculares, la suma de los puntajes y el promedio obtenido por quienes llegaron a esta fase del proceso para elegir a un nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, que son: 
+<div style="text-align:justify; line-height: 1.5rem"><span>Con fundamento en las bases segunda, quinta y octava de la Convocatoria emitida el 29 de septiembre de 2023 para elegir a un integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco se da a conocer la versión pública de las evaluaciones curriculares, la suma de los puntajes y el promedio obtenido por quienes llegaron a esta fase del proceso para elegir a un nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, que son:
 </span></div>
 <p></p>
 <p></p>
@@ -11,7 +11,7 @@ feature_text: |
 
 <tr><th><b>NÚM. EXPEDIENTE</b></th><th><b>SUMA DE PUNTAJES</b></th><th><b>PUNTAJE PROMEDIO</b></th></tr>
 
-<tr><td><a href="/cedulas/04-ACPSJ-2020.pdf">04 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>160</span></div></td><td><div><span>53.33</span></div></td></tr>
+<tr><td><a href="/cedulas/04-ACPSJ-2023.pdf">04 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>160</span></div></td><td><div><span>53.33</span></div></td></tr>
 
 <tr><td><a href="/cedulas/16-ACPSJ-2020.pdf">16 ACPSJ/2020</a><span style="color:#75bec4;"></span></td><td><div><span>153</span></div></td><td><div><span>51.00</span></div></td></tr>
 
