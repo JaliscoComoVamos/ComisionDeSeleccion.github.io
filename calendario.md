@@ -4,7 +4,7 @@ feature_text: |
   # CALENDARIO
 ---
 <h4 style="text-align:center;">Calendario 2023</h4>
-<a href="/documuentos/Calendario-2023.pdf" target="_blank">
+<a href="/documuentos/Calendario-2023.pdf">
 <br><br>
 <table class="rwd-table" id="table-wrap">
     <thead>
