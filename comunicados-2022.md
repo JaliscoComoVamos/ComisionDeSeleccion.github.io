@@ -120,7 +120,7 @@ feature_text: |
   </a></td>
    
   <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">I.  Antecedentes y marco normativo<br>II. Procedimientos e instrumentos de verificación de registro de valoración<br>III. Procedimiento de valoración de los expedientes presentados por los candidatos y candidatas (evaluación documental)<br>IV. Procedimiento de verificación de datos y perfil curricular contenido en los expedientes presentados por las y los candidatos (evaluación curricular)<br>
-<p></p><span style="font-style: italic; color: #d8ad89">Publicado 13/10/2022</span></td>
+<p></p><span style="font-style: italic; color: #d8ad89">Publicado 13/10/2023</span></td>
   </tr> 
 
 
