@@ -109,7 +109,7 @@ feature_text: |
   </a></td>
    
   <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de los aspirantes para elegir a un integrande del Comité de    Participación Social del Sistema Anticorrupción del Estado de Jalisco<br>
-  <p></p><span style="font-style: italic; color: #d8ad89">Publicado 13/10/2022</span></td>
+  <p></p><span style="font-style: italic; color: #d8ad89">Publicado 13/10/2023</span></td>
   </tr>  
   
   <tr style="height: 200px">
