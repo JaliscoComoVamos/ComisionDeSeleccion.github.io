@@ -9,7 +9,7 @@ feature_text: |
 <div class="row">
 <div class="column">
 <div style="text-align: center">
-<h6 style="color: #75bec4;">C. Monica Ruiz Preciadp/h6></div><p></p>
+<h6 style="color: #75bec4;">C. Monica Ruiz Preciado</h6></div><p></p>
 <br>
 
 <p style="text-align: center" class="svg_text_link3"><a href="/declaraciones/DECLARACION DE INTERESES 2023.pdf">Declaración de intereses</a></p>
