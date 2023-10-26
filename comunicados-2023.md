@@ -8,7 +8,7 @@ feature_text: |
 
 
   <tr style="height: 200px">
-    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> 
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"><a href="/CV-2023.md">  
       <a href="http://comisionsaejalisco.org/CV-2023"></a> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#document"></use></svg>
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
