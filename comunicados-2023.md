@@ -41,7 +41,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>TOMA DE PROTESTA</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;"><p></p><span style="font-style: italic; color: #d8ad89"></span></td>
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;"><p></p><span style="font-style: italic; color: #d8ad89"></span>25/10/2023</td>
   </tr>
 
  <tr style="height: 200px">
