@@ -17,7 +17,6 @@ feature_text: |
     <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;"> <p></p><span style="font-style: italic; color: #d8ad89"></span></td>
   </tr>
 
-
   <tr style="height: 200px">
   <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href=""> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#document"></use></svg>
