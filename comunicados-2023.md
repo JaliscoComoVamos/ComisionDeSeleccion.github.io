@@ -233,11 +233,7 @@ Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; co
   </tr> -->
   
  
-  
-
-
-</table>
-
+  </table>
 
 <p></p>
 <h4> Consulta los comunicados de los años anteriores:</h4>
