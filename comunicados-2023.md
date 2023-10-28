@@ -30,6 +30,7 @@ feature_text: |
     <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/actas/actas de comision de seleccion 2023.pdf"> 
       <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
+        
   <b>COMUNICADO OFICIAL</b></span>
   </a></td>
     <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Comunicado Oficial de la Comisión de Selección en relación al Acuerdo en el que se deja sin efecto la Convocatoria del 22 de Septiembre del 2021<p></p><span style="font-style: italic; color: #d8ad89">
