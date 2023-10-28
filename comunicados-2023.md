@@ -36,7 +36,7 @@ feature_text: |
       <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
   <b>COMUNICADO OFICIAL</b></span>
   </a></td>
-    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Comunicado Oficial de la Comisión de Selección en relación al Acuerdo en el que se deja sin efecto la Convocatoria del 22 de Septiembre del 2021<p></p><span style="font-style: italic; color: #d8ad89">
+    <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Comunicado Oficial de la Comisión de Selección en relación al Acuerdo en el que se deja sin efecto la Convocatoria del 19 de octubre del 2022<p></p><span style="font-style: italic; color: #d8ad89">
   </tr>
 
    <tr style="height: 200px">
