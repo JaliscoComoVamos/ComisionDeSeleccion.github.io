@@ -13,7 +13,7 @@ feature_text: |
   <b>VERSIÓN PÚBLICA DE LOS EXPEDIENTES QUE PRESENTARON LAS Y LOS CANDIDATOS  QUE CUMPLEN LOS REQUISITOS PARA SER INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO</b></span>
   </a></td>
     <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria para ser integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; color: #d8ad89">Publicado 19/10/2023</span></td>
-  </tr>
+  
 <b>ACTAS DE LAS SESIONES DE LA COMISIÓN DE SELECCIÓN</b></span>
   </a></td>
     <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;"><p></p><span style="font-style: italic; color: #d8ad89"></span></td>
