@@ -230,7 +230,7 @@ Anticorrupción del Estado de Jalisco <p></p><span style="font-style: italic; co
     <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Al ser un órgano colegiado con atribuciones de decisión pública, la Comisión de Selección del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, hace del conocimiento de la sociedad las fechas, lugares, agenda y acuerdos tomados durante sus sesiones de trabajo.<p></p><span style="font-style: italic; color: #d8ad89">Publicado 23/10/2020</span></td>
   </tr> -->
   
- 
+  </tr>
   </table>
 
 <p></p>
