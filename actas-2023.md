@@ -38,7 +38,6 @@ feature_text: |
 
 <p style="text-align:justify">Al ser un órgano colegiado con atribuciones de decisión publica, la Comisión de Selección del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, hace del conocimiento de la sociedad las fechas, lugares, agenda y acuerdos tomados durante sus sesiones de trabajo.
 
-<div class="flex-grid-fourths  actas" style="overflow-x: hidden;">
 
 <div class="col"><div style="text-align:center"> <br>
 <a href="/actas/ACTA 5-2023.pdf" class="svg_text_link2"> <svg class="icon" role="img" style="width: 32px; height: 32px;"> <use xlink:href="#doc-pdf"></use></svg><br>
