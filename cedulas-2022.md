@@ -20,9 +20,9 @@ feature_text: |
 
 <tr><td><a href="\cedulas\2022\04ACPSJ2022.pdf">4ACPSJ/2022</a>Omar Alejandro Peña Ugalde<span style="color:#75bec4;"></span></td><td><div><span>127</span></div></td><td><div><span>42.33</span></div></td></tr>
 
-<tr><td><a href="\cedulas\2022\05ACPSJ2022.pdf">5ACPSJ/2022</a>Lorenzo Hector Ruiz Lopez<span style="color:#75bec4;"></span></td><td><div><span>131</span>118</div></td><td><div><span>39.33</span></div></td></tr>
+<tr><td><a href="\cedulas\2022\05ACPSJ2022.pdf">5ACPSJ/2022</a>Lorenzo Hector Ruiz Lopez<span style="color:#75bec4;"></span></td><td><div><span>118</span></div></td><td><div><span>39.33</span></div></td></tr>
 
-<tr><td><a href="\cedulas\2022\06ACPSJ2022.pdf">6ACPSJ/2022</a>Rito Abel Orozco Jara<span style="color:#75bec4;"></span></td><td><div><span>96</span>115</div></td><td><div><span>38.33</span></div></td></tr>
+<tr><td><a href="\cedulas\2022\06ACPSJ2022.pdf">6ACPSJ/2022</a>Rito Abel Orozco Jara<span style="color:#75bec4;"></span></td><td><div><span>115</span></div></td><td><div><span>38.33</span></div></td></tr>
 
 <tr><td><a href="\cedulas\2022\07ACPSJ2022.pdf">7ACPSJ/2022</a>Emiliano Briseño Castellanos<span style="color:#75bec4;"></span></td><td><div><span>101</span></div></td><td><div><span>33.67</span></div></td></tr>
 
