@@ -28,7 +28,7 @@ feature_text: |
 
 <tr><td><a href="\cedulas\2022\08ACPSJ2022.pdf">8ACPSJ/2022</a>Claudia De Maria Konstanza Barbosa Padilla<span style="color:#75bec4;"></span></td><td><div><span>100</span></div></td><td><div><span>33.33</span></div></td></tr>
 
-<tr><td><a href="\cedulas\2022\09ACPSJ2022.pdf">9ACPSJ/2022</a>Vladimir Hurtado Burgos<span style="color:#75bec4;"></span></td><td><div><span>118</span>96</div></td><td><div><span>32.00</span></div></td></tr>
+<tr><td><a href="\cedulas\2022\09ACPSJ2022.pdf">9ACPSJ/2022</a>Vladimir Hurtado Burgos<span style="color:#75bec4;"></span></td><td><div><span>96</span></div></td><td><div><span>32.00</span></div></td></tr>
 
 </tbody></table>
 <p></p>
