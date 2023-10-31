@@ -11,7 +11,7 @@ feature_text: |
 
 <tr><th><b>NÚM. EXPEDIENTE</b></th><th><b>SUMA DE PUNTAJES</b></th><th><b>PUNTAJE PROMEDIO</b></th></tr>
 
-<tr><td><a href="\cedulas\2022\01ACPSJ2022.pdf">1ACPSJ/2022</a>Enrique Aldana Flores<span style="color:#75bec4;"></span><148</span></td><td><div><span>49.33</span></div></td><td><div><span>49.33</span></div></td></tr>
+<tr><td><a href="\cedulas\2022\01ACPSJ2022.pdf">1ACPSJ/2022</a>Enrique Aldana Flores<span style="color:#75bec4;"></span>148</span></td><td><div><span>49.33</span></div></td><td><div><span>49.33</span></div></td></tr>
 
 
 <tr><td><a href="\cedulas\2022\02ACPSJ2022.pdf">2ACPSJ/2022</a>Miguel Angel Hernandez Velazquez<span style="color:#75bec4;">140</span></td><td><div><span>46.67</span></div></td><td><div><span>42.33</span></div></td></tr>
