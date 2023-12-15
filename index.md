@@ -11,7 +11,7 @@ title: ""
 <div style="background-color: #262626; height:6px; width:100%; display:block;"></div>
 <p></p>
 <h4 style="color: #333; background: #fcf5bf; text-align: center; font-weight: normal; padding: 5px; font-family: Karla"><a target="_blank" href="http://comisionsaejalisco.org/documentos/convocatoria 2023.pdf">CONVOCATORIA 2023</a></h4>
-
+<h5 style="text-align: center;"><a target="_blank" href="http://comisionsaejalisco.org/documentos/Documento de seguridad CS_Censurado.pdf">Documento de seguridad Comisión de Selección</a></h5>
 <p></p>
   
   
