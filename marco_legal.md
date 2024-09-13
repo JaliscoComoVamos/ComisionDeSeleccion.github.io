@@ -9,8 +9,8 @@ feature_text: |
 Lee o descarga la documentación pertinente del marco legal:  
 <p></p>
 
-<ul><li style="margin-left: 25px"><a href = "https://congresoweb.congresojal.gob.mx/BibliotecaVirtual/legislacion/Códigos/Constitución%20Pol%C3%ADtica%20del%20Estado%20de%20Jalisco-070721.doc">Constitución Política del Estado de Jalisco</a></li>
-	<li style="margin-left: 25px"><a href = "https://congresoweb.congresojal.gob.mx/BibliotecaVirtual/legislacion/Leyes/Ley%20del%20Sistema%20Anticorrupci%C3%B3n%20del%20Estado%20de%20Jalisco-140921.doc">Ley del Sistema Anticorrupción del Estado de Jalisco</a></li>
+<ul><li style="margin-left: 25px"><a href = "/documentos/Constitucion-Politica-del-Estado-de-Jalisco-POEJ-14.marzo_.2024.pdf">Constitución Política del Estado de Jalisco</a></li>
+	<li style="margin-left: 25px"><a href = "/documentos/Ley-del-Sistema-Anticorrupcion-del-Estado-de-Jalisco-POEJ-08.jun_.23.pdf">Ley del Sistema Anticorrupción del Estado de Jalisco</a></li>
 	<li style="margin-left: 25px"><a href = "/documentos/Estatuto_de_la_Comision_de_Seleccion_v3.pdf">Estatuto de la Comisión de Selección</a></li>
 	<li style="margin-left: 25px"><a href = "/documentos/Documento de seguridad 2023.pdf">Documento de Seguridad de la Comisión de Selección del Sistema Estatal Anticorrupción del Estado de Jalisco</a></li>
 </ul>
