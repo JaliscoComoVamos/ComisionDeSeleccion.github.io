@@ -4,6 +4,132 @@ feature_text: |
   # CALENDARIO
 ---
 
+<h4 style="text-align:center;">Calendario 2024</h4>
+<a href="/documentos/Calendario-2024.pdf">Enlace a documento Calendario 2024</a>
+
+<br><br>
+<table class="rwd-table" id="table-wrap">
+    <thead>
+        <tr>
+            <th>DÍA(S)</th>
+            <th>ACTIVIDAD</th>
+            <th>LUGAR</th>
+            <th>HORA</th> 
+        </tr>
+    </thead>
+ 
+    <tbody>
+        <tr>
+            <td data-th="DÍA" >Viernes 11 de septiembre del 2024.</td>
+            <td data-th="ACTIVIDAD">Rueda de prensa de emisiòn de la Convocatoria</td>
+            <td data-th="LUGAR">Av. Arcos número 767, Col. Jardines del Bosque</td>
+            <td data-th="HORA">09:30 horas</td>
+        </tr>
+        
+            <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍA" >12 al 26 de septiembre de 2024.</td>
+            <td data-th="ACTIVIDAD">Recepción de candidaturas (fisicas)</td>
+            <td data-th="LUGAR"> En físico y USB.Av. Arcos número 767, Col. Jardines del Bosque</td>
+            <td data-th="HORA">De lunes a viernes de las 9:00 a 15:00 horas Último día, hasta las 17:00 horas</td>
+        </tr>
+        
+        <tr>
+            <td data-th="DÍA">12 al 26 de septiembre de 2024.</td>
+            <td data-th="ACTIVIDAD">Recepción de candidaturas (correo electrónico)</td>
+            <td data-th="LUGAR">Vía electrónica al correo: 
+            <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA">Sin horario. Último día, hasta las 16:45 horas</td>
+        </tr>
+        
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">30 de septiembre de 2024.</td>
+            <td data-th="ACTIVIDAD">Publicación de el listado de expedientes recibidos</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>           
+        </tr>
+
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">01 de octubre de 2024.</td>
+            <td data-th="ACTIVIDAD">Publicación de la Metodología para la evaluación documental y curricular de los expedientes presentados por las y los candidatos a integrar el Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>
+          </tr>
+        
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">04 de octubre de 2024.</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para determinar qué aspirantes cumplen con la documentación requerida y los requisitos que establece la Ley y la Convocatoria. </td>
+            <td data-th="LUGAR">Sesión virtual y presencial</td>
+            <td data-th="HORA">Av. Arcos núm. 767, Colonia Jardines del Bosque, CP 44520, Guadalajara, Jalisco.9:30 am </td>  
+        </tr>
+        
+        <tr>
+            <td data-th="DÍAS">04 de octubre de 2024.</td>
+            <td data-th="ACTIVIDAD">Publicación del listado de los aspirantes que cumplen con la documentación requerida y los requisitos que establece la Ley y la Convocatoria. Y notificar a quienes no resulten concursantes para la elección .</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/Vía correo electrónico <a href="mailto:candidatos@comisionsaejalisco.org"></a></td>
+            <td data-th="HORA">Av. Arcos núm. 767, Colonia Jardines del Bosque, CP 44520, Guadalajara, Jalisco.9:00 am</td>
+        </tr>
+                <tr>
+            <td data-th="DÍAS">Del 7 al 11 de octubre de 2024.</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para realizar evaluación curricular y determinar los 10 mejores perfiles</td>
+            <td data-th="LUGAR">Sesión virtual y presencial</td>
+            <td data-th="HORA">10:00 AM</td>
+        </tr>
+        
+        <tr>
+            <td data-th="DÍAS">11 de octubre de 2024.</td>
+            <td data-th="ACTIVIDAD">Publicación de:
+                • Lista de los 10 seleccionados, 
+                • Calendario de entrevistas
+                • Lugar en que se llevarán a cabo las entrevistas</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>
+        </tr>
+        
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">21 y 22 de octubre de 2024.</td>
+            <td data-th="ACTIVIDAD">Realización de las entrevistas/comparecencias, públicas (invitados de sociedad civil, académicos y especialistas en la materia)</td>
+            <td data-th="LUGAR">Av. Arcos número 767, Col. Jardines del Bosque /Cámara de comercio/ El Colegio de Jalisco</td>
+            <td data-th="HORA"> 9:00 am</td>
+        </tr>
+        
+        <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">28 de octubre de 2024.</td>
+            <td data-th="ACTIVIDAD">Sesión de la Comisión para elegir al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco para el período 2024-2029</td>
+            <td data-th="LUGAR">Sesión virtual y presencial</td>
+            <td data-th="HORA">9:30</td>
+        </tr>
+        
+            <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">28 de octubre de 2024.</td>
+            <td data-th="ACTIVIDAD">Publicación del Acuerdo de elección</td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/</td>
+            <td data-th="HORA"></td>
+        </tr>
+        
+            <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">28 de octubre de 2024.</td>
+            <td data-th="ACTIVIDAD">Notificación al aspirante electo</td>
+            <td data-th="LUGAR">Via correo electrònico:
+                <a href="mailto:candidatos@comisionsaejalisco.org">candidatos@comisionsaejalisco.org</a></td>
+            <td data-th="HORA"></td>
+        </tr>
+        
+            <tr style="background-color: #f2f2f2;">
+            <td data-th="DÍAS">29 de octubre de 2024</td>
+            <td data-th="ACTIVIDAD">Toma de protesta al integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco para el período 2024-2029</td>
+            <td data-th="LUGAR">Av. Arcos número 767, Col. Jardines del Bosque /Cámara de comercio/ El Colegio de Jalisco</td>
+            <td data-th="HORA">10:00 am</td>
+        </tr>
+    </tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<!-- ------------------------------------- -->
+
 <h4 style="text-align:center;">Calendario 2023</h4>
 <a href="/documentos/Calendario-2023.pdf">
 <br><br>
