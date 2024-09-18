@@ -5,7 +5,6 @@ feature_text: |
    ## Declaración Patrimonial
 ---
 
-Descarga el formulario para la **Declaración Patrimonial** en formato de XLSX. Al hacer click en el nombre del documento, se descargará el archivo a tu computadora. Se puede abrir este tipo de archivo con Microsoft Excel o [LibreOffice](https://es.libreoffice.org/) (software libre y de código abierto).
-<p></p><p></p>
-<p class="long"><a href="{{ site.url }}/documentos/Declaracion_patrimonial_funcionariosypersonasdeinterespublico.xlsx">Declaracion_patrimonial_funcionariosypersonasdeinterespublico.xlsx</a></p>
+<p>Descarga el formulario para la <strong>Declaración Patrimonial</strong> en formato XLSX. Al hacer clic en el nombre del documento, se descargará el archivo a tu computadora. Puedes abrir este tipo de archivo con Microsoft Excel o <a href="https://es.libreoffice.org/">LibreOffice</a> (software libre y de código abierto).</p>
 
+<p><a href="{{ site.url }}/documentos/Declaracion_patrimonial_funcionariosypersonasdeinterespublico.xlsx">Descargar Declaración Patrimonial (XLSX)</a></p>
