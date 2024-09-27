@@ -65,7 +65,7 @@ feature_text: |
         <tr>
             <td data-th="DÍAS">04 de octubre de 2024.</td>
             <td data-th="ACTIVIDAD">Publicación del listado de los aspirantes que cumplen con la documentación requerida y los requisitos que establece la Ley y la Convocatoria. Y notificar a quienes no resulten concursantes para la elección .</td>
-            <td data-th="LUGAR">http://comisionsaejalisco.org/Vía correo electrónico <a href="mailto:candidatos@comisionsaejalisco.org"></a></td>
+            <td data-th="LUGAR">http://comisionsaejalisco.org/<br>Vía correo electrónico: candidatos@comisionsaejalisco.org</td>
             <td data-th="HORA">Av. Arcos núm. 767, Colonia Jardines del Bosque, CP 44520, Guadalajara, Jalisco.9:00 am</td>
         </tr>
                 <tr>
