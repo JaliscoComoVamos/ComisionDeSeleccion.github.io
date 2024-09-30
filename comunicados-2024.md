@@ -14,6 +14,9 @@ feature_text: |
   </a></td>
    
   <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">Lista de los aspirantes para elegir a un integrande del Comité de Participación Social del Sistema Estatal Anticorrupción de Jalisco<br>
+      <a href="/documentos/Lista_expedientes_Publicar.docx" class="project-image-link" title="Lista Aspirantes2024">
+                    <img src="/favicons/docx_icon.png" alt="Lista Aspirantes2024">
+                </a>
   <p></p><span style="font-style: italic; color: #d8ad89">Publicado 30/09/2024</span></td>
   </tr>  
 
