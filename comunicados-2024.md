@@ -6,26 +6,26 @@ feature_text: |
 <style>
   #table-wrap2 {
     width: 100%;
-    border-spacing: 0 15px;
+    border-spacing: 0 9px;
     border-collapse: separate;
-    margin-left: 0;
   }
 
-  #table-wrap2 td {
-    padding: 1.5rem;
-    border-radius: 10px;
+  .comunicados {
+    padding: 1rem;
+    background-color: #333333;
+    color: #ffffff;
+    border: 2px solid #333333;
   }
 
   .comunicados a {
+    color: #ffffff;
     text-decoration: none;
-    color: #fff;
     display: flex;
     align-items: center;
   }
 
   .comunicados a:hover {
-    background-color: #444444;
-    transition: background-color 0.3s ease;
+    text-decoration: underline;
   }
 
   .comunicados svg {
@@ -33,56 +33,70 @@ feature_text: |
   }
 
   .specialunderline2.bigg {
-    line-height: 1.2rem;
+    line-height: 1rem;
     vertical-align: middle;
-    text-shadow: 0.05rem 0 #333, 0.1rem 0 #333;
+    text-shadow: 0.05rem 0 #333333, 0.1rem 0 #333333;
   }
 
-  #table-wrap2 td:first-child {
-    background-color: #333;
-    color: #fff;
-    border: 2px solid #333;
-  }
-
-  #table-wrap2 td:last-child {
+  .table-info {
+    padding: 1rem;
     background-color: #f0f0f0;
     border: 2px solid #696969;
-    color: #333;
+    line-height: 1.5rem;
+  }
+
+  .table-info img {
+    margin-top: 0.5rem;
+    max-width: 30px;
+    vertical-align: middle;
+  }
+
+  .publication-date {
+    font-style: italic;
+    color: #d8ad89;
   }
 </style>
 
 <table id="table-wrap2">
-  <tr>
+  <tr style="height: 200px">
     <td class="comunicados">
       <a href="/documentos/Lista_expedientes_Publicar 2024.pdf"> 
         <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
         <span class="specialunderline2 bigg">
-          <b>LISTA DE EXPEDIENTES RECIBIDOS EN FORMA FÍSICA Y POR CORREO ELECTRÓNICO...</b>
+          <b>LISTA DE EXPEDIENTES RECIBIDOS EN FORMA FÍSICA Y POR CORREO ELECTRÓNICO EN EL PLAZO ESTABLECIDO...</b>
         </span>
       </a>
     </td>
-    <td>
-      Lista de los aspirantes para elegir a un integrante del Comité de Participación Social del Sistema Estatal Anticorrupción de Jalisco
+    <td class="table-info">
+      Lista de los aspirantes para elegir a un integrante del Comité de Participación Social del Sistema Estatal Anticorrupción de Jalisco<br>
+      <a href="/documentos/Lista_expedientes_Publicar 2024.pdf" class="project-image-link" title="Lista Aspirantes2024PDF">
+        <img src="/favicons/icon_pdf.png" alt="Lista Aspirantes2024">
+      </a>
+      <br><span class="publication-date">Publicado 30/09/2024</span>
     </td>
   </tr>  
-  <tr>
+
+  <tr style="height: 200px">
     <td class="comunicados">
       <a href="/documentos/metodologia_evaluacion_documental_curricular_2024.pdf"> 
         <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
         <span class="specialunderline2 bigg">
-          <b>METODOLOGÍA PARA LA EVALUACIÓN DOCUMENTAL Y CURRICULAR...</b>
+          <b>METODOLOGÍA PARA LA EVALUACIÓN DOCUMENTAL Y CURRICULAR DE LOS EXPEDIENTES...</b>
         </span>
       </a>
     </td>
-    <td>
+    <td class="table-info">
       I. Antecedentes y marco normativo<br>
-      II. Procedimientos e instrumentos de verificación de registro<br>
-      III. Procedimiento de valoración de los expedientes<br>
-      IV. Procedimiento de verificación de datos y perfil curricular
+      II. Procedimientos e instrumentos de verificación de registro de valoración<br>
+      III. Procedimiento de valoración de los expedientes presentados (evaluación documental)<br>
+      IV. Procedimiento de verificación de datos y perfil curricular<br>
+      <a href="/documentos/metodologia_evaluacion_documental_curricular_2024.pdf" class="project-image-link" title="Metodología 2024 PDF">
+        <img src="/favicons/icon_pdf.png" alt="Metodología 2024 PDF">
+      </a>
+      <br><span class="publication-date">Publicado 01/10/2024</span>
     </td>
   </tr> 
 </table>
-
 
 
 <p></p>
