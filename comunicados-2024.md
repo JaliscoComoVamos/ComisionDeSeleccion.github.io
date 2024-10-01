@@ -4,11 +4,11 @@ feature_text: |
   # COMUNICADOS 2024
 ---
 
- <table id="table-wrap2" style="width: 100%; border-spacing: 0 9px; border-collapse: separate;">
+<table id="table-wrap2" style="width: 100%; border-spacing: 0 9px; border-collapse: separate;">
   <!-- First Row -->
   <tr style="height: 200px">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
-      <a href="/documentos/Lista_expedientes_Publicar 2024.pdf" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
+      <a href="/documentos/Lista_expedientes_Publicar 2024.pdf" target="_blank" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
          onmouseover="this.style.color='#ffa500';" 
          onmouseout="this.style.color='#ffffff';">
         <!-- Using xlink:href to reference the document icon -->
@@ -22,7 +22,7 @@ feature_text: |
     </td>
     <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
       Lista de los aspirantes para elegir a un integrante del Comité de Participación Social del Sistema Estatal Anticorrupción de Jalisco<br>
-      <a href="/documentos/Lista_expedientes_Publicar 2024.pdf" title="Lista Aspirantes 2024 PDF">
+      <a href="/documentos/Lista_expedientes_Publicar 2024.pdf" target="_blank" title="Lista Aspirantes 2024 PDF">
         <img src="/favicons/icon_pdf.png" alt="Lista Aspirantes 2024" style="max-width: 30px; vertical-align: middle;">
       </a>
       <br><span style="font-style: italic; color: #d8ad89;">Publicado 30/09/2024</span>
@@ -32,7 +32,7 @@ feature_text: |
   <!-- Second Row -->
   <tr style="height: 200px">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
-      <a href="/documentos/metodologia_evaluacion_documental_curricular_2024.pdf" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
+      <a href="/documentos/metodologia_evaluacion_documental_curricular_2024.pdf" target="_blank" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
          onmouseover="this.style.color='#ffa500';" 
          onmouseout="this.style.color='#ffffff';">
         <!-- Using xlink:href to reference the document icon -->
@@ -47,7 +47,7 @@ feature_text: |
     <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
       I. Antecedentes y marco normativo<br>
       II. Procedimientos e instrumentos de verificación de registro...<br>
-      <a href="/documentos/metodologia_evaluacion_documental_curricular_2024.pdf" title="Metodología Evaluación Curricular 2024 PDF">
+      <a href="/documentos/metodologia_evaluacion_documental_curricular_2024.pdf" target="_blank" title="Metodología Evaluación Curricular 2024 PDF">
         <img src="/favicons/icon_pdf.png" alt="Metodología Evaluación Curricular 2024 PDF" style="max-width: 30px; vertical-align: middle;">
       </a>
       <br><span style="font-style: italic; color: #d8ad89;">Publicado 01/10/2024</span>
