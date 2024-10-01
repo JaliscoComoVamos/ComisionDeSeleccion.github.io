@@ -20,6 +20,20 @@ feature_text: |
   <p></p><span style="font-style: italic; color: #d8ad89">Publicado 30/09/2024</span></td>
   </tr>  
 
+   <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; border: 2px solid #333333;"> <a href="/documentos/metodologia_evaluacion_documental_curricular_2024"> 
+      <svg class="icon" role="img" style="width: 23px; height: 23px;"><use xlink:href="#doc-pdf"></use></svg>
+      <span class="specialunderline2  bigg" style="line-height: 1rem; vertical-align: text-bottom; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333, -0.1rem 0 #333333, -0.15rem 0 #333333;">
+  <b>METODOLOGÍA PARA LA EVALUACIÓN DOCUMENTAL Y CURRICULAR DE LOS EXPEDIENTES PRESENTADOS POR LAS Y LOS CANDIDATOS A INTEGRAR EL COMITÉ DE PARTICIPACIÓN SOCIAL DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO</b></span>
+  </a></td>
+   
+  <td style="padding: 1rem; background-color: #f0f0f0; border: 2px solid #696969; line-height: 1.5rem;">I.  Antecedentes y marco normativo<br>II. Procedimientos e instrumentos de verificación de registro de valoración<br>III. Procedimiento de valoración de los expedientes presentados por los candidatos y candidatas (evaluación documental)<br>IV. Procedimiento de verificación de datos y perfil curricular contenido en los expedientes presentados por las y los candidatos (evaluación curricular)<br>
+     <a href="/documentos/metodologia_evaluacion_documental_curricular_2024" class="project-image-link" title="Lista Aspirantes2024PDF">
+                    <img src="/favicons/icon_pdf.png" alt="Lista Aspirantes2024">
+       </a>
+<p></p><span style="font-style: italic; color: #d8ad89">Publicado 01/10/2024</span></td>
+  </tr> 
+
 </table>
 
 
