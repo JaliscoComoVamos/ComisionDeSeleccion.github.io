@@ -81,7 +81,7 @@ feature_text: |
    <!-- Fourth Row -->
   <tr style="height: 200px">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
-      <a href="/CVs2024/cv-2024.md" target="_blank" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
+      <a href="/CVs2024/cv-2024" target="_blank" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
          onmouseover="this.style.color='#ffa500';" 
          onmouseout="this.style.color='#ffffff';">
         <!-- Using xlink:href to reference the document icon -->
@@ -95,7 +95,7 @@ feature_text: |
     </td>
     <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
       Lista de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria...<br>
-      <a href="/CVs2024/cv-2024.md" target="_blank" title="lista comision seleccion 2024 PDF">
+      <a href="/CVs2024/cv-2024" target="_blank" title="lista comision seleccion 2024 PDF">
         <img src="/favicons/icon_pdf.png" alt="Mlista" style="max-width: 30px; vertical-align: middle;">
       </a>
       <br><span style="font-style: italic; color: #d8ad89;">Publicado 08/10/2024</span>
