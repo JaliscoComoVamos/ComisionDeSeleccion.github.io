@@ -186,7 +186,7 @@ body {
   text-align: center;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
-    min-height: 30vh;
+    min-height: 20vh;
     width: 100%;
     @include flex-direction(column);
     @include justify-content(center)
@@ -893,7 +893,7 @@ span.showBodyOfDisplayOnHover {
     padding-bottom: 3rem;
     max-height: 100vh;
     .outer { 
-    min-height: 30vh;
+    min-height: 20vh;
     max-height: 100vh;
     } 
   }
