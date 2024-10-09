@@ -96,9 +96,9 @@ feature_text: |
     <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
       Lista de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria...<br>
       <a href="/CVs2024/cv-2024" target="_blank" title="lista comision seleccion 2024 PDF">
-        <img src="/favicons/icon_pdf.png" alt="Mlista" style="max-width: 30px; vertical-align: middle;">
+        <img src="/favicons/link-icon.jpg" alt="Mlista" style="max-width: 30px; vertical-align: middle;">
       </a>
-      <br><span style="font-style: italic; color: #d8ad89;">Publicado 08/10/2024</span>
+      <br><span style="font-style: italic; color: #d8ad89;">Publicado 09/10/2024</span>
     </td>
   </tr>
 </table>
