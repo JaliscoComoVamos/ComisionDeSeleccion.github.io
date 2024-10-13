@@ -105,7 +105,7 @@ feature_text: |
    <!-- fifth Row -->
   <tr style="height: 200px">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
-      <a href="/documentos/4. Mejores perfiles y cronograma entrevistas.pdf" target="_blank" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
+      <a href="/documentos/5. Dinámica para entrevistas -.pdf" target="_blank" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
          onmouseover="this.style.color='#ffa500';" 
          onmouseout="this.style.color='#ffffff';">
         <!-- Using xlink:href to reference the document icon -->
@@ -119,7 +119,7 @@ feature_text: |
     </td>
     <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
      Acuerdo de la Comisión de Selección por el cual se publica la dinámica para el desarrollo de las entrevistas a las y los candidatos que fueron seleccionados conforme a la convocatoria para ser integrante ..<br>
-      <a href="/documentos/4. Mejores perfiles y cronograma entrevistas.pdf" target="_blank" title="Acuerdo comision seleccion 2024 PDF">
+      <a href="/documentos/5. Dinámica para entrevistas -.pdf" target="_blank" title="Acuerdo comision seleccion 2024 PDF">
         <img src="/favicons/icon_pdf.png" alt="Metodología Evaluación Curricular 2024 PDF" style="max-width: 30px; vertical-align: middle;">
       </a>
       <br><span style="font-style: italic; color: #d8ad89;">Publicado 11/10/2024</span>
@@ -129,7 +129,7 @@ feature_text: |
    <!-- sixth Row -->
   <tr style="height: 200px">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
-      <a href="/documentos/5. Dinámica para entrevistas -.pdf" target="_blank" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
+      <a href="/documentos/4. Mejores perfiles y cronograma entrevistas.pdf" target="_blank" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
          onmouseover="this.style.color='#ffa500';" 
          onmouseout="this.style.color='#ffffff';">
         <!-- Using xlink:href to reference the document icon -->
@@ -143,7 +143,7 @@ feature_text: |
     </td>
     <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
       Acuerdo de la Comisión de Selección por el cual se publica fecha y hora para realizar las entrevistas a las y los candidatos que fueron seleccionados como los 10 mejores perfiles...<br>
-      <a href="/documentos/5. Dinámica para entrevistas -.pdf" target="_blank" title="Acuerdo comision seleccion 2024 PDF">
+      <a href="/documentos/4. Mejores perfiles y cronograma entrevistas.pdf" target="_blank" title="Acuerdo comision seleccion 2024 PDF">
         <img src="/favicons/icon_pdf.png" alt="Metodología Evaluación Curricular 2024 PDF" style="max-width: 30px; vertical-align: middle;">
       </a>
       <br><span style="font-style: italic; color: #d8ad89;">Publicado 11/10/2024</span>
