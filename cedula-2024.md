@@ -11,33 +11,82 @@ feature_text: |
 
 <tr><th><b>NÚM. EXPEDIENTE</b></th><th><b>SUMA DE PUNTAJES</b></th><th><b>PUNTAJE PROMEDIO</b></th></tr>
 
-<tr><td><a href="/cedulas/04-ACPSJ-2020.pd">13ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>143</span></div></td><td><div><span>47.67</span></div></td></tr>
+<tr>
+  <td>13ACPSJ/2024</td>
+  <td><div>143</div></td>
+  <td><div>47.67</div></td>
+</tr>
 
-<tr><td><a href="/cedulas/16-ACPSJ-2020.pf">2ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>138</span></div></td><td><div><span>46.00</span></div></td></tr>
+<tr>
+  <td>2ACPSJ/2024</td>
+  <td><div>138</div></td>
+  <td><div>46.00</div></td>
+</tr>
 
-<tr><td><a href="/cedulas/07-ACPSJ-202.pdf">1ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>137</span></div></td><td><div><span>45.67</span></div></td></tr>
+<tr>
+  <td>1ACPSJ/2024</td>
+  <td><div>137</div></td>
+  <td><div>45.67</div></td>
+</tr>
 
-<tr><td><a href="/cedulas/18-ACPSJ-2020.df">14ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>135</span></div></td><td><div><span>45.00</span></div></td></tr>
+<tr>
+  <td>14ACPSJ/2024</td>
+  <td><div>135</div></td>
+  <td><div>45.00</div></td>
+</tr>
 
-<tr><td><a href="/cedulas/15-ACPSJ-2020.df">7ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>134</span></div></td><td><div><span>44.67</span></div></td></tr>
+<tr>
+  <td>7ACPSJ/2024</td>
+  <td><div>134</div></td>
+  <td><div>44.67</div></td>
+</tr>
 
-<tr><td><a href="/cedulas/03-ACPSJ-2020pdf">4ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>124</span></div></td><td><div><span>41.33</span></div></td></tr>
+<tr>
+  <td>4ACPSJ/2024</td>
+  <td><div>124</div></td>
+  <td><div>41.33</div></td>
+</tr>
 
-<tr><td><a href="/cedulas/02-ACPSJ-2020.df">17ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>122</span></div></td><td><div><span>40.67</span></div></td></tr>
+<tr>
+  <td>17ACPSJ/2024</td>
+  <td><div>122</div></td>
+  <td><div>40.67</div></td>
+</tr>
 
-<tr><td><a href="/cedulas/05-ACPSJ-2020.pf">9ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>120</span></div></td><td><div><span>40.00</span></div></td></tr>
+<tr>
+  <td>9ACPSJ/2024</td>
+  <td><div>120</div></td>
+  <td><div>40.00</div></td>
+</tr>
 
-<tr><td><a href="/cedulas/01-ACPSJ-2020.df">6ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>118</span></div></td><td><div><span>39.33</span></div></td></tr>
+<tr>
+  <td>6ACPSJ/2024</td>
+  <td><div>118</div></td>
+  <td><div>39.33</div></td>
+</tr>
 
-<tr><td><a href="/cedulas/14-ACPSJ-2020.df">5ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>110</span></div></td><td><div><span>36.67</span></div></td></tr>
+<tr>
+  <td>5ACPSJ/2024</td>
+  <td><div>110</div></td>
+  <td><div>36.67</div></td>
+</tr>
 
-<tr><td><a href="/cedulas/06-ACPSJ-2020.df">10ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>110</span></div></td><td><div><span>36.67</span></div></td></tr>
+<tr>
+  <td>10ACPSJ/2024</td>
+  <td><div>110</div></td>
+  <td><div>36.67</div></td>
+</tr>
 
-<tr><td><a href="/cedulas/11-ACPSJ-2020.pd">11ACPSJ/2024</a><span style="color:#75bec4;"></span></td><td><div><span>110</span></div></td><td><div><span>36.67</span></div></td></tr>
+<tr>
+  <td>11ACPSJ/2024</td>
+  <td><div>110</div></td>
+  <td><div>36.67</div></td>
+</tr>
+
 
 
 </tbody></table>
 <p></p>
 <p><strong> Nota: El orden del listado es de manera decreciente al puntaje obtenido </strong></p>
 <p></p>
-<div style="text-align:justify; line-height: 1.5rem"><span>Se deja asentado que esta evaluación curricular se llevó a cabo en la sesión de la Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco realizada el 23 de octubre de 2020. Además que se cuenta con carta de aceptación de cada uno de los aspirantes que participaron en esta convocatoria para publicar los resultados de sus evaluaciones. </span></div>
+<div style="text-align:justify; line-height: 1.5rem"><span>Se deja asentado que esta evaluación curricular se llevó a cabo en la sesión de la Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco realizada el 11 de octubre de 2024. Además que se cuenta con carta de aceptación de cada uno de los aspirantes que participaron en esta convocatoria para publicar los resultados de sus evaluaciones. </span></div>
