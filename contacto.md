@@ -5,12 +5,11 @@ feature_text: |
 ---
 
 <p></p><p></p>
-La Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco, tiene el gusto de invitar a la sociedad civil para participar en la etapa de entrevistas a través de preguntas formuladas previamente a los aspirantes quienes se postularon para ser elegidos como un nuevo integrante del Comité de Participación Social vía correo electrónico a través del siguiente formulario:
+La Comisión de Selección del Sistema Anticorrupción de Jalisco te invita a participar en las entrevistas de los aspirantes al Comité de Participación Social. Puedes enviar tus preguntas para los candidatos al correo <span style="color: #007BFF;">contacto@comisionsaejalisco.org</span>. Recuerda que debes mandar tus preguntas al menos 24 horas antes de la fecha de la entrevista, que podrás ver más abajo en la imagen. ¡Gracias por tu interés en esta convocatoria 2024!
+
 <br>
 
-<p></p>
-
-<p></p>
+<img src="/documentos/entrevistas2024.jpg" alt="Calendario de entrevistas" style="display: block; margin: 0 auto; max-width:100%; height:auto;">
 
 
 <p></p><p></p><p></p><p></p>
