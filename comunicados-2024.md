@@ -192,7 +192,7 @@ feature_text: |
     <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
      Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco...<br>
       <a href="/documentos/Acuerdo designación integrante CPS_25oct2024.pdf" target="_blank" title="acuerdo comision seleccion 2024 PDF">
-        <img src="/favicons/link-icon.jpg" alt="Mlista" style="max-width: 30px; vertical-align: middle;">
+        <img src="/favicons/icon_pdf.png" alt="Mlista" style="max-width: 30px; vertical-align: middle;">
       </a>
       <br><span style="font-style: italic; color: #d8ad89;">Publicado 28/10/2024</span>
     </td>
