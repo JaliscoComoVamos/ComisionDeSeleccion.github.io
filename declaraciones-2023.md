@@ -19,7 +19,3 @@ feature_text: |
 </div>
 </div>
 
-
-<p></p>
-<p></p>
-<p></p>
