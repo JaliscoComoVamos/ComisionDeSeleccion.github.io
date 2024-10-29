@@ -7,14 +7,14 @@ feature_text: |
     <h6 style="color: #75bec4;">C. Arturo Antonio Ríos Bojórquez</h6>
 </div>
 
-<p style="text-align: center; line-height: 1.5rem;">
-    <a href="/declaraciones/8.2 Declaracion_intereses_candidatos_CPS.pdf" style="text-decoration: none; color: #333;">Declaración de intereses</a>
+<p style="text-align: center; line-height: 1.5rem;" class="svg_text_link3">
+    <a href="/declaraciones/8.2 Declaracion_intereses_candidatos_CPS.pdf" style="text-decoration: none; color: #333;" target="_blank">Declaración de intereses</a>
 </p>
-<p style="text-align: center; line-height: 1.5rem;">
-    <a href="/declaraciones/8.1 Declaracion_patrimonial_funcionariosypersonasdeinterespublico.pdf" style="text-decoration: none; color: #333;">Declaración patrimonial</a>
+<p style="text-align: center; line-height: 1.5rem;" class="svg_text_link3">
+    <a href="/declaraciones/8.1 Declaracion_patrimonial_funcionariosypersonasdeinterespublico.pdf" style="text-decoration: none; color: #333;" target="_blank">Declaración patrimonial</a>
 </p>
-<p style="text-align: center; line-height: 1.5rem;">
-    <a href="/declaraciones/8.2.1 Declaracion de Intereses ArturoAntonio Rios Bojorquez con firmas incluidas.pdf" style="text-decoration: none; color: #333;">Declaración fiscal</a>
+<p style="text-align: center; line-height: 1.5rem;" class="svg_text_link3">
+    <a href="/declaraciones/8.2.1 Declaracion de Intereses ArturoAntonio Rios Bojorquez con firmas incluidas.pdf" style="text-decoration: none; color: #333;" target="_blank">Declaración fiscal</a>
 </p>
 
 <div style="text-align:justify; line-height: 1.5rem;">
