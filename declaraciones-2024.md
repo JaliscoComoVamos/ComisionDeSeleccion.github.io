@@ -18,7 +18,7 @@ feature_text: |
 </p>
 
 <div style="text-align:justify; line-height: 1.5rem;">
-    <span>Lo anterior, de conformidad con la fracción VI del arábigo 1 del artículo 34 en correlación con el 17 de la Ley del Sistema Anticorrupción del Estado de Jalisco, así como el resolutivo tercero del Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco de fecha 25 de octubre de 2023.</span>
+    <span>Lo anterior, de conformidad con la fracción VI del arábigo 1 del artículo 34 en correlación con el 17 de la Ley del Sistema Anticorrupción del Estado de Jalisco, así como el resolutivo tercero del Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco de fecha 25 de octubre de 2024.</span>
 </div>
 
 
