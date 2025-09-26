@@ -79,7 +79,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Quiénes Somos: /quienes_somos/
-  Comunicados: /comunicados-2024/
+  Comunicados: /comunicados-2025/
   Convocatoria: 
   Formatos: 
   Marco Legal: /marco_legal/
@@ -88,6 +88,7 @@ navigation_header:
 
 navigation_footer:
   # Created by Jalisco Cómo Vamos: http://jaliscocomovamos.org/
+  # Updated by SESAJ
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: javascript:void(0)
