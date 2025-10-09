@@ -8,7 +8,7 @@ feature_text: |
   <!-- First Row -->
   <tr style="height: 200px">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
-      <a href="/documentos/Lista_expedientes_Publicar 2024.pdf" target="_blank" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
+      <a href="/documentos/LISTAEXPEDIENTESRECIBIDOS2025.pdf" target="_blank" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;" 
          onmouseover="this.style.color='#ffa500';" 
          onmouseout="this.style.color='#ffffff';">
         <!-- Using xlink:href to reference the document icon -->
@@ -22,10 +22,10 @@ feature_text: |
     </td>
     <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
       Lista de los aspirantes para elegir a un integrante del Comité de Participación Social del Sistema Estatal Anticorrupción de Jalisco<br>
-      <a href="/documentos/LISTAEXPEDIENTESRECIBIDOS2025.pdf" target="_blank" title="Lista Aspirantes 2024 PDF">
+      <a href="/documentos/LISTAEXPEDIENTESRECIBIDOS2025.pdf" target="_blank" title="Lista Aspirantes 2025 PDF">
         <img src="/favicons/icon_pdf.png" alt="Lista Aspirantes 2024" style="max-width: 30px; vertical-align: middle;">
       </a>
-      <br><span style="font-style: italic; color: #d8ad89;">Publicado 30/09/2024</span>
+      <br><span style="font-style: italic; color: #d8ad89;">Publicado 09/10/2025</span>
     </td>
   </tr>
 </table>
