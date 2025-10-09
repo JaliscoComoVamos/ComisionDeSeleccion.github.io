@@ -3,6 +3,10 @@ title: ""
 feature_text: |
   # CALENDARIOS
 ---
+<h4 style="text-align:center;">Calendario 2025</h4>
+<a href="/documentos/Calendarioactividades2025.pdf">Enlace a documento Calendario 2025</a>
+<br><br>
+
 
 <h4 style="text-align:center;">Calendario 2024</h4>
 <a href="/documentos/Calendario-2024.pdf">Enlace a documento Calendario 2024</a>
