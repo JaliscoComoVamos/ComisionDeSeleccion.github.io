@@ -98,6 +98,29 @@ feature_text: |
       <br><span style="font-style: italic; color: #d8ad89;">Publicado 13/10/2025</span>
     </td>
   </tr>
+
+  <!-- Fourth Row -->
+  <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
+      <a href="/CVs2025/cv-2025" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;"
+         onmouseover="this.style.color='#ffa500';"
+         onmouseout="this.style.color='#ffffff';">
+        <svg class="icon" aria-hidden="true" style="width: 23px; height: 23px; margin-right: 10px;">
+          <use href="#document"></use>
+        </svg>
+        <span style="text-decoration: underline; font-size: 0.9rem; line-height: 1.2rem; vertical-align: middle; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333;">
+          <b>VERSIÓN PÚBLICA DE LOS EXPEDIENTES QUE PRESENTARON LAS Y LOS CANDIDATOS QUE CUMPLEN LOS REQUISITOS...</b>
+        </span>
+      </a>
+    </td>
+    <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
+      Lista de las y los candidatos que presentaron expedientes completos y cumplieron con los requisitos conforme a la convocatoria...<br>
+      <a href="/CVs2025/cv-2025" target="_blank" rel="noopener noreferrer" title="Versión pública de expedientes 2025">
+        <img src="/favicons/link-icon.jpg" alt="Abrir listado de expedientes 2025" style="max-width: 30px; vertical-align: middle;">
+      </a>
+      <br><span style="font-style: italic; color: #d8ad89;">Publicado 16/10/2025</span>
+    </td>
+  </tr>
   
 </table>
 
