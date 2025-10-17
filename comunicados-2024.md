@@ -131,12 +131,12 @@ feature_text: |
           <use href="#document"></use>
         </svg>
         <span style="text-decoration: underline; font-size: 0.9rem; line-height: 1.2rem; vertical-align: middle; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333;">
-          <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN: FECHA Y HORA DE ENTREVISTAS A LOS 10 MEJORES PERFILES...</b>
+          <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN: FECHA Y HORA DE ENTREVISTAS A LOS MEJORES PERFILES...</b>
         </span>
       </a>
     </td>
     <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
-      Acuerdo de la Comisión de Selección por el cual se publica fecha y hora para realizar las entrevistas a las y los candidatos que fueron seleccionados como los 10 mejores perfiles...<br>
+      Acuerdo de la Comisión de Selección por el cual se publica fecha y hora para realizar las entrevistas a las y los candidatos que fueron seleccionados como los mejores perfiles...<br>
       <a href="/documentos/4.%20Mejores%20perfiles%20y%20cronograma%20entrevistas.pdf" target="_blank" rel="noopener noreferrer" title="Cronograma de entrevistas (PDF)">
         <img src="/favicons/icon_pdf.png" alt="Descargar PDF: Cronograma de entrevistas" style="max-width: 30px; vertical-align: middle;">
       </a>
