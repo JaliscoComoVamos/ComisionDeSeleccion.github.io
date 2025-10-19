@@ -99,6 +99,75 @@ feature_text: |
     </td>
   </tr>
 
+  <!-- Fifth Row -->
+  <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
+      <a href="/documentos/Dinamica para entrevistas2025.pdf" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;"
+         onmouseover="this.style.color='#ffa500';"
+         onmouseout="this.style.color='#ffffff';">
+        <svg class="icon" aria-hidden="true" style="width: 23px; height: 23px; margin-right: 10px;">
+          <use href="#document"></use>
+        </svg>
+        <span style="text-decoration: underline; font-size: 0.9rem; line-height: 1.2rem; vertical-align: middle; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333;">
+          <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN POR EL CUAL SE PUBLICA LA DINÁMICA PARA EL DESARROLLO DE LAS ENTREVISTAS...</b>
+        </span>
+      </a>
+    </td>
+    <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
+      Acuerdo de la Comisión de Selección por el cual se publica la dinámica para el desarrollo de las entrevistas a las y los candidatos que fueron seleccionados conforme a la convocatoria para ser integrante...<br>
+      <a href="/documentos/Dinamica para entrevistas2025.pdf" target="_blank" rel="noopener noreferrer" title="Dinámica para entrevistas (PDF)">
+        <img src="/favicons/icon_pdf.png" alt="Descargar PDF: Dinámica para entrevistas" style="max-width: 30px; vertical-align: middle;">
+      </a>
+      <br><span style="font-style: italic; color: #d8ad89;">Publicado 18/10/2025</span>
+    </td>
+  </tr>
+
+  <!-- Sixth Row -->
+  <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
+      <a href="/documentos/Mejores perfilescronograma entrevistas2025.pdf" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;"
+         onmouseover="this.style.color='#ffa500';"
+         onmouseout="this.style.color='#ffffff';">
+        <svg class="icon" aria-hidden="true" style="width: 23px; height: 23px; margin-right: 10px;">
+          <use href="#document"></use>
+        </svg>
+        <span style="text-decoration: underline; font-size: 0.9rem; line-height: 1.2rem; vertical-align: middle; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333;">
+          <b>ACUERDO DE LA COMISIÓN DE SELECCIÓN: FECHA Y HORA DE ENTREVISTAS A LOS MEJORES PERFILES...</b>
+        </span>
+      </a>
+    </td>
+    <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
+      Acuerdo de la Comisión de Selección por el cual se publica fecha y hora para realizar las entrevistas a las y los candidatos que fueron seleccionados como los mejores perfiles...<br>
+      <a href="/documentos/Mejores perfilescronograma entrevistas2025.pdf" target="_blank" rel="noopener noreferrer" title="Cronograma de entrevistas (PDF)">
+        <img src="/favicons/icon_pdf.png" alt="Descargar PDF: Cronograma de entrevistas" style="max-width: 30px; vertical-align: middle;">
+      </a>
+      <br><span style="font-style: italic; color: #d8ad89;">Publicado 18/10/2025</span>
+    </td>
+  </tr>
+
+   <!-- Seventh Row -->
+  <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
+      <a href="/documentos/puntajes2025.jpg" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;"
+         onmouseover="this.style.color='#ffa500';"
+         onmouseout="this.style.color='#ffffff';">
+        <svg class="icon" aria-hidden="true" style="width: 23px; height: 23px; margin-right: 10px;">
+          <use href="#document"></use>
+        </svg>
+        <span style="text-decoration: underline; font-size: 0.9rem; line-height: 1.2rem; vertical-align: middle; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333;">
+          <b>VERSIÓN PÚBLICA DE LAS EVALUACIONES CURRICULARES...</b>
+        </span>
+      </a>
+    </td>
+    <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
+      Acuerdo por el que se da a conocer la versión pública de las evaluaciones curriculares, la suma de los puntajes y el promedio...<br>
+      <a href="/documentos/puntajes2025.jpg" target="_blank" rel="noopener noreferrer" title="Evaluaciones curriculares 2024">
+        <img src="/favicons/link-icon.jpg" alt="Abrir evaluaciones curriculares 2024" style="max-width: 30px; vertical-align: middle;">
+      </a>
+      <br><span style="font-style: italic; color: #d8ad89;">Publicado 18/10/2025</span>
+    </td>
+  </tr>
+
  
   
 </table>
