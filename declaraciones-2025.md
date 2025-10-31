@@ -14,7 +14,7 @@ feature_text: |
     <a href="/declaraciones/declaración patrimonial para funcionarios y personas de interrd público.pdf" target="_blank">Declaración patrimonial</a>
 </p>
 <p style="text-align: center; line-height: 1.5rem;" class="svg_text_link3">
-    <a href="/declaraciones/8.2.1 Declaracion de Intereses ArturoAntonio Rios Bojorquez con firmas incluidas.pdf" target="_blank">Declaración fiscal</a>
+    <a href="/declaraciones/declaracioninteresescandidatosComiteparticipacionsocial2025.pdf" target="_blank">Declaración fiscal</a>
 </p>
 
 <div style="text-align:justify; line-height: 1.5rem;">
