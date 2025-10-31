@@ -191,7 +191,28 @@ feature_text: |
     </td>
   </tr>
 
- 
+   <!-- Ninth Row -->
+  <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
+      <a href="/declaraciones-2025" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;"
+         onmouseover="this.style.color='#ffa500';"
+         onmouseout="this.style.color='#ffffff';">
+        <svg class="icon" aria-hidden="true" style="width: 23px; height: 23px; margin-right: 10px;">
+          <use href="#document"></use>
+        </svg>
+        <span style="text-decoration: underline; font-size: 0.9rem; line-height: 1.2rem; vertical-align: middle; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333;">
+          <b>DECLARACIONES DEL NUEVO INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL</b>
+        </span>
+      </a>
+    </td>
+    <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
+      Se publican las declaraciones de intereses, patrimonial y fiscal de , de conformidad con la fracción VI del arábigo 1 del artículo 34 en correlación con el 17 de la Ley del Sistema Anticorrupción del Estado de Jalisco...<br>
+      <a href="/declaraciones-2025" target="_blank" rel="noopener noreferrer" title="Declaraciones 2025">
+        <img src="/favicons/link-icon.jpg" alt="Abrir declaraciones 2025" style="max-width: 30px; vertical-align: middle;">
+      </a>
+      <br><span style="font-style: italic; color: #d8ad89;">Publicado 30/10/2025 </span>
+    </td>
+  </tr>
   
 </table>
 
