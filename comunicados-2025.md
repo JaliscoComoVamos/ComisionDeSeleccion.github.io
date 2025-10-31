@@ -29,6 +29,29 @@ feature_text: |
     </td>
   </tr>
 
+  <!-- 1.5 Row -->
+  <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
+      <a href="/actas2025" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;"
+         onmouseover="this.style.color='#ffa500';"
+         onmouseout="this.style.color='#ffffff';">
+        <svg class="icon" aria-hidden="true" style="width: 23px; height: 23px; margin-right: 10px;">
+          <use href="#document"></use>
+        </svg>
+        <span style="text-decoration: underline; font-size: 0.9rem; line-height: 1.2rem; vertical-align: middle; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333;">
+          <b>ACTAS DE LAS SESIONES DE LA COMISIÓN DE SELECCIÓN</b>
+        </span>
+      </a>
+    </td>
+    <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
+     Al ser un órgano colegiado con atribuciones de decisión pública, la Comisión de Selección del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco, hace del conocimiento de la sociedad las fechas, lugares, agenda y acuerdos tomados durante sus sesiones de trabajo.<br>
+      <a href="/actas2025" target="_blank" rel="noopener noreferrer" title="Metodología de evaluación curricular 2025 (PDF)">
+        <img src="/favicons/link-icon.jpg" alt="actas 2025" style="max-width: 30px; vertical-align: middle;">
+      </a>
+      <br><span style="font-style: italic; color: #d8ad89;">Publicado 31/10/2025</span>
+    </td>
+  </tr>
+
    <!-- Second Row -->
   <tr style="height: 200px">
     <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
@@ -188,6 +211,29 @@ feature_text: |
         <img src="/favicons/link-icon.jpg" alt="Abrir evaluaciones curriculares 2024" style="max-width: 30px; vertical-align: middle;">
       </a>
       <br><span style="font-style: italic; color: #d8ad89;">Publicado 18/10/2025</span>
+    </td>
+  </tr>
+
+   <!-- Eighth Row -->
+  <tr style="height: 200px">
+    <td class="comunicados" style="padding: 1rem; background-color: #333333; color: #ffffff; border: 2px solid #333333; border-radius: 10px;">
+      <a href="/documentos/Acuerdodesig-integranteCPS31-10-2025.pdf" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; transition: color 0.3s ease;"
+         onmouseover="this.style.color='#ffa500';"
+         onmouseout="this.style.color='#ffffff';">
+        <svg class="icon" aria-hidden="true" style="width: 23px; height: 23px; margin-right: 10px;">
+          <use href="#document"></use>
+        </svg>
+        <span style="text-decoration: underline; font-size: 0.9rem; line-height: 1.2rem; vertical-align: middle; text-shadow: 0.1rem 0 #333333, 0.15rem 0 #333333;">
+          <b>ACUERDO DE NOMBRAMIENTO</b>
+        </span>
+      </a>
+    </td>
+    <td style="padding: 1rem; background-color: #f0f0f0; color: #333; border: 2px solid #696969; border-radius: 10px; line-height: 1.5rem;">
+      Acuerdo de la Comisión de Selección por el que se otorga el nombramiento al nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco...<br>
+      <a href="/documentos/Acuerdodesig-integranteCPS31-10-2025.pdf" target="_blank" rel="noopener noreferrer" title="Acuerdo de nombramiento (PDF)">
+        <img src="/favicons/icon_pdf.png" alt="Descargar PDF: Acuerdo de nombramiento" style="max-width: 30px; vertical-align: middle;">
+      </a>
+      <br><span style="font-style: italic; color: #d8ad89;">Publicado 31/10/2025</span>
     </td>
   </tr>
 
