@@ -17,7 +17,7 @@ feature_text: |
 <span class="specialunderline3  bigg" style="line-height: 2rem;">ACTA 2&nbsp;</span> </a><p></p><span class="small">18 de septiembre 2025</span></div> </div>
 
 <div class="col"><div style="text-align:center"> <br>
-<a href="/documentos/actas2025/Acta 03 CSSAEJAL 10-10-2025.pdf" class="svg_text_link2"> <svg class="icon" role="img" style="width: 32px; height: 32px;"> <use xlink:href="#doc-pdf"></use></svg><br>
+<a href="/documentos/actas2025/Acta03CSSAEJAL10-10-2025.pdf" class="svg_text_link2"> <svg class="icon" role="img" style="width: 32px; height: 32px;"> <use xlink:href="#doc-pdf"></use></svg><br>
 <span class="specialunderline3  bigg" style="line-height: 2rem;">ACTA 3&nbsp;</span> </a><p></p><span class="small">10 de octubre del 2025</span><p></p></div> </div>
 
 <div class="col"><div style="text-align:center"> <br>
