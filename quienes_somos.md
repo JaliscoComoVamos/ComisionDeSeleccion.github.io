@@ -52,7 +52,7 @@ Esta Comisión fue designada por el Congreso del Estado con fundamento en la Con
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/MonicaMaria.jpeg" width="220px">
 <a href="/documentos/CV-MONICA-MARIA-ORTIZ-GOMEZ.pdf" target="_blank">
 	<p><b style="color: #82D4DA">MÓNICA MARÍA OIRTIZ GÓMEZ</b></p>  </a>
-<p class="small">Académica en el área de Derecho, Analista y articulista político Local Asesor Jurídica</p></div></div>
+<p class="small">Académica en el área de Derecho, Analista y articulista político Local Asesor Jurídica.</p></div></div>
 
 <div class="col"><div style="text-align:center"> <img class="img-circle" src="/fotos/Raul Frias_propuesta UDGVirtual.jpg" width="220px"><a href="/03. RAUL FRIAS LUCIO.pdf" target="_blank">
 	<p><b style="color: #82D4DA">RAÚL FRÍAS LUCIO</b></p>  </a>
