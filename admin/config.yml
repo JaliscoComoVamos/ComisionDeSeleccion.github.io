@@ -1,0 +1,34 @@
+backend:
+  name: github
+  repo: JaliscoComoVamos/ComisionDeSeleccion.github.io
+  branch: master
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+site_url: "https://comisionsaejalisco.org"
+display_url: "https://comisionsaejalisco.org"
+
+collections:
+  - name: "paginas"
+    label: "Páginas"
+    files:
+
+      - name: "quienes_somos"
+        label: "Quiénes Somos"
+        file: "quienes_somos.md"
+
+        fields:
+          - label: "Título"
+            name: "title"
+            widget: "string"
+            required: false
+
+          - label: "Encabezado"
+            name: "feature_text"
+            widget: "text"
+            required: false
+
+          - label: "Contenido"
+            name: "body"
+            widget: "markdown"
