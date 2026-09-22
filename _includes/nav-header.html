@@ -95,6 +95,36 @@
 
   </li>
 
+    {% elsif item[0] contains 'Calendario' %}
+
+  <li class="item item--nav{% if page.url contains 'calendario' %} item--current{% endif %}">
+
+    <div class="dropdown">
+
+      <a href="javascript:void(0);" class="dropbtn">
+        Calendario
+      </a>
+
+      <ul class="dropdown-content">
+
+        <li>
+          <a href="{{ site.url }}/calendario-2026/">
+            Calendario 2026
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ site.url }}/calendario/">
+            Histórico 2017–2025
+          </a>
+        </li>
+
+      </ul>
+
+    </div>
+
+  </li>
+
         {% elsif item[0] contains 'Convocatoria' %}
             <li class="item  item--nav{% if page.url contains 'convocatoria' %}  item--current{% endif %}">
                 <div class="dropdown">
