@@ -4,7 +4,7 @@ feature_text: |
   # CONVOCATORIA 2026
 ---
 
-Descarga la **Convocatoria de proceso de selección para nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco 2025..** [Descargar aquí]({{ site.url }}/documentos/CONVOCATORIA-PARA-ELEGIR-CANDIDATO-CPS2026.pdf).
+Descarga la **Convocatoria de proceso de selección para nuevo integrante del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco 2026**. [Descargar aquí]({{ site.url }}/documentos/CONVOCATORIA-PARA-ELEGIR-CANDIDATO-CPS2026.pdf).
 
 <p></p>
 <p></p>
