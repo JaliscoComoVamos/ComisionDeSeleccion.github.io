@@ -17,6 +17,84 @@
             </div>
           </li>
 
+    {% elsif item[0] contains 'Comunicados' %}
+
+  <li class="item item--nav{% if page.url contains 'comunicados' %} item--current{% endif %}">
+
+    <div class="dropdown">
+
+      <a href="javascript:void(0);" class="dropbtn">
+        Comunicados
+      </a>
+
+      <ul class="dropdown-content">
+
+        <li>
+          <a href="{{ site.url }}/comunicados-2026/">
+            Comunicados 2026
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ site.url }}/comunicados-2025/">
+            Comunicados 2025
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ site.url }}/comunicados-2024/">
+            Comunicados 2024
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ site.url }}/comunicados-2023/">
+            Comunicados 2023
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ site.url }}/comunicados-2022/">
+            Comunicados 2022
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ site.url }}/comunicados-2021/">
+            Comunicados 2021
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ site.url }}/comunicados-2020/">
+            Comunicados 2020
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ site.url }}/comunicados-2019/">
+            Comunicados 2019
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ site.url }}/comunicados-2018/">
+            Comunicados 2018
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ site.url }}/comunicados-2017/">
+            Comunicados 2017
+          </a>
+        </li>
+
+      </ul>
+
+    </div>
+
+  </li>
+
         {% elsif item[0] contains 'Convocatoria' %}
             <li class="item  item--nav{% if page.url contains 'convocatoria' %}  item--current{% endif %}">
                 <div class="dropdown">
