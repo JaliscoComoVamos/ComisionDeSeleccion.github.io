@@ -5,16 +5,70 @@ feature_image: "/assets/logo.svg"
 title: ""
 ---
 
-<h4 style="text-align:center;"><a target="_blank" href="http://comisionsaejalisco.org/documentos/CONVOCATORIA-PARA-ELEGIR-CANDIDATO-CPS2025.pdf">CONVOCATORIA PARA ELEGIR A UN INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL (CPS) DEL SISTEMA.</a></h4>
-<p></p>
-<p></p>
-<div style="background-color: #262626; height:6px; width:100%; display:block;"></div>
-<p></p>
-<h4 style="color: #333; background: #fcf5bf; text-align: center; font-weight: normal; padding: 5px; font-family: Karla"><a target="_blank" href="http://comisionsaejalisco.org/documentos/CONVOCATORIA-PARA-ELEGIR-CANDIDATO-CPS2026.pdf">CONVOCATORIA 2026</a></h4>
-<h5 style="text-align: center;"><a target="_blank" href="http://comisionsaejalisco.org/documentos/Documento de seguridad CS_Censurado.pdf">Documento de seguridad Comisión de Selección</a></h5>
-<p></p>
-  
-  
+
+
+<!-- CMS-INICIO-START -->
+<!-- CMS-INICIO-DATA:W3sidGl0bGUiOiJDT05WT0NBVE9SSUEgUEFSQSBFTEVHSVIgQSBVTiBJTlRFR1JBTlRFIERFTCBDT01JVMOJIERFIFBBUlRJQ0lQQUNJw5NOIFNPQ0lBTCAoQ1BTKSBERUwgU0lTVEVNQS4iLCJ1cmwiOiIvZG9jdW1lbnRvcy9pbmljaW8vQ09OVk9DQVRPUklBLVBBUkEtRUxFR0lSLUNBTkRJREFUTy1DUFMyMDI2LnBkZiIsInN0eWxlIjoicHJpbWFyeSJ9LHsidGl0bGUiOiJDT05WT0NBVE9SSUEgMjAyNiIsInVybCI6Imh0dHA6Ly9jb21pc2lvbnNhZWphbGlzY28ub3JnL2RvY3VtZW50b3MvQ09OVk9DQVRPUklBLVBBUkEtRUxFR0lSLUNBTkRJREFUTy1DUFMyMDI2LnBkZiIsInN0eWxlIjoiaGlnaGxpZ2h0In0seyJ0aXRsZSI6IkRvY3VtZW50byBkZSBzZWd1cmlkYWQgQ29taXNpw7NuIGRlIFNlbGVjY2nDs24iLCJ1cmwiOiJodHRwOi8vY29taXNpb25zYWVqYWxpc2NvLm9yZy9kb2N1bWVudG9zL0RvY3VtZW50byBkZSBzZWd1cmlkYWQgQ1NfQ2Vuc3VyYWRvLnBkZiIsInN0eWxlIjoic2Vjb25kYXJ5In1d -->
+
+<h4
+style="
+text-align:center;
+"
+>
+
+<a
+target="_blank"
+rel="noopener noreferrer"
+href="/documentos/inicio/CONVOCATORIA-PARA-ELEGIR-CANDIDATO-CPS2026.pdf"
+>
+CONVOCATORIA PARA ELEGIR A UN INTEGRANTE DEL COMITÉ DE PARTICIPACIÓN SOCIAL (CPS) DEL SISTEMA.
+</a>
+
+</h4>
+
+
+<h4
+style="
+color:#333;
+background:#fcf5bf;
+text-align:center;
+font-weight:normal;
+padding:5px;
+font-family:Karla;
+"
+>
+
+<a
+target="_blank"
+rel="noopener noreferrer"
+href="http://comisionsaejalisco.org/documentos/CONVOCATORIA-PARA-ELEGIR-CANDIDATO-CPS2026.pdf"
+>
+CONVOCATORIA 2026
+</a>
+
+</h4>
+
+
+<h5
+style="
+text-align:center;
+"
+>
+
+<a
+target="_blank"
+rel="noopener noreferrer"
+href="http://comisionsaejalisco.org/documentos/Documento de seguridad CS_Censurado.pdf"
+>
+Documento de seguridad Comisión de Selección
+</a>
+
+</h5>
+
+
+<!-- CMS-INICIO-END -->
+
+
 <!--
 <p>&nbsp;</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CmKOKFF_-ZY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
