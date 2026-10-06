@@ -27,7 +27,7 @@ border-radius:10px;
 >
 
 <a
-href="/documentos/comunicados2026/CONVOCATORIA-PARA-ELEGIR-CANDIDATO-CPS2026.pdf"
+href="/documentos/comunicados2026/Lista de aspirantes a CPS 2026.pdf"
 target="_blank"
 rel="noopener noreferrer"
 style="
@@ -85,7 +85,7 @@ Lista de los aspirantes para elegir a un integrante del Comité de Participació
 <br>
 
 <a
-href="/documentos/comunicados2026/CONVOCATORIA-PARA-ELEGIR-CANDIDATO-CPS2026.pdf"
+href="/documentos/comunicados2026/Lista de aspirantes a CPS 2026.pdf"
 target="_blank"
 rel="noopener noreferrer"
 >
