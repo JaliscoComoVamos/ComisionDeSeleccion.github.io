@@ -110,7 +110,7 @@ font-style:italic;
 color:#d8ad89;
 "
 >
-Publicado 02/10/2026
+Publicado 06/10/2026
 </span>
 
 
@@ -215,7 +215,7 @@ font-style:italic;
 color:#d8ad89;
 "
 >
-Publicado 05/10/2026
+Publicado 06/10/2026
 </span>
 
 
