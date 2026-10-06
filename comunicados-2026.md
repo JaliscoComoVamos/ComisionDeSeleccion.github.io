@@ -4,10 +4,14 @@ feature_text: |
   # COMUNICADOS 2026
 ---
 
-<table id="table-wrap2"
-style="width:100%;
+<table
+id="table-wrap2"
+style="
+width:100%;
 border-spacing:0 9px;
-border-collapse:separate;">
+border-collapse:separate;
+"
+>
 
 <tr style="height:200px">
 
@@ -19,7 +23,8 @@ background-color:#333333;
 color:#ffffff;
 border:2px solid #333333;
 border-radius:10px;
-">
+"
+>
 
 <a
 href="/documentos/comunicados2026/CONVOCATORIA-PARA-ELEGIR-CANDIDATO-CPS2026.pdf"
@@ -39,7 +44,8 @@ style="
 width:23px;
 height:23px;
 margin-right:10px;
-">
+"
+>
 <use href="#document"></use>
 </svg>
 
@@ -49,13 +55,19 @@ text-decoration:underline;
 font-size:.9rem;
 line-height:1.2rem;
 vertical-align:middle;
-">
-<b>Pueba de Comunicado</b>
+"
+>
+
+<b>
+LISTA DE EXPEDIENTES RECIBIDOS EN FORMA FÍSICA Y POR CORREO ELECTRÓNICO EN EL PLAZO ESTABLECIDO...
+</b>
+
 </span>
 
 </a>
 
 </td>
+
 
 <td
 style="
@@ -65,9 +77,10 @@ color:#333;
 border:2px solid #696969;
 border-radius:10px;
 line-height:1.5rem;
-">
+"
+>
 
-prueba descripcion comunicado
+Lista de los aspirantes para elegir a un integrante del Comité de Participación Social del Sistema Estatal Anticorrupción de Jalisco
 
 <br>
 
@@ -79,21 +92,27 @@ rel="noopener noreferrer"
 
 <img
 src="/favicons/icon_pdf.png"
-alt="Pueba de Comunicado"
+alt="LISTA DE EXPEDIENTES RECIBIDOS EN FORMA FÍSICA Y POR CORREO ELECTRÓNICO EN EL PLAZO ESTABLECIDO..."
 style="
 max-width:30px;
 vertical-align:middle;
-">
+"
+>
 
 </a>
 
-<br><span
+
+<br>
+
+<span
 style="
 font-style:italic;
 color:#d8ad89;
-">
-Publicado 19/092026
+"
+>
+Publicado 02/10/2026
 </span>
+
 
 </td>
 
