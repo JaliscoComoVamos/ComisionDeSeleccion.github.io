@@ -26,16 +26,10 @@ border-radius:10px;
 "
 >
 
-<a
-href="/documentos/comunicados2026/Lista de aspirantes a CPS 2026.pdf"
-target="_blank"
-rel="noopener noreferrer"
-style="
-color:#ffffff;
-text-decoration:none;
-transition:color .3s ease;
-"
->
+<a href="/documentos/comunicados2026/Lista de aspirantes a CPS 2026.pdf"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#ffffff;text-decoration:none;transition:color .3s ease;">
 
 <svg
 class="icon"
@@ -84,22 +78,19 @@ Lista de los aspirantes para elegir a un integrante del Comité de Participació
 
 <br>
 
+
 <a
-href="/documentos/comunicados2026/Lista de aspirantes a CPS 2026.pdf"
-target="_blank"
-rel="noopener noreferrer"
+  href="/documentos/comunicados2026/Lista de aspirantes a CPS 2026.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
 >
-
-<img
-src="/favicons/icon_pdf.png"
-alt="LISTA DE EXPEDIENTES RECIBIDOS EN FORMA FÍSICA Y POR CORREO ELECTRÓNICO EN EL PLAZO ESTABLECIDO..."
-style="
-max-width:30px;
-vertical-align:middle;
-"
->
-
+  <img
+    src="/favicons/icon_pdf.png"
+    alt="LISTA DE EXPEDIENTES RECIBIDOS EN FORMA FÍSICA Y POR CORREO ELECTRÓNICO EN EL PLAZO ESTABLECIDO..."
+    style="max-width:30px;vertical-align:middle;"
+  >
 </a>
+
 
 
 <br>
@@ -131,16 +122,10 @@ border-radius:10px;
 "
 >
 
-<a
-href="/documentos/comunicados2026/METODOLOGIA PARA LA EVALUACION DOCUMENTAL Y CURRICULAR_2026.pdf"
-target="_blank"
-rel="noopener noreferrer"
-style="
-color:#ffffff;
-text-decoration:none;
-transition:color .3s ease;
-"
->
+<a href="/documentos/comunicados2026/METODOLOGIA PARA LA EVALUACION DOCUMENTAL Y CURRICULAR_2026.pdf"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#ffffff;text-decoration:none;transition:color .3s ease;">
 
 <svg
 class="icon"
@@ -189,22 +174,19 @@ I. Antecedentes y marco normativo<br>II. Procedimientos e instrumentos de verifi
 
 <br>
 
+
 <a
-href="/documentos/comunicados2026/METODOLOGIA PARA LA EVALUACION DOCUMENTAL Y CURRICULAR_2026.pdf"
-target="_blank"
-rel="noopener noreferrer"
+  href="/documentos/comunicados2026/METODOLOGIA PARA LA EVALUACION DOCUMENTAL Y CURRICULAR_2026.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
 >
-
-<img
-src="/favicons/icon_pdf.png"
-alt="METODOLOGÍA PARA LA EVALUACIÓN DOCUMENTAL Y CURRICULAR DE LOS EXPEDIENTES..."
-style="
-max-width:30px;
-vertical-align:middle;
-"
->
-
+  <img
+    src="/favicons/icon_pdf.png"
+    alt="METODOLOGÍA PARA LA EVALUACIÓN DOCUMENTAL Y CURRICULAR DE LOS EXPEDIENTES..."
+    style="max-width:30px;vertical-align:middle;"
+  >
 </a>
+
 
 
 <br>
@@ -236,16 +218,7 @@ border-radius:10px;
 "
 >
 
-<a
-href="https://comisionsaejalisco.org/comunicados-2026/"
-target="_blank"
-rel="noopener noreferrer"
-style="
-color:#ffffff;
-text-decoration:none;
-transition:color .3s ease;
-"
->
+<div style="color:#ffffff;">
 
 <svg
 class="icon"
@@ -274,7 +247,7 @@ AVISO SOBRE SUSPENSIÓN DEL PROCESO
 
 </span>
 
-</a>
+</div>
 
 </td>
 
@@ -294,22 +267,7 @@ Aviso: Se suspende el proceso de elección de integrante del CPS 2026 por falta 
 
 <br>
 
-<a
-href="https://comisionsaejalisco.org/comunicados-2026/"
-target="_blank"
-rel="noopener noreferrer"
->
 
-<img
-src="/favicons/link-icon.jpg"
-alt="AVISO SOBRE SUSPENSIÓN DEL PROCESO"
-style="
-max-width:30px;
-vertical-align:middle;
-"
->
-
-</a>
 
 
 <br>
