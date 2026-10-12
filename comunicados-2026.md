@@ -223,6 +223,111 @@ Publicado 06/10/2026
 
 </tr>
 
+<tr style="height:200px">
+
+<td
+class="comunicados"
+style="
+padding:1rem;
+background-color:#333333;
+color:#ffffff;
+border:2px solid #333333;
+border-radius:10px;
+"
+>
+
+<a
+href="https://comisionsaejalisco.org/comunicados-2026/"
+target="_blank"
+rel="noopener noreferrer"
+style="
+color:#ffffff;
+text-decoration:none;
+transition:color .3s ease;
+"
+>
+
+<svg
+class="icon"
+aria-hidden="true"
+style="
+width:23px;
+height:23px;
+margin-right:10px;
+"
+>
+<use href="#document"></use>
+</svg>
+
+<span
+style="
+text-decoration:underline;
+font-size:.9rem;
+line-height:1.2rem;
+vertical-align:middle;
+"
+>
+
+<b>
+AVISO SOBRE SUSPENSIÓN DEL PROCESO
+</b>
+
+</span>
+
+</a>
+
+</td>
+
+
+<td
+style="
+padding:1rem;
+background-color:#f0f0f0;
+color:#333;
+border:2px solid #696969;
+border-radius:10px;
+line-height:1.5rem;
+"
+>
+
+Aviso: Se suspende el proceso de elección de integrante del CPS 2026 por falta de ratificación de los miembros de la Comisión de Selección por parte del Congreso del Estado de Jalisco. <br><br>Una vez se les tome la protesta constitucional respectiva a los miembros de la Comisión se darán a conocer las nuevas fechas para continuar con el proceso de selección del integrante del CPS.
+
+<br>
+
+<a
+href="https://comisionsaejalisco.org/comunicados-2026/"
+target="_blank"
+rel="noopener noreferrer"
+>
+
+<img
+src="/favicons/link-icon.jpg"
+alt="AVISO SOBRE SUSPENSIÓN DEL PROCESO"
+style="
+max-width:30px;
+vertical-align:middle;
+"
+>
+
+</a>
+
+
+<br>
+
+<span
+style="
+font-style:italic;
+color:#d8ad89;
+"
+>
+Publicado 12/10/2026
+</span>
+
+
+</td>
+
+</tr>
+
 </table>
 
 <p></p>
