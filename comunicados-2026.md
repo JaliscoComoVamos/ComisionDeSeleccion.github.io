@@ -299,7 +299,10 @@ border-radius:10px;
 "
 >
 
-<div style="color:#ffffff;">
+<a href="/documentos/comunicados2026/Calendario de actividades 2026 (Actualizado Nov 2026).pdf"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#ffffff;text-decoration:none;transition:color .3s ease;">
 
 <svg
 class="icon"
@@ -328,7 +331,7 @@ En virtud de que el Pleno del H. Congreso del Estado de Jalisco ratificó por un
 
 </span>
 
-</div>
+</a>
 
 </td>
 
@@ -348,6 +351,18 @@ En virtud de que el Pleno del H. Congreso del Estado de Jalisco ratificó por un
 
 <br>
 
+
+<a
+  href="/documentos/comunicados2026/Calendario de actividades 2026 (Actualizado Nov 2026).pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="/favicons/icon_pdf.png"
+    alt="En virtud de que el Pleno del H. Congreso del Estado de Jalisco ratificó por un periodo de tres años a los miembros..."
+    style="max-width:30px;vertical-align:middle;"
+  >
+</a>
 
 
 
