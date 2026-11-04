@@ -326,7 +326,7 @@ vertical-align:middle;
 >
 
 <b>
-En virtud de que el Pleno del H. Congreso del Estado de Jalisco ratificó por un periodo de tres años a los miembros...
+AVISO DE REANUDACIÓN DEL PROCESO
 </b>
 
 </span>
@@ -359,7 +359,7 @@ En virtud de que el Pleno del H. Congreso del Estado de Jalisco ratificó por un
 >
   <img
     src="/favicons/icon_pdf.png"
-    alt="En virtud de que el Pleno del H. Congreso del Estado de Jalisco ratificó por un periodo de tres años a los miembros..."
+    alt="AVISO DE REANUDACIÓN DEL PROCESO"
     style="max-width:30px;vertical-align:middle;"
   >
 </a>
