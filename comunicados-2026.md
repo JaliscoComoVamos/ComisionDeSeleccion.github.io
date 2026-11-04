@@ -286,6 +286,87 @@ Publicado 12/10/2026
 
 </tr>
 
+<tr style="height:200px">
+
+<td
+class="comunicados"
+style="
+padding:1rem;
+background-color:#333333;
+color:#ffffff;
+border:2px solid #333333;
+border-radius:10px;
+"
+>
+
+<div style="color:#ffffff;">
+
+<svg
+class="icon"
+aria-hidden="true"
+style="
+width:23px;
+height:23px;
+margin-right:10px;
+"
+>
+<use href="#document"></use>
+</svg>
+
+<span
+style="
+text-decoration:underline;
+font-size:.9rem;
+line-height:1.2rem;
+vertical-align:middle;
+"
+>
+
+<b>
+En virtud de que el Pleno del H. Congreso del Estado de Jalisco ratificó por un periodo de tres años a los miembros...
+</b>
+
+</span>
+
+</div>
+
+</td>
+
+
+<td
+style="
+padding:1rem;
+background-color:#f0f0f0;
+color:#333;
+border:2px solid #696969;
+border-radius:10px;
+line-height:1.5rem;
+"
+>
+
+En virtud de que el Pleno del H. Congreso del Estado de Jalisco ratificó por un periodo de tres años a los miembros de la Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco, se declara reanudado el el proceso de elección de integrante del CPS 2026 según la convocatoria emitida el 18 de septiembre de 2026. Adjunto a este aviso se encuentra el nuevo calendario del proceso.
+
+<br>
+
+
+
+
+<br>
+
+<span
+style="
+font-style:italic;
+color:#d8ad89;
+"
+>
+Publicado 04/11/2026
+</span>
+
+
+</td>
+
+</tr>
+
 </table>
 
 <p></p>
