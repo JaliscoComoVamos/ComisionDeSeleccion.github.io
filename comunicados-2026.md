@@ -382,6 +382,102 @@ Publicado 04/11/2026
 
 </tr>
 
+<tr style="height:200px">
+
+<td
+class="comunicados"
+style="
+padding:1rem;
+background-color:#333333;
+color:#ffffff;
+border:2px solid #333333;
+border-radius:10px;
+"
+>
+
+<a href="/documentos/comunicados2026/lgutierrez_2026-11-05_16-08-27 (1).pdf"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#ffffff;text-decoration:none;transition:color .3s ease;">
+
+<svg
+class="icon"
+aria-hidden="true"
+style="
+width:23px;
+height:23px;
+margin-right:10px;
+"
+>
+<use href="#document"></use>
+</svg>
+
+<span
+style="
+text-decoration:underline;
+font-size:.9rem;
+line-height:1.2rem;
+vertical-align:middle;
+"
+>
+
+<b>
+Acuerdo de candidaturas descartadas en fase de evaluación documental
+</b>
+
+</span>
+
+</a>
+
+</td>
+
+
+<td
+style="
+padding:1rem;
+background-color:#f0f0f0;
+color:#333;
+border:2px solid #696969;
+border-radius:10px;
+line-height:1.5rem;
+"
+>
+
+Se publican los códigos de las y los aspirantes cuya candidatura se tiene por NO presentada, ya que no entregaron expedientes completos oportunamente o no cumplieron los requisitos en la fase de evaluación documental del proceso 2026.
+
+<br>
+
+
+<a
+  href="/documentos/comunicados2026/lgutierrez_2026-11-05_16-08-27 (1).pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="/favicons/icon_pdf.png"
+    alt="Acuerdo de candidaturas descartadas en fase de evaluación documental"
+    style="max-width:30px;vertical-align:middle;"
+  >
+</a>
+
+
+
+<br>
+
+<span
+style="
+font-style:italic;
+color:#d8ad89;
+"
+>
+Publicado 05/11/2026
+</span>
+
+
+</td>
+
+</tr>
+
 </table>
 
 <p></p>
