@@ -574,6 +574,102 @@ Publicado 05/11/2026
 
 </tr>
 
+<tr style="height:200px">
+
+<td
+class="comunicados"
+style="
+padding:1rem;
+background-color:#333333;
+color:#ffffff;
+border:2px solid #333333;
+border-radius:10px;
+"
+>
+
+<a href="/documentos/comunicados2026/Acuerdo Mejores perfiles y cronograma entrevistas 2026 firmado.pdf"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#ffffff;text-decoration:none;transition:color .3s ease;">
+
+<svg
+class="icon"
+aria-hidden="true"
+style="
+width:23px;
+height:23px;
+margin-right:10px;
+"
+>
+<use href="#document"></use>
+</svg>
+
+<span
+style="
+text-decoration:underline;
+font-size:.9rem;
+line-height:1.2rem;
+vertical-align:middle;
+"
+>
+
+<b>
+Acuerdo de 10 mejores perfiles y cronograma de entrevistas
+</b>
+
+</span>
+
+</a>
+
+</td>
+
+
+<td
+style="
+padding:1rem;
+background-color:#f0f0f0;
+color:#333;
+border:2px solid #696969;
+border-radius:10px;
+line-height:1.5rem;
+"
+>
+
+Acuerdo de la Comisión de Selección por el cual se publica fecha y hora para realizar las entrevistas a las y los candidatos que fueron seleccionados como los 10 mejores perfiles.
+
+<br>
+
+
+<a
+  href="/documentos/comunicados2026/Acuerdo Mejores perfiles y cronograma entrevistas 2026 firmado.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="/favicons/icon_pdf.png"
+    alt="Acuerdo de 10 mejores perfiles y cronograma de entrevistas"
+    style="max-width:30px;vertical-align:middle;"
+  >
+</a>
+
+
+
+<br>
+
+<span
+style="
+font-style:italic;
+color:#d8ad89;
+"
+>
+Publicado 10/11/2026
+</span>
+
+
+</td>
+
+</tr>
+
 </table>
 
 <p></p>
