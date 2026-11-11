@@ -766,6 +766,102 @@ Publicado 10/11/2026
 
 </tr>
 
+<tr style="height:200px">
+
+<td
+class="comunicados"
+style="
+padding:1rem;
+background-color:#333333;
+color:#ffffff;
+border:2px solid #333333;
+border-radius:10px;
+"
+>
+
+<a href="/documentos/comunicados2026/Versión pública de la tabla de puntajes de la evaluación curricular..jpeg"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#ffffff;text-decoration:none;transition:color .3s ease;">
+
+<svg
+class="icon"
+aria-hidden="true"
+style="
+width:23px;
+height:23px;
+margin-right:10px;
+"
+>
+<use href="#document"></use>
+</svg>
+
+<span
+style="
+text-decoration:underline;
+font-size:.9rem;
+line-height:1.2rem;
+vertical-align:middle;
+"
+>
+
+<b>
+Versión pública de la tabla de puntajes de la evaluación curricular.
+</b>
+
+</span>
+
+</a>
+
+</td>
+
+
+<td
+style="
+padding:1rem;
+background-color:#f0f0f0;
+color:#333;
+border:2px solid #696969;
+border-radius:10px;
+line-height:1.5rem;
+"
+>
+
+Descripción:  Versión pública de la suma de los puntajes y el promedio de las evaluaciones curriculares de las y los candidatos, señalando en verde los diez mejor evaluados, que pasan a la fase de entrevistas.
+
+<br>
+
+
+<a
+  href="/documentos/comunicados2026/Versión pública de la tabla de puntajes de la evaluación curricular..jpeg"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="/favicons/link-icon.jpg"
+    alt="Versión pública de la tabla de puntajes de la evaluación curricular."
+    style="max-width:30px;vertical-align:middle;"
+  >
+</a>
+
+
+
+<br>
+
+<span
+style="
+font-style:italic;
+color:#d8ad89;
+"
+>
+Publicado 10/11/2026
+</span>
+
+
+</td>
+
+</tr>
+
 </table>
 
 <p></p>
