@@ -1054,6 +1054,102 @@ Publicado 24/11/2026
 
 </tr>
 
+<tr style="height:200px">
+
+<td
+class="comunicados"
+style="
+padding:1rem;
+background-color:#333333;
+color:#ffffff;
+border:2px solid #333333;
+border-radius:10px;
+"
+>
+
+<a href="https://drive.google.com/drive/folders/1QfbsITXy8mSlDT_DBvx68pAxecrdvw2J?usp=sharing"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#ffffff;text-decoration:none;transition:color .3s ease;">
+
+<svg
+class="icon"
+aria-hidden="true"
+style="
+width:23px;
+height:23px;
+margin-right:10px;
+"
+>
+<use href="#document"></use>
+</svg>
+
+<span
+style="
+text-decoration:underline;
+font-size:.9rem;
+line-height:1.2rem;
+vertical-align:middle;
+"
+>
+
+<b>
+Declaración 3 de 3 del integrante designado
+</b>
+
+</span>
+
+</a>
+
+</td>
+
+
+<td
+style="
+padding:1rem;
+background-color:#f0f0f0;
+color:#333;
+border:2px solid #696969;
+border-radius:10px;
+line-height:1.5rem;
+"
+>
+
+Declaraciones patrimonial, fiscal y de intereses de Miguel Navarro Flores, en cumplimiento a la Ley General de Responsabilidades Administrativas.
+
+<br>
+
+
+<a
+  href="https://drive.google.com/drive/folders/1QfbsITXy8mSlDT_DBvx68pAxecrdvw2J?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="/favicons/link-icon.jpg"
+    alt="Declaración 3 de 3 del integrante designado"
+    style="max-width:30px;vertical-align:middle;"
+  >
+</a>
+
+
+
+<br>
+
+<span
+style="
+font-style:italic;
+color:#d8ad89;
+"
+>
+Publicado 24/11/2026
+</span>
+
+
+</td>
+
+</tr>
+
 </table>
 
 <p></p>
